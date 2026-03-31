@@ -1,0 +1,304 @@
+start,end,title,categories,description,organizer_name,organizer_email,attendees
+02/06/2025 11:00:00,02/06/2025 14:00:00,Exam,UniTask,,Cosmin Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>
+10/06/2025 14:00:00,10/06/2025 17:00:00,Exam,UniTask,,Cosmin Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>
+18/06/2025 14:00:00,18/06/2025 17:00:00,Exam,UniTask,,Cosmin Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>
+23/06/2025 11:00:00,23/06/2025 14:00:00,Exam,UniTask,,Cosmin Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>
+26/06/2025 17:00:00,26/06/2025 20:00:00,Exam,UniTask,,Cosmin Adrian Neamtiu,Cosmin-Adrian.Neamtiu@endava.com,Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>; Flora Balogh <Flora.Balogh@endava.com>
+06/06/2025 12:00:00,06/06/2025 15:00:00,Exam,UniTask,,Paul Valentin Vela,Paul-Valentin.Vela@endava.com,Paul Valentin Vela <Paul-Valentin.Vela@endava.com>
+26/06/2025 12:00:00,26/06/2025 15:00:00,Exam,UniTask,,Paul Valentin Vela,Paul-Valentin.Vela@endava.com,Paul Valentin Vela <Paul-Valentin.Vela@endava.com>
+05/06/2025 11:00:00,05/06/2025 13:00:00,Exam,UniTask,,Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>; Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>
+09/06/2025 11:00:00,09/06/2025 14:30:00,Exam,UniTask,,Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>; Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>
+16/06/2025 17:00:00,16/06/2025 20:30:00,Exam,UniTask,,Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>; Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>
+20/06/2025 11:00:00,20/06/2025 14:30:00,Exams,UniTask,,Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>; Flora Balogh <Flora.Balogh@endava.com>; Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>
+24/06/2025 20:00:00,24/06/2025 23:30:00,Exam,UniTask,,Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>; Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>
+27/06/2025 17:00:00,27/06/2025 20:00:00,Exam,UniTask,,Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>; Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>
+13/06/2025 11:00:00,13/06/2025 14:00:00,Exam,UniTask,,Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>
+04/06/2025 19:00:00,04/06/2025 21:00:00,Exam,UniTask,,Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>; Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>
+04/06/2025 12:30:00,04/06/2025 14:30:00,Exam,UniTask,,Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>
+09/06/2025 11:00:00,09/06/2025 14:30:00,Exam,UniTask,,Timotei Cristian Morar,Timotei-Cristian.Morar@endava.com,Timotei Cristian Morar <Timotei-Cristian.Morar@endava.com>
+13/06/2025 11:00:00,13/06/2025 14:30:00,Exam,UniTask,,Timotei Cristian Morar,Timotei-Cristian.Morar@endava.com,Timotei Cristian Morar <Timotei-Cristian.Morar@endava.com>
+04/06/2025 19:00:00,04/06/2025 21:00:00,Lab Project,UniTask,,Maria Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>
+10/06/2025 20:00:00,10/06/2025 21:00:00,Exam,UniTask,,Maria Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>
+13/06/2025 14:00:00,13/06/2025 17:00:00,Exam,UniTask,,Maria Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>
+18/06/2025 14:00:00,18/06/2025 17:00:00,Exam,UniTask,,Maria Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>
+02/06/2025 11:30:00,02/06/2025 15:30:00,Exam,UniTask,,Felix Cosmin Orga,Felix-Cosmin.Orga@endava.com,Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>
+03/06/2025 11:30:00,03/06/2025 13:00:00,Exam,UniTask,,Robert Erno Eminovici,Robert-Erno.Eminovici@endava.com,Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>; Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>
+05/06/2025 18:00:00,05/06/2025 19:00:00,Mózes Császár: Exam,UniTask,,Mozes Csaszar,Mozes.Csaszar@endava.com,
+05/06/2025 21:00:00,05/06/2025 22:00:00,Mózes Császár: Exam,UniTask,,Mozes Csaszar,Mozes.Csaszar@endava.com,
+12/06/2025 16:30:00,12/06/2025 18:00:00,Mózes Császár: Exam,UniTask,,Mozes Csaszar,Mozes.Csaszar@endava.com,
+10/06/2025 19:30:00,10/06/2025 23:00:00,Exam,UniTask,,Maria Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>
+13/06/2025 14:00:00,13/06/2025 17:00:00,Exam,UniTask,,Maria Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>
+18/06/2025 14:00:00,18/06/2025 17:00:00,Exam,UniTask,,Maria Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>
+06/06/2025 12:00:00,06/06/2025 15:00:00,Festivitate,UniTask,,Maria Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>
+03/06/2025 15:30:00,03/06/2025 17:30:00,Exam,UniTask,,Paul Valentin Vela,Paul-Valentin.Vela@endava.com,Paul Valentin Vela <Paul-Valentin.Vela@endava.com>
+10/06/2025 20:00:00,10/06/2025 23:00:00,Exam,UniTask,,Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>
+13/06/2025 13:30:00,13/06/2025 17:00:00,Exam,UniTask,,Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>
+18/06/2025 13:30:00,18/06/2025 17:00:00,Exam,UniTask,,Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>
+09/06/2025 11:00:00,09/06/2025 14:00:00,Exam,UniTask,,Daniel Rosu,Daniel.Rosu@endava.com,Daniel Rosu <Daniel.Rosu@endava.com>
+04/06/2025 19:00:00,04/06/2025 21:00:00,Lab exam,UniTask,,Andrei Tudor Mirza,Andrei-Tudor.Mirza@endava.com,Andrei Tudor Mirza <Andrei-Tudor.Mirza@endava.com>
+02/06/2025 16:30:00,02/06/2025 19:00:00,Exam,UniTask,,Andreea Gabriela Pop,Andreea-Gabriela.Pop@endava.com,Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>
+13/06/2025 11:00:00,13/06/2025 14:00:00,Exam,UniTask,,Anton Calin Stroia,Anton-Calin.Stroia@endava.com,Anton Calin Stroia <Anton-Calin.Stroia@endava.com>
+04/06/2025 13:00:00,04/06/2025 15:00:00,Exam,UniTask,,Ioana Botezatu,Ioana.Botezatu@endava.com,Ioana Botezatu <Ioana.Botezatu@endava.com>
+09/06/2025 11:00:00,09/06/2025 14:00:00,Exam,UniTask,,Anton Calin Stroia,Anton-Calin.Stroia@endava.com,Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>
+26/06/2025 00:00:00,27/06/2025 00:00:00,Graduation Day,UniTask,,Ioana Botezatu,Ioana.Botezatu@endava.com,Sebastian Ionel Filipovici <Sebastian-Ionel.Filipovici@endava.com>; Laura Rusanescu <Laura.Rusanescu@endava.com>; Robert Fedus <Robert.Fedus@endava.com>; Ioana Botezatu <Ioana.Botezatu@endava.com>
+03/06/2025 17:30:00,03/06/2025 21:30:00,Project presentation,UniTask,,Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>
+05/06/2025 21:00:00,05/06/2025 23:00:00,Lab,UniTask,,Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>
+06/06/2025 20:00:00,06/06/2025 21:00:00,Project presentation,UniTask,,Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>
+10/06/2025 20:00:00,10/06/2025 23:00:00,Exam,UniTask,,Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>
+06/06/2025 16:00:00,06/06/2025 17:00:00,Exam: Lab exam,UniTask,Lab exam,Alexandra Elena Pitaru,Alexandra-Elena.Pitaru@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>
+13/06/2025 20:00:00,13/06/2025 23:00:00,Exam,UniTask,,Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>
+18/06/2025 20:00:00,18/06/2025 23:00:00,Exam,UniTask,,Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>
+05/06/2025 13:00:00,05/06/2025 15:00:00,Exam: Lab exam,UniTask,Lab exam,Alexandra Elena Pitaru,Alexandra-Elena.Pitaru@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>
+23/06/2025 20:00:00,23/06/2025 23:00:00,Exam,UniTask,,Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>; Flora Balogh <Flora.Balogh@endava.com>
+30/06/2025 11:00:00,30/06/2025 17:00:00, Thesis Exam,UniTask,,Ioana Botezatu,Ioana.Botezatu@endava.com,Laura Rusanescu <Laura.Rusanescu@endava.com>; Ioana Botezatu <Ioana.Botezatu@endava.com>
+04/06/2025 12:30:00,04/06/2025 14:30:00,Exam,UniTask,,Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>
+05/06/2025 19:00:00,05/06/2025 21:00:00,Exam,UniTask,,Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>
+17/06/2025 11:30:00,17/06/2025 13:30:00,Exam,UniTask,,Vlad Andrei Groza,Vlad-Andrei.Groza@endava.com,Vlad Andrei Groza <Vlad-Andrei.Groza@endava.com>
+09/06/2025 14:00:00,09/06/2025 17:00:00,Exam,UniTask,,Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>
+12/06/2025 20:00:00,12/06/2025 23:00:00,Exam,UniTask,,Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>
+12/06/2025 20:00:00,12/06/2025 21:00:00,Exam,UniTask,,Gabriel Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>
+04/06/2025 21:00:00,04/06/2025 23:00:00,Exam,UniTask,,Gabriel Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>
+05/06/2025 19:00:00,05/06/2025 21:00:00,Exam,UniTask,,Gabriel Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>
+05/06/2025 18:30:00,05/06/2025 23:00:00,Labs/Project_Presentation: The labs start at 16\nBianca Chiorean,UniTask,The labs start at 16\nBianca Chiorean,Bianca Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>
+02/06/2025 19:00:00,02/06/2025 21:00:00,Project presentation,UniTask,,Alexandru Topan-Farcau,Alexandru.Topan@endava.com,Alexandru Topan-Farcau <Alexandru.Topan@endava.com>
+10/06/2025 20:00:00,10/06/2025 23:00:00,Exam: Bianca Chiorean,UniTask,Bianca Chiorean,Bianca Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>
+13/06/2025 13:30:00,13/06/2025 17:00:00,Exam: Bianca Chiorean,UniTask,Bianca Chiorean,Bianca Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>
+18/06/2025 14:00:00,18/06/2025 17:00:00,Exam: Bianca Chiorean,UniTask,Bianca Chiorean,Bianca Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>
+02/06/2025 20:00:00,02/06/2025 23:00:00,Curs,UniTask,,Emma Simina Muresan,Emma-Simina.Muresan@endava.com,Emma Simina Muresan <Emma-Simina.Muresan@endava.com>
+10/06/2025 17:00:00,10/06/2025 19:00:00,Exam,UniTask,,Emma Simina Muresan,Emma-Simina.Muresan@endava.com,Emma Simina Muresan <Emma-Simina.Muresan@endava.com>
+11/06/2025 17:00:00,11/06/2025 19:00:00,Project presentation,UniTask,,Emma Simina Muresan,Emma-Simina.Muresan@endava.com,Emma Simina Muresan <Emma-Simina.Muresan@endava.com>
+16/06/2025 20:00:00,16/06/2025 23:00:00,exam,UniTask,,Mircea Stefan Pop,Mircea-Stefan.Pop@endava.com,Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>
+13/06/2025 17:00:00,13/06/2025 20:00:00,exam,UniTask,,Mircea Stefan Pop,Mircea-Stefan.Pop@endava.com,Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>
+27/06/2025 17:00:00,27/06/2025 20:00:00,Exam,UniTask,,Mircea Stefan Pop,Mircea-Stefan.Pop@endava.com,Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>
+13/06/2025 14:00:00,13/06/2025 16:00:00,Exam,UniTask,,Marcos Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,Marcos Dimitris Fetcu <Marcos-Dimitris.Fetcu@endava.com>
+17/06/2025 14:00:00,17/06/2025 16:00:00,Exam,UniTask,,Marcos Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,Marcos Dimitris Fetcu <Marcos-Dimitris.Fetcu@endava.com>
+10/06/2025 20:00:00,10/06/2025 22:00:00,Exam,UniTask,,Adina Denisa Horj,Adina-Denisa.Horj@endava.com,Adina Denisa Horj <Adina-Denisa.Horj@endava.com>
+13/06/2025 20:00:00,13/06/2025 22:00:00,Exam,UniTask,,Adina Denisa Horj,Adina-Denisa.Horj@endava.com,Adina Denisa Horj <Adina-Denisa.Horj@endava.com>
+17/06/2025 20:00:00,17/06/2025 22:00:00,Exam,UniTask,,Adina Denisa Horj,Adina-Denisa.Horj@endava.com,Adina Denisa Horj <Adina-Denisa.Horj@endava.com>
+20/06/2025 20:00:00,20/06/2025 22:00:00,Exam,UniTask,,Adina Denisa Horj,Adina-Denisa.Horj@endava.com,Adina Denisa Horj <Adina-Denisa.Horj@endava.com>
+03/06/2025 19:00:00,03/06/2025 21:00:00,Exam,UniTask,,George Iulian Stoian,George-Iulian.Stoian@endava.com,George Iulian Stoian <George-Iulian.Stoian@endava.com>
+06/06/2025 18:00:00,06/06/2025 20:00:00,Exam,UniTask,,Sebastian Ionel Filipovici,Sebastian-Ionel.Filipovici@endava.com,Sebastian Ionel Filipovici <Sebastian-Ionel.Filipovici@endava.com>
+04/06/2025 17:00:00,04/06/2025 19:00:00,Exam,UniTask,,Robert Erno Eminovici,Robert-Erno.Eminovici@endava.com,Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>
+06/06/2025 13:00:00,06/06/2025 15:00:00,Exam,UniTask,,Raul Birsan,Raul.Birsan@endava.com,Raul Birsan <Raul.Birsan@endava.com>
+02/06/2025 20:00:00,02/06/2025 20:30:00,Project presentation,UniTask,,Lorena Maria Buzea,Lorena-Maria.Buzea@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>
+03/06/2025 13:00:00,03/06/2025 15:00:00,Course + Seminar,UniTask,,Lorena Maria Buzea,Lorena-Maria.Buzea@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>; Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>
+04/06/2025 19:00:00,04/06/2025 21:00:00,Project presentation,UniTask,,Lorena Maria Buzea,Lorena-Maria.Buzea@endava.com,Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>
+03/06/2025 13:30:00,03/06/2025 15:30:00,Exam,UniTask,,Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>
+02/06/2025 13:00:00,02/06/2025 15:00:00,Project presentation and lab exam,UniTask,,Ioan Sebastian Muresan,Ioan-Sebastian.Muresan@endava.com,Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>
+02/06/2025 16:30:00,02/06/2025 19:00:00,Colocviu,UniTask,,Ioan Sebastian Muresan,Ioan-Sebastian.Muresan@endava.com,Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>
+05/06/2025 19:30:00,05/06/2025 23:00:00,Laboratory,UniTask,,Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>
+04/06/2025 19:00:00,04/06/2025 21:00:00,Project Presentation,UniTask,,Ana Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,Ana Stefania Serbanoiu <Ana-Stefania.Serbanoiu@endava.com>
+04/06/2025 08:00:00,04/06/2025 10:00:00,Colocviu,UniTask,,Radu Ioan Maris,Radu-Ioan.Maris@endava.com,Radu Ioan Maris <Radu-Ioan.Maris@endava.com>
+05/06/2025 10:00:00,05/06/2025 12:00:00,Exam,UniTask,,Radu Ioan Maris,Radu-Ioan.Maris@endava.com,Radu Ioan Maris <Radu-Ioan.Maris@endava.com>
+03/06/2025 17:00:00,03/06/2025 19:00:00,Colocviu,UniTask,,Ariana Casandra Olaru,Ariana-Casandra.Olaru@endava.com,Ariana Casandra Olaru <Ariana-Casandra.Olaru@endava.com>
+27/06/2025 11:30:00,27/06/2025 18:00:00,CSSC Conference: I do not know exactly the hours,UniTask,I do not know exactly the hours,Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation Day,UniTask,,Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>
+15/07/2025 00:00:00,16/07/2025 00:00:00,Diploma Presentation,UniTask,,Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>
+30/06/2025 09:00:00,30/06/2025 15:00:00,Bachelor's Degree Exam,UniTask,,Bogdan Nicolae Cotta,Bogdan-Nicolae.Cotta@endava.com,Bogdan Nicolae Cotta <Bogdan-Nicolae.Cotta@endava.com>
+04/06/2025 00:30:00,04/06/2025 03:30:00,Curs,UniTask,,Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,Emma Simina Muresan <Emma-Simina.Muresan@endava.com>
+03/06/2025 13:00:00,03/06/2025 15:00:00,Exam,UniTask,,Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>
+06/06/2025 18:00:00,06/06/2025 23:00:00,Exam,UniTask,,Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>
+03/06/2025 12:00:00,03/06/2025 13:15:00,Project Presentation,UniTask,,Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>
+04/06/2025 19:00:00,04/06/2025 21:00:00,Lab Exam,UniTask,,Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>; Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>
+04/06/2025 12:00:00,04/06/2025 13:00:00,Examen,UniTask,,Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>
+13/06/2025 17:00:00,13/06/2025 20:00:00,Exam,UniTask,,Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>
+16/06/2025 20:00:00,16/06/2025 23:00:00,Exam,UniTask,,Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>
+24/06/2025 17:00:00,24/06/2025 20:00:00,Exam,UniTask,,Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>
+27/06/2025 17:00:00,27/06/2025 20:00:00,Exam,UniTask,,Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>
+06/06/2025 13:00:00,06/06/2025 15:00:00,Exam,UniTask,,Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>
+03/06/2025 19:00:00,03/06/2025 21:00:00,Lab Project,UniTask,,Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>
+03/06/2025 19:00:00,03/06/2025 21:00:00,Exam,UniTask,,Andreea Gabriela Pop,Andreea-Gabriela.Pop@endava.com,Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>
+06/06/2025 16:00:00,06/06/2025 19:00:00,Exam,UniTask,,Darius Fratila,Darius.Fratila@endava.com,Darius Fratila <Darius.Fratila@endava.com>
+05/06/2025 16:00:00,05/06/2025 19:00:00,Lab Project,UniTask,,Darius Fratila,Darius.Fratila@endava.com,Darius Fratila <Darius.Fratila@endava.com>
+12/06/2025 17:00:00,12/06/2025 20:00:00,Exam,UniTask,,Ariana Casandra Olaru,Ariana-Casandra.Olaru@endava.com,Ariana Casandra Olaru <Ariana-Casandra.Olaru@endava.com>
+06/06/2025 17:00:00,06/06/2025 19:00:00,Exam,UniTask,,Flora Balogh,Flora.Balogh@endava.com,Flora Balogh <Flora.Balogh@endava.com>
+09/06/2025 11:00:00,09/06/2025 14:00:00,Exam,UniTask,,Flora Balogh,Flora.Balogh@endava.com,Flora Balogh <Flora.Balogh@endava.com>
+13/06/2025 11:00:00,13/06/2025 14:00:00,Exam,UniTask,,Flora Balogh,Flora.Balogh@endava.com,Flora Balogh <Flora.Balogh@endava.com>
+26/06/2025 03:00:00,26/06/2025 21:00:00,Graduation day,UniTask,,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+09/06/2025 16:00:00,09/06/2025 19:00:00,Exam,UniTask,,Ionut Popescu,Ionut.Popescu@endava.com,Ionut Popescu <Ionut.Popescu@endava.com>
+23/06/2025 08:00:00,23/06/2025 12:00:00,Exam,UniTask,,Ionut Popescu,Ionut.Popescu@endava.com,Ionut Popescu <Ionut.Popescu@endava.com>
+03/06/2025 20:00:00,03/06/2025 21:00:00,Final Project Presentation,UniTask,,Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>
+04/06/2025 17:00:00,04/06/2025 19:30:00,Exam,UniTask,,George Iulian Stoian,George-Iulian.Stoian@endava.com,
+10/06/2025 14:00:00,10/06/2025 17:30:00,Exam,UniTask,,Daniel Rosu,Daniel.Rosu@endava.com,Daniel Rosu <Daniel.Rosu@endava.com>
+04/06/2025 17:00:00,04/06/2025 19:00:00,Curs,UniTask,,Andreea Gabriela Pop,Andreea-Gabriela.Pop@endava.com,Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>
+16/06/2025 17:00:00,16/06/2025 20:00:00,Exam,UniTask,,Flora Balogh,Flora.Balogh@endava.com,Flora Balogh <Flora.Balogh@endava.com>
+10/06/2025 00:00:00,11/06/2025 00:00:00,Exam,UniTask,,Radu Ioan Maris,Radu-Ioan.Maris@endava.com,
+10/06/2025 13:00:00,10/06/2025 16:00:00,Exam,UniTask,,Daniel Kewin Chifa,Daniel-Kewin.Chifa@endava.com,Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>
+19/06/2025 13:00:00,19/06/2025 17:01:00,Exam,UniTask,,Daniel Kewin Chifa,Daniel-Kewin.Chifa@endava.com,Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>
+23/06/2025 14:00:00,23/06/2025 17:00:00,Exam,UniTask,,Daniel Kewin Chifa,Daniel-Kewin.Chifa@endava.com,Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>
+27/06/2025 14:00:00,27/06/2025 17:30:00,exam,UniTask,,Daniel Kewin Chifa,Daniel-Kewin.Chifa@endava.com,Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>
+05/06/2025 13:00:00,05/06/2025 13:45:00,Project,UniTask,,Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>
+06/06/2025 08:00:00,06/06/2025 13:00:00,Festivitate,UniTask,,Radu Ioan Maris,Radu-Ioan.Maris@endava.com,Radu Ioan Maris <Radu-Ioan.Maris@endava.com>
+10/06/2025 16:00:00,10/06/2025 20:00:00,Exam,UniTask,,Radu Ioan Maris,Radu-Ioan.Maris@endava.com,Radu Ioan Maris <Radu-Ioan.Maris@endava.com>
+06/06/2025 17:00:00,06/06/2025 18:00:00,Exam,UniTask,,Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>
+10/06/2025 14:00:00,10/06/2025 16:30:00,Exam,UniTask,,Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>
+16/06/2025 14:00:00,16/06/2025 16:00:00,Exam,UniTask,,Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>
+20/06/2025 17:00:00,20/06/2025 19:00:00,Exam,UniTask,,Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>
+25/06/2025 14:00:00,25/06/2025 16:00:00,Exam,UniTask,,Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>
+10/06/2025 20:00:00,10/06/2025 23:00:00,Exam,UniTask,,Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>
+13/06/2025 14:00:00,13/06/2025 17:00:00,Exam,UniTask,,Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>
+18/06/2025 14:00:00,18/06/2025 17:00:00,Exam,UniTask,,Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation Day,UniTask,,Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>
+06/06/2025 20:00:00,06/06/2025 23:00:00,Project presentation,UniTask,,Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>
+13/06/2025 11:00:00,13/06/2025 14:00:00,Exam,UniTask,,Daria Alexia Irimie,Daria-Alexia.Irimie@endava.com,Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>
+16/06/2025 14:00:00,16/06/2025 17:00:00,Exam,UniTask,,Daria Alexia Irimie,Daria-Alexia.Irimie@endava.com,Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation,UniTask,,Daria Alexia Irimie,Daria-Alexia.Irimie@endava.com,Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>
+09/06/2025 11:00:00,09/06/2025 14:00:00,Exam,UniTask,,Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,
+06/06/2025 19:30:00,06/06/2025 21:00:00,Project Presentation,UniTask,,Ioana Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>
+10/06/2025 17:00:00,10/06/2025 20:00:00, Exam - Security Audit,UniTask,,George Stefan Bodogae,George-Stefan.Bodogae@endava.com,George Stefan Bodogae <George-Stefan.Bodogae@endava.com>
+10/06/2025 20:00:00,10/06/2025 23:00:00,Exam,UniTask,,Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>
+10/06/2025 20:00:00,10/06/2025 23:00:00,Exam,UniTask,,Ioana Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>
+12/06/2025 19:00:00,12/06/2025 22:00:00,Exam,UniTask,,Robert Erno Eminovici,Robert-Erno.Eminovici@endava.com,Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>; Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>
+11/06/2025 12:30:00,11/06/2025 15:00:00,Project presentation,UniTask,,Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>
+20/06/2025 13:30:00,20/06/2025 15:30:00,Exam,UniTask,,Vlad Andrei Groza,Vlad-Andrei.Groza@endava.com,Vlad Andrei Groza <Vlad-Andrei.Groza@endava.com>
+10/06/2025 14:00:00,10/06/2025 17:00:00,Exam,UniTask,,Gabriel Firisar,Gabriel.Firisar@endava.com,Gabriel Firisar <Gabriel.Firisar@endava.com>
+26/06/2025 00:00:00,27/06/2025 00:00:00,Graduation Day: Graduation Day UBB,UniTask,Graduation Day UBB,Dragos Ionut Talaba,Dragos-Ionut.Talaba@endava.com,Dragos Ionut Talaba <Dragos-Ionut.Talaba@endava.com>
+30/06/2025 00:00:00,01/07/2025 00:00:00,Bachelor's Degree Exam,UniTask,,Dragos Ionut Talaba,Dragos-Ionut.Talaba@endava.com,Dragos Ionut Talaba <Dragos-Ionut.Talaba@endava.com>
+13/06/2025 11:00:00,13/06/2025 14:00:00,Pascan Daniela: Exam,UniTask,,Daniela Maria Pascan,Daniela-Maria.Pascan@endava.com,
+12/06/2025 18:00:00,12/06/2025 20:00:00,Exam,UniTask,,Ana Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,Ana Stefania Serbanoiu <Ana-Stefania.Serbanoiu@endava.com>
+16/06/2025 14:00:00,16/06/2025 17:00:00,Pascan Daniela: Exam,UniTask,,Daniela Maria Pascan,Daniela-Maria.Pascan@endava.com,
+01/07/2025 00:00:00,02/07/2025 00:00:00,Pascan Daniela: Graduation,UniTask,,Daniela Maria Pascan,Daniela-Maria.Pascan@endava.com,
+13/06/2025 13:30:00,13/06/2025 17:30:00,Exam,UniTask,,George Iulian Stoian,George-Iulian.Stoian@endava.com,George Iulian Stoian <George-Iulian.Stoian@endava.com>
+13/06/2025 13:30:00,13/06/2025 17:30:00,Exam,UniTask,,Andreea Gabriela Pop,Andreea-Gabriela.Pop@endava.com,Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation,UniTask,,Andreea Gabriela Pop,Andreea-Gabriela.Pop@endava.com,Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>
+12/06/2025 13:00:00,12/06/2025 15:00:00,Exam,UniTask,,Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>
+12/06/2025 16:00:00,12/06/2025 20:00:00,Exam,UniTask,,Felix Cosmin Orga,Felix-Cosmin.Orga@endava.com,Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>
+16/06/2025 14:00:00,16/06/2025 17:00:00,Exam,UniTask,,Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>
+18/06/2025 11:00:00,18/06/2025 14:00:00,Exam,UniTask,,Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>
+12/06/2025 10:30:00,12/06/2025 12:00:00,Short leave for university formalities,UniTask,,Bogdan Nicolae Cotta,Bogdan-Nicolae.Cotta@endava.com,Bogdan Nicolae Cotta <Bogdan-Nicolae.Cotta@endava.com>
+17/07/2025 00:00:00,18/07/2025 00:00:00,Dissertation Presentation,UniTask,,Vlad V Muresan,Vlad.Muresan2@endava.com,Vlad V Muresan <Vlad.Muresan2@endava.com>
+13/06/2025 00:00:00,14/06/2025 00:00:00,Exam,UniTask,,Cornel Adrian Pop,Cornel-Adrian.Pop@endava.com,Cornel Adrian Pop <Cornel-Adrian.Pop@endava.com>
+16/06/2025 11:00:00,16/06/2025 14:00:00,Exam,UniTask,,Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>
+13/06/2025 20:00:00,13/06/2025 23:00:00,Exam,UniTask,,Ioana Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>
+18/06/2025 11:00:00,18/06/2025 14:00:00,Exam,UniTask,,Laura Rusanescu,Laura.Rusanescu@endava.com,Laura Rusanescu <Laura.Rusanescu@endava.com>
+23/06/2025 13:00:00,23/06/2025 15:00:00,Exam,UniTask,,Laura Rusanescu,Laura.Rusanescu@endava.com,Laura Rusanescu <Laura.Rusanescu@endava.com>
+25/06/2025 13:00:00,25/06/2025 15:00:00,Exam,UniTask,,Laura Rusanescu,Laura.Rusanescu@endava.com,Laura Rusanescu <Laura.Rusanescu@endava.com>
+17/06/2025 13:00:00,17/06/2025 15:00:00,Pascan Daniela: Exam,UniTask,,Daniela Maria Pascan,Daniela-Maria.Pascan@endava.com,
+17/06/2025 18:00:00,17/06/2025 21:00:00,Exam,UniTask,,Petru Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>; Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>
+17/06/2025 13:30:00,17/06/2025 17:30:00,Exam,UniTask,,George Iulian Stoian,George-Iulian.Stoian@endava.com,George Iulian Stoian <George-Iulian.Stoian@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation Day,UniTask,,George Iulian Stoian,George-Iulian.Stoian@endava.com,George Iulian Stoian <George-Iulian.Stoian@endava.com>
+20/06/2025 12:00:00,20/06/2025 15:00:00,Exam,UniTask,,Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>
+25/06/2025 11:00:00,25/06/2025 14:00:00,Exam,UniTask,,Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,
+17/06/2025 14:00:00,17/06/2025 17:00:00,Exam,UniTask,,Andreea Gabriela Pop,Andreea-Gabriela.Pop@endava.com,Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>
+17/06/2025 20:00:00,17/06/2025 23:00:00,Exam,UniTask,,Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>
+26/06/2025 00:00:00,27/06/2025 00:00:00, Festivitate de absolvire,UniTask,,Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation Day,UniTask,,Felix Cosmin Orga,Felix-Cosmin.Orga@endava.com,Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>
+18/06/2025 20:00:00,18/06/2025 23:00:00,Exam,UniTask,,Ioana Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>
+18/06/2025 21:00:00,18/06/2025 22:00:00,Exam,UniTask,,Ana Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,Ana Stefania Serbanoiu <Ana-Stefania.Serbanoiu@endava.com>
+19/06/2025 11:00:00,19/06/2025 14:00:00,Exam,UniTask,,Petru Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>
+27/06/2025 03:00:00,27/06/2025 17:30:00,Exam,UniTask,,Petru Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>
+18/06/2025 18:00:00,18/06/2025 21:00:00,Exam,UniTask,,Petru Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>
+26/06/2025 20:30:00,26/06/2025 22:30:00,Exam,UniTask,,Gabriel Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>
+20/06/2025 12:00:00,20/06/2025 15:00:00,Exam,UniTask,,Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>
+19/06/2025 12:00:00,19/06/2025 14:00:00,Exam,UniTask,,Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>
+25/06/2025 11:00:00,25/06/2025 14:00:00,Exam,UniTask,,Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>
+30/06/2025 09:00:00,30/06/2025 13:00:00,Bachelor's Degree Exam,UniTask,,Unknown User (mraicu),CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu,Unknown User (mraicu) <CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu>
+26/06/2025 00:00:00,26/06/2025 17:00:00,Graduation Day,UniTask,,Unknown User (mraicu),CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu,Unknown User (mraicu) <CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu>
+20/06/2025 19:00:00,20/06/2025 21:00:00,Exam,UniTask,,Felix Cosmin Orga,Felix-Cosmin.Orga@endava.com,Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>
+26/06/2025 00:00:00,27/06/2025 00:00:00,Graduation,UniTask,,Bianca Maria Lazar,Bianca-Maria.Lazar@endava.com,Bianca Maria Lazar <Bianca-Maria.Lazar@endava.com>
+30/06/2025 00:00:00,01/07/2025 00:00:00,Examen de licenta,UniTask,,Bianca Maria Lazar,Bianca-Maria.Lazar@endava.com,Bianca Maria Lazar <Bianca-Maria.Lazar@endava.com>
+23/06/2025 20:00:00,23/06/2025 23:00:00,Exam,UniTask,,Ioana Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>
+23/07/2025 00:00:00,24/07/2025 00:00:00,Master Interview,UniTask,,Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>
+27/06/2025 20:00:00,27/06/2025 23:00:00,Exam,UniTask,,Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation,UniTask,,Ariana Casandra Olaru,Ariana-Casandra.Olaru@endava.com,Ariana Casandra Olaru <Ariana-Casandra.Olaru@endava.com>
+26/06/2025 20:00:00,26/06/2025 21:00:00,Consultation,UniTask,,Flora Balogh,Flora.Balogh@endava.com,Flora Balogh <Flora.Balogh@endava.com>
+26/06/2025 16:00:00,26/06/2025 19:00:00,Exam,UniTask,,Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>
+27/06/2025 09:00:00,27/06/2025 15:00:00,Sesiunea de Comunicari Stiintifice ale Studentilor,UniTask,,Unknown User (mraicu),CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu,Unknown User (mraicu) <CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu>
+26/06/2025 12:00:00,26/06/2025 15:00:00,Graduation Day,UniTask,,Denisa Elena Stolniceanu,Denisa-Elena.Stolniceanu@endava.com,Denisa Elena Stolniceanu <Denisa-Elena.Stolniceanu@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation Day,UniTask,,Radu Ioan Maris,Radu-Ioan.Maris@endava.com,Radu Ioan Maris <Radu-Ioan.Maris@endava.com>
+30/06/2025 11:00:00,30/06/2025 14:00:00,Bachelor's Degree Exam,UniTask,,Denisa Elena Stolniceanu,Denisa-Elena.Stolniceanu@endava.com,Denisa Elena Stolniceanu <Denisa-Elena.Stolniceanu@endava.com>
+30/06/2025 00:00:00,01/07/2025 00:00:00,Examen de licenta,UniTask,,Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation,UniTask,,Maria Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>
+01/07/2025 16:00:00,01/07/2025 21:00:00,Graduation,UniTask,,Cornel Adrian Pop,Cornel-Adrian.Pop@endava.com,
+01/07/2025 00:00:00,02/07/2025 00:00:00, Graduation Day,UniTask,,Bianca Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>
+30/06/2025 18:00:00,30/06/2025 21:00:00,Exam,UniTask,,Cornel Adrian Pop,Cornel-Adrian.Pop@endava.com,
+01/07/2025 00:00:00,02/07/2025 00:00:00,Family's Graduation Day: Still available online,UniTask,Still available online,Gabriel Firisar,Gabriel.Firisar@endava.com,Gabriel Firisar <Gabriel.Firisar@endava.com>
+08/07/2025 17:00:00,08/07/2025 20:00:00,Exam,UniTask,,Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>; Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>
+11/07/2025 17:00:00,11/07/2025 20:00:00,Exam,UniTask,,Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>; Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>
+03/07/2025 16:00:00,03/07/2025 18:00:00,Thesis Presentation,UniTask,,Ioana Botezatu,Ioana.Botezatu@endava.com,Ioana Botezatu <Ioana.Botezatu@endava.com>
+02/07/2025 11:00:00,02/07/2025 13:00:00,prezentare licenta,UniTask,,Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,Robert Fedus <Robert.Fedus@endava.com>; Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>
+07/07/2025 14:00:00,07/07/2025 17:00:00,Exam,UniTask,,Daria Alexia Irimie,Daria-Alexia.Irimie@endava.com,Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>
+07/07/2025 00:00:00,08/07/2025 00:00:00,banchet,UniTask,,Bianca Maria Lazar,Bianca-Maria.Lazar@endava.com,Bianca Maria Lazar <Bianca-Maria.Lazar@endava.com>
+08/07/2025 08:00:00,08/07/2025 11:00:00,Exam,UniTask,,Ionut Popescu,Ionut.Popescu@endava.com,Ionut Popescu <Ionut.Popescu@endava.com>
+07/07/2025 13:00:00,07/07/2025 15:00:00,Exam,UniTask,,Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>
+08/07/2025 12:00:00,08/07/2025 16:00:00,Exam,UniTask,,Daniel Kewin Chifa,Daniel-Kewin.Chifa@endava.com,Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>
+10/07/2025 12:00:00,10/07/2025 16:00:00,Exam,UniTask,,Daniel Kewin Chifa,Daniel-Kewin.Chifa@endava.com,Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>
+10/07/2025 17:00:00,10/07/2025 20:00:00,Exam,UniTask,,Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>
+08/07/2025 14:00:00,08/07/2025 18:00:00,Exam,UniTask,,George Iulian Stoian,George-Iulian.Stoian@endava.com,George Iulian Stoian <George-Iulian.Stoian@endava.com>
+07/07/2025 00:00:00,08/07/2025 00:00:00,banchet,UniTask,,Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>
+07/07/2025 16:30:00,07/07/2025 18:30:00,Exam,UniTask,,Gabriel Firisar,Gabriel.Firisar@endava.com,Gabriel Firisar <Gabriel.Firisar@endava.com>
+09/07/2025 08:00:00,09/07/2025 10:00:00,Exam,UniTask,,Radu Ioan Maris,Radu-Ioan.Maris@endava.com,Radu Ioan Maris <Radu-Ioan.Maris@endava.com>
+08/07/2025 11:00:00,08/07/2025 18:00:00,Exam,UniTask,,Petru Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>
+08/07/2025 11:00:00,08/07/2025 14:00:00,Exam,UniTask,,Andreea Gabriela Pop,Andreea-Gabriela.Pop@endava.com,Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>
+08/07/2025 15:00:00,08/07/2025 17:00:00,Exam,UniTask,,Ioana Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>
+06/06/2025 00:00:00,14/06/2025 00:00:00,Adrian Matean: Vacation,leaves,Vacation,Adrian Matean,Adrian.Matean@endava.com,Adrian Matean <Adrian.Matean@endava.com>
+14/07/2025 00:00:00,19/07/2025 00:00:00,Raluca Roiban: Vacation,leaves,Vacation,Raluca Roiban,Raluca.Roiban@endava.com,Raluca Roiban <Raluca.Roiban@endava.com>
+06/06/2025 00:00:00,07/06/2025 00:00:00,Vlad Andrei Groza: Vacation,leaves,Vacation,Vlad Andrei Groza,Vlad-Andrei.Groza@endava.com,Vlad Andrei Groza <Vlad-Andrei.Groza@endava.com>
+19/06/2025 00:00:00,26/06/2025 00:00:00,Mircea Stefan Pop: vacation,leaves,vacation,Mircea Stefan Pop,Mircea-Stefan.Pop@endava.com,Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>
+25/07/2025 00:00:00,26/07/2025 00:00:00,Marcos Dimitris Fetcu: Recovery after prom,leaves,Recovery after prom,Marcos Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,Marcos Dimitris Fetcu <Marcos-Dimitris.Fetcu@endava.com>
+11/09/2025 00:00:00,17/09/2025 00:00:00,George Stefan Bodogae: Vacation,leaves,Vacation,George Stefan Bodogae,George-Stefan.Bodogae@endava.com,George Stefan Bodogae <George-Stefan.Bodogae@endava.com>
+15/08/2025 00:00:00,25/08/2025 00:00:00,Emma Simina Muresan: Vacation,leaves,Vacation,Emma Simina Muresan,Emma-Simina.Muresan@endava.com,Emma Simina Muresan <Emma-Simina.Muresan@endava.com>
+18/08/2025 00:00:00,26/08/2025 00:00:00,Ilinca Maria Popovici: Vacation,leaves,Vacation,Ilinca Maria Popovici,Ilinca-Maria.Popovici@endava.com,Ilinca Maria Popovici <Ilinca-Maria.Popovici@endava.com>
+28/07/2025 00:00:00,03/08/2025 00:00:00,Raul Birsan: Vacanta,leaves,Vacanta,Raul Birsan,Raul.Birsan@endava.com,Raul Birsan <Raul.Birsan@endava.com>
+18/07/2025 00:00:00,19/07/2025 00:00:00,Tudor Muntean: Vacantion,leaves,Vacantion,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+25/07/2025 00:00:00,31/07/2025 00:00:00,Tudor Muntean: Vacantion,leaves,Vacantion,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+08/08/2025 00:00:00,09/08/2025 00:00:00,Tudor Muntean: Vacantion,leaves,Vacantion,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+21/07/2025 00:00:00,26/07/2025 00:00:00,Andrei Tudor Mirza: Vacation,leaves,Vacation,Andrei Tudor Mirza,Andrei-Tudor.Mirza@endava.com,Andrei Tudor Mirza <Andrei-Tudor.Mirza@endava.com>
+19/08/2025 00:00:00,27/08/2025 00:00:00,Madalina Daiana Gligan: Vacation,leaves,Vacation,Madalina Daiana Gligan,Madalina-Daiana.Gligan@endava.com,Madalina Daiana Gligan <Madalina-Daiana.Gligan@endava.com>
+08/09/2025 00:00:00,13/09/2025 00:00:00,Daria Alexia Irimie: Vacation,leaves,Vacation,Daria Alexia Irimie,Daria-Alexia.Irimie@endava.com,Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>
+23/06/2025 00:00:00,24/06/2025 00:00:00,Telegdy Aron Domokos: Vacation,leaves,Vacation,Aron Domokos Telegdy,Aron.Telegdy@endava.com,Aron Domokos Telegdy <Aron.Telegdy@endava.com>
+10/07/2025 00:00:00,15/07/2025 00:00:00,Bogdan Nicolae Cotta: Vacation,leaves,Vacation,Bogdan Nicolae Cotta,Bogdan-Nicolae.Cotta@endava.com,Bogdan Nicolae Cotta <Bogdan-Nicolae.Cotta@endava.com>
+11/08/2025 00:00:00,16/08/2025 00:00:00,George Stefan Bodogae: Vacation,leaves,Vacation,George Stefan Bodogae,George-Stefan.Bodogae@endava.com,George Stefan Bodogae <George-Stefan.Bodogae@endava.com>
+24/10/2025 00:00:00,25/10/2025 00:00:00,George Stefan Bodogae: Vacation,leaves,Vacation,George Stefan Bodogae,George-Stefan.Bodogae@endava.com,George Stefan Bodogae <George-Stefan.Bodogae@endava.com>
+07/07/2025 00:00:00,08/07/2025 00:00:00,George Stefan Bodogae: Personal Event,leaves,Personal Event,George Stefan Bodogae,George-Stefan.Bodogae@endava.com,George Stefan Bodogae <George-Stefan.Bodogae@endava.com>
+25/07/2025 00:00:00,26/07/2025 00:00:00,Flora Balogh: Vacation,leaves,Vacation,Flora Balogh,Flora.Balogh@endava.com,Flora Balogh <Flora.Balogh@endava.com>
+28/07/2025 00:00:00,30/07/2025 00:00:00,Flora Balogh: Vacation,leaves,Vacation,Flora Balogh,Flora.Balogh@endava.com,Flora Balogh <Flora.Balogh@endava.com>
+11/07/2025 00:00:00,19/07/2025 00:00:00,Maria Camelia Raicu: Vacantion,leaves,Vacantion,Unknown User (mraicu),CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu,Unknown User (mraicu) <CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu>
+25/07/2025 00:00:00,26/07/2025 00:00:00,Felix Cosmin Orga: Prom recovery,leaves,Prom recovery,Felix Cosmin Orga,Felix-Cosmin.Orga@endava.com,Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>
+13/08/2025 00:00:00,19/08/2025 00:00:00,Timotei Cristian Morar: Vacation,leaves,Vacation,Timotei Cristian Morar,Timotei-Cristian.Morar@endava.com,Timotei Cristian Morar <Timotei-Cristian.Morar@endava.com>
+13/08/2025 00:00:00,19/08/2025 00:00:00,Mozes Csaszar: Vacation,leaves,Vacation,Mozes Csaszar,Mozes.Csaszar@endava.com,Mozes Csaszar <Mozes.Csaszar@endava.com>
+30/06/2025 14:50:00,30/06/2025 16:20:00,Felix Cosmin Orga: Medical appointment,leaves,Medical appointment,Felix Cosmin Orga,Felix-Cosmin.Orga@endava.com,Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>
+30/06/2025 13:30:00,30/06/2025 15:30:00,Eric Marian Dascalu: Medical Appointment,leaves,Medical Appointment,Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>
+25/07/2025 00:00:00,26/07/2025 00:00:00,Gabriel Alexandru Nedelcu: Vacation,leaves,Vacation,Gabriel Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>
+18/07/2025 00:00:00,19/07/2025 00:00:00,Ioana Botezatu: Vacation,leaves,Vacation,Ioana Botezatu,Ioana.Botezatu@endava.com,Ioana Botezatu <Ioana.Botezatu@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation Day,other,Graduation Day,Timotei Cristian Morar,Timotei-Cristian.Morar@endava.com,Timotei Cristian Morar <Timotei-Cristian.Morar@endava.com>
+04/06/2025 19:00:00,04/06/2025 21:00:00,Lab Project,other,,Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>
+13/06/2025 14:00:00,13/06/2025 17:00:00,Exam,other,,Daniel Rosu,Daniel.Rosu@endava.com,Daniel Rosu <Daniel.Rosu@endava.com>
+18/06/2025 20:00:00,18/06/2025 21:00:00,Exam,other,,Daniel Rosu,Daniel.Rosu@endava.com,
+26/06/2025 14:00:00,26/06/2025 17:00:00,Exam,other,,Daniel Rosu,Daniel.Rosu@endava.com,Daniel Rosu <Daniel.Rosu@endava.com>
+12/06/2025 16:00:00,12/06/2025 20:00:00,Exam,other,,Diana Cristina Mocan,Diana-Cristina.Mocan@endava.com,Diana Cristina Mocan <Diana-Cristina.Mocan@endava.com>
+17/06/2025 11:00:00,17/06/2025 14:30:00,Exam,other,,Diana Cristina Mocan,Diana-Cristina.Mocan@endava.com,Diana Cristina Mocan <Diana-Cristina.Mocan@endava.com>
+06/06/2025 18:00:00,06/06/2025 20:00:00,Exam,other,,Laura Rusanescu,Laura.Rusanescu@endava.com,Laura Rusanescu <Laura.Rusanescu@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation Day,other,,Marcos Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,Marcos Dimitris Fetcu <Marcos-Dimitris.Fetcu@endava.com>
+30/06/2025 12:00:00,30/06/2025 15:00:00,Written licence exam,other,Proba scrisa a examenului de licenta,Mihnea Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>
+02/07/2025 15:00:00,02/07/2025 17:00:00,Licence Presentation,other,Licence Practical Exam (Application Presentation),Mihnea Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>
+23/06/2025 16:30:00,23/06/2025 19:30:00,GF's Graduation Day,other,,Sebastian Cristian Sleam,Sebastian-Cristian.Sleam@endava.com,Sebastian Cristian Sleam <Sebastian-Cristian.Sleam@endava.com>
+17/06/2025 16:00:00,17/06/2025 17:30:00,O'Reilly Live Event,other,,Emma Simina Muresan,Emma-Simina.Muresan@endava.com,Emma Simina Muresan <Emma-Simina.Muresan@endava.com>
+03/07/2025 15:00:00,03/07/2025 18:00:00,O'Reilly Live Event,other,,Emma Simina Muresan,Emma-Simina.Muresan@endava.com,Emma Simina Muresan <Emma-Simina.Muresan@endava.com>
+16/07/2025 15:00:00,16/07/2025 18:00:00,O'Reilly Live Event,other,,Emma Simina Muresan,Emma-Simina.Muresan@endava.com,Emma Simina Muresan <Emma-Simina.Muresan@endava.com>
+09/06/2025 17:00:00,09/06/2025 20:00:00,Exam,other,,Remus Mihai Prodan,Remus-Mihai.Prodan@endava.com,Remus Mihai Prodan <Remus-Mihai.Prodan@endava.com>
+17/06/2025 17:00:00,17/06/2025 20:00:00,Exam,other,,Remus Mihai Prodan,Remus-Mihai.Prodan@endava.com,Remus Mihai Prodan <Remus-Mihai.Prodan@endava.com>
+03/06/2025 18:00:00,03/06/2025 22:00:00,Project Presentation,other,,Ioana Victoria Zinveliu,Ioana-Victoria.Zinveliu@endava.com,Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>
+23/06/2025 08:00:00,23/06/2025 23:00:00,Exam,other,,Remus Mihai Prodan,Remus-Mihai.Prodan@endava.com,Remus Mihai Prodan <Remus-Mihai.Prodan@endava.com>
+10/06/2025 18:00:00,11/06/2025 20:00:00,Doctor appointment,other,,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+12/06/2025 12:00:00,12/06/2025 14:00:00,Graduation,other,,Adriana Maria Vadean,Adriana-Maria.Vadean@endava.com,Adriana Maria Vadean <Adriana-Maria.Vadean@endava.com>
+24/06/2025 17:00:00,24/06/2025 20:00:00,Exam,other,,Laura Rusanescu,Laura.Rusanescu@endava.com,Laura Rusanescu <Laura.Rusanescu@endava.com>
+10/06/2025 12:00:00,10/06/2025 13:00:00,Doctor Appointment (Consultation),other,Consulatation to gastro doctor,Mihnea Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>
+11/06/2025 12:00:00,11/06/2025 13:00:00,Licence Coordinator Meet (In person),other,Met licence coordinator to check if all it's good about licence.,Mihnea Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>
+11/06/2025 19:00:00,11/06/2025 20:00:00,Dentist Appointment,other,In order to put on the denture.,Mihnea Sebastian Ilie Encean,Mihnea-Sebastian-Ilie.Encean@endava.com,Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>
+17/06/2025 17:00:00,17/06/2025 19:00:00,Doctor appointment,other,,Tudor Muntean,Tudor.Muntean@endava.com,
+26/06/2025 03:00:00,26/06/2025 21:00:00,Graduation Day,other,,Dragos Alexandru Ion,Dragos-Alexandru.Ion@endava.com,Dragos Alexandru Ion <Dragos-Alexandru.Ion@endava.com>
+30/06/2025 11:00:00,30/06/2025 15:00:00,Bachelor's Degree Exam,other,,Dragos Alexandru Ion,Dragos-Alexandru.Ion@endava.com,Dragos Alexandru Ion <Dragos-Alexandru.Ion@endava.com>
+27/06/2025 00:00:00,28/06/2025 00:00:00,Sesiunea de comunicari stintifice a studentilor,other,The hours are still unknown,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+18/06/2025 11:00:00,18/06/2025 13:00:00,Exam,other,,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+23/06/2025 13:00:00,23/06/2025 15:00:00,Consultatii examen licenta,other,,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation Day,other,,Maria Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>
+26/06/2025 12:00:00,26/06/2025 14:00:00,Sister's Graduation Day,other,,Ilinca Maria Popovici,Ilinca-Maria.Popovici@endava.com,Ilinca Maria Popovici <Ilinca-Maria.Popovici@endava.com>
+25/06/2025 19:00:00,25/06/2025 20:00:00,Doctor appointment,other,,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+07/07/2025 12:30:00,07/07/2025 15:00:00,Graduation,other,,Adriana Maria Vadean,Adriana-Maria.Vadean@endava.com,Adriana Maria Vadean <Adriana-Maria.Vadean@endava.com>
+01/07/2025 00:00:00,02/07/2025 00:00:00,Graduation,other,,Diana Cristina Mocan,Diana-Cristina.Mocan@endava.com,Diana Cristina Mocan <Diana-Cristina.Mocan@endava.com>
+27/06/2025 11:30:00,27/06/2025 18:00:00,Sesiunea de Comunicari Stiintifice ale Studentilor,other,"hours unknown: starts at 8:30\, my presentation is at 10:45",Bianca Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>
+30/06/2025 11:00:00,30/06/2025 15:00:00,Bachelor's exam,other,,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+02/07/2025 13:00:00,02/07/2025 15:00:00,Prezentare licenta,other,,Tudor Muntean,Tudor.Muntean@endava.com,Tudor Muntean <Tudor.Muntean@endava.com>
+11/07/2025 10:00:00,11/07/2025 12:00:00,Cardiology Consult,other,,Vlad Cristian Brinzas,Vlad-Cristian.Brinzas@endava.com,Vlad Cristian Brinzas <Vlad-Cristian.Brinzas@endava.com>
+09/07/2025 13:00:00,09/07/2025 15:00:00,Medical Appointment,other,,Robert Erno Eminovici,Robert-Erno.Eminovici@endava.com,Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>

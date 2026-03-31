@@ -1,0 +1,1195 @@
+activity_date,employee_id,employee_name,activity_category,activity_type,project_id,project_name,title,hours
+2025-07-11,mircea-stefan.pop@endava.com,Mircea Stefan Pop,ABSENCE,Annual Leave,,,,8
+2025-07-12,mircea-stefan.pop@endava.com,Mircea Stefan Pop,ABSENCE,Annual Leave,,,,8
+2025-07-13,mircea-stefan.pop@endava.com,Mircea Stefan Pop,ABSENCE,Annual Leave,,,,8
+2025-06-16,mircea-stefan.pop@endava.com,Mircea Stefan Pop,ABSENCE,Maternity Leave,,,,8
+2025-08-27,mircea-stefan.pop@endava.com,Mircea Stefan Pop,ABSENCE,Maternity Leave,,,,8
+2025-08-28,mircea-stefan.pop@endava.com,Mircea Stefan Pop,ABSENCE,Maternity Leave,,,,8
+2025-08-29,mircea-stefan.pop@endava.com,Mircea Stefan Pop,ABSENCE,Maternity Leave,,,,8
+2025-08-30,mircea-stefan.pop@endava.com,Mircea Stefan Pop,ABSENCE,Maternity Leave,,,,8
+2025-08-14,cristian-valentin.alexa@endava.com,Cristian Valentin Alexa,ABSENCE,Special Leave Adoption,,,,8
+2025-08-15,cristian-valentin.alexa@endava.com,Cristian Valentin Alexa,ABSENCE,Special Leave Adoption,,,,8
+2025-08-16,cristian-valentin.alexa@endava.com,Cristian Valentin Alexa,ABSENCE,Special Leave Adoption,,,,8
+2025-08-17,cristian-valentin.alexa@endava.com,Cristian Valentin Alexa,ABSENCE,Special Leave Adoption,,,,8
+2025-08-26,cristian-valentin.alexa@endava.com,Cristian Valentin Alexa,ABSENCE,Patternity Leave,,,,8
+2025-08-27,cristian-valentin.alexa@endava.com,Cristian Valentin Alexa,ABSENCE,Patternity Leave,,,,8
+2025-06-25,cristian-valentin.alexa@endava.com,Cristian Valentin Alexa,ABSENCE,Special Leave Adoption,,,,8
+2025-06-07,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Special Leave Adoption,,,,8
+2025-08-25,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Annual Leave,,,,8
+2025-08-26,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Annual Leave,,,,8
+2025-08-27,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Annual Leave,,,,8
+2025-08-28,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Annual Leave,,,,8
+2025-08-30,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Medical Leave,,,,8
+2025-08-31,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Medical Leave,,,,8
+2025-09-01,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Medical Leave,,,,8
+2025-09-02,costin.manolescu@endava.com,Costin Manolescu,ABSENCE,Medical Leave,,,,8
+2025-07-16,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Maternity Leave,,,,8
+2025-07-17,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Maternity Leave,,,,8
+2025-07-18,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Maternity Leave,,,,8
+2025-07-19,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Maternity Leave,,,,8
+2025-06-27,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-28,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-29,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-05,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-06,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-07,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-08,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-09,ana.ciobanu@endava.com,Ana Ciobanu,ABSENCE,Unpaid Leave,,,,8
+2025-07-03,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Annual Leave,,,,8
+2025-07-04,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Annual Leave,,,,8
+2025-07-05,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Annual Leave,,,,8
+2025-07-07,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Patternity Leave,,,,8
+2025-07-08,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Patternity Leave,,,,8
+2025-06-14,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Special Leave Adoption,,,,8
+2025-06-15,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Special Leave Adoption,,,,8
+2025-06-16,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Special Leave Adoption,,,,8
+2025-06-17,daniela.munteanu@endava.com,Daniela Munteanu,ABSENCE,Special Leave Adoption,,,,8
+2025-06-02,reka-katalin.darko@endava.com,Reka Katalin Darko,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-03,reka-katalin.darko@endava.com,Reka Katalin Darko,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-04,reka-katalin.darko@endava.com,Reka Katalin Darko,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-05,reka-katalin.darko@endava.com,Reka Katalin Darko,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-16,reka-katalin.darko@endava.com,Reka Katalin Darko,ABSENCE,Special Leave,,,,8
+2025-08-11,reka-katalin.darko@endava.com,Reka Katalin Darko,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-17,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-18,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-19,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-20,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-13,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,Maternity Leave,,,,8
+2025-06-14,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,Maternity Leave,,,,8
+2025-06-09,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,Unpaid Leave,,,,8
+2025-06-10,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,Unpaid Leave,,,,8
+2025-06-11,ilinca-maria.popovici@endava.com,Ilinca Maria Popovici,ABSENCE,Unpaid Leave,,,,8
+2025-06-22,gheorghe-cristian.terovan@endava.com,Gheorghe-Cristian Terovan,ABSENCE,Childcare Leave,,,,8
+2025-08-08,gheorghe-cristian.terovan@endava.com,Gheorghe-Cristian Terovan,ABSENCE,Special Leave,,,,8
+2025-08-09,gheorghe-cristian.terovan@endava.com,Gheorghe-Cristian Terovan,ABSENCE,Special Leave,,,,8
+2025-08-10,gheorghe-cristian.terovan@endava.com,Gheorghe-Cristian Terovan,ABSENCE,Special Leave,,,,8
+2025-08-11,gheorghe-cristian.terovan@endava.com,Gheorghe-Cristian Terovan,ABSENCE,Special Leave,,,,8
+2025-08-12,gheorghe-cristian.terovan@endava.com,Gheorghe-Cristian Terovan,ABSENCE,Special Leave,,,,8
+2025-06-16,gheorghe-cristian.terovan@endava.com,Gheorghe-Cristian Terovan,ABSENCE,Medical Leave,,,,8
+2025-06-17,gheorghe-cristian.terovan@endava.com,Gheorghe-Cristian Terovan,ABSENCE,Medical Leave,,,,8
+2025-07-29,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Patternity Leave,,,,8
+2025-07-08,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Special Leave,,,,8
+2025-07-09,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Special Leave,,,,8
+2025-07-10,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Special Leave,,,,8
+2025-06-16,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Medical Leave,,,,8
+2025-06-17,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Medical Leave,,,,8
+2025-06-18,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Medical Leave,,,,8
+2025-06-19,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Medical Leave,,,,8
+2025-06-20,vlad.muresan2@endava.com,Vlad V Muresan,ABSENCE,Medical Leave,,,,8
+2025-08-14,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,Special Leave,,,,8
+2025-07-30,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,Childcare Leave,,,,8
+2025-07-31,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,Childcare Leave,,,,8
+2025-08-01,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,Childcare Leave,,,,8
+2025-08-02,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,Childcare Leave,,,,8
+2025-07-15,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,TOIL Travel,,,,8
+2025-07-16,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,TOIL Travel,,,,8
+2025-07-17,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,TOIL Travel,,,,8
+2025-07-18,alexandru.lazar@endava.com,Alexandru Lazar,ABSENCE,TOIL Travel,,,,8
+2025-08-09,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Maternity Leave,,,,8
+2025-08-10,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Maternity Leave,,,,8
+2025-08-11,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Maternity Leave,,,,8
+2025-08-01,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Special Leave,,,,8
+2025-08-02,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Special Leave,,,,8
+2025-08-03,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Special Leave,,,,8
+2025-08-04,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Special Leave,,,,8
+2025-08-05,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Special Leave,,,,8
+2025-07-01,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Childcare Leave,,,,8
+2025-07-02,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Childcare Leave,,,,8
+2025-07-03,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Childcare Leave,,,,8
+2025-07-04,daniel-ionel.beg@endava.com,Daniel-Ionel Beg,ABSENCE,Childcare Leave,,,,8
+2025-08-20,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Childcare Leave,,,,8
+2025-08-21,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Childcare Leave,,,,8
+2025-08-22,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Childcare Leave,,,,8
+2025-08-17,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Childcare Leave,,,,8
+2025-08-18,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Childcare Leave,,,,8
+2025-08-19,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Childcare Leave,,,,8
+2025-06-22,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Annual Leave,,,,8
+2025-06-23,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Annual Leave,,,,8
+2025-06-24,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Annual Leave,,,,8
+2025-06-25,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Annual Leave,,,,8
+2025-06-26,marius.beschieru@endava.com,Marius Beschieru,ABSENCE,Annual Leave,,,,8
+2025-07-14,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,Maternity Leave,,,,8
+2025-07-15,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,Maternity Leave,,,,8
+2025-07-16,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,Maternity Leave,,,,8
+2025-07-17,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,Maternity Leave,,,,8
+2025-07-18,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,Maternity Leave,,,,8
+2025-07-09,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-10,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-20,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-21,serban-marian.precup@endava.com,Serban Marian Precup,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-12,raul.birsan@endava.com,Raul Birsan,ABSENCE,Annual Leave,,,,8
+2025-07-13,raul.birsan@endava.com,Raul Birsan,ABSENCE,Annual Leave,,,,8
+2025-07-14,raul.birsan@endava.com,Raul Birsan,ABSENCE,Annual Leave,,,,8
+2025-07-15,raul.birsan@endava.com,Raul Birsan,ABSENCE,Annual Leave,,,,8
+2025-07-16,raul.birsan@endava.com,Raul Birsan,ABSENCE,Annual Leave,,,,8
+2025-08-24,raul.birsan@endava.com,Raul Birsan,ABSENCE,Medical Leave,,,,8
+2025-08-25,raul.birsan@endava.com,Raul Birsan,ABSENCE,Medical Leave,,,,8
+2025-08-26,raul.birsan@endava.com,Raul Birsan,ABSENCE,Medical Leave,,,,8
+2025-08-27,raul.birsan@endava.com,Raul Birsan,ABSENCE,Medical Leave,,,,8
+2025-08-28,raul.birsan@endava.com,Raul Birsan,ABSENCE,Medical Leave,,,,8
+2025-08-11,raul.birsan@endava.com,Raul Birsan,ABSENCE,Patternity Leave,,,,8
+2025-08-12,raul.birsan@endava.com,Raul Birsan,ABSENCE,Patternity Leave,,,,8
+2025-08-13,raul.birsan@endava.com,Raul Birsan,ABSENCE,Patternity Leave,,,,8
+2025-06-17,cosmin.felecanu@endava.com,Cosmin Felecanu,ABSENCE,Childcare Leave,,,,8
+2025-06-12,cosmin.felecanu@endava.com,Cosmin Felecanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-13,cosmin.felecanu@endava.com,Cosmin Felecanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-14,cosmin.felecanu@endava.com,Cosmin Felecanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-15,cosmin.felecanu@endava.com,Cosmin Felecanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-16,cosmin.felecanu@endava.com,Cosmin Felecanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-14,cosmin.felecanu@endava.com,Cosmin Felecanu,ABSENCE,Special Leave Adoption,,,,8
+2025-06-15,cosmin.felecanu@endava.com,Cosmin Felecanu,ABSENCE,Special Leave Adoption,,,,8
+2025-08-24,dragos.vatra@endava.com,Dragos Vatra,ABSENCE,Patternity Leave,,,,8
+2025-07-16,dragos.vatra@endava.com,Dragos Vatra,ABSENCE,TOIL Travel,,,,8
+2025-07-17,dragos.vatra@endava.com,Dragos Vatra,ABSENCE,TOIL Travel,,,,8
+2025-07-27,dragos.vatra@endava.com,Dragos Vatra,ABSENCE,Special Leave,,,,8
+2025-07-28,dragos.vatra@endava.com,Dragos Vatra,ABSENCE,Special Leave,,,,8
+2025-07-29,dragos.vatra@endava.com,Dragos Vatra,ABSENCE,Special Leave,,,,8
+2025-07-30,dragos.vatra@endava.com,Dragos Vatra,ABSENCE,Special Leave,,,,8
+2025-06-26,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,TOIL Travel,,,,8
+2025-06-04,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,Special Leave Adoption,,,,8
+2025-06-05,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,Special Leave Adoption,,,,8
+2025-06-06,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,Special Leave Adoption,,,,8
+2025-06-07,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,Special Leave Adoption,,,,8
+2025-08-18,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,Patternity Leave,,,,8
+2025-08-19,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,Patternity Leave,,,,8
+2025-08-20,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,Patternity Leave,,,,8
+2025-08-21,csilla-boglarka.nagy@endava.com,Csilla Boglarka Nagy,ABSENCE,Patternity Leave,,,,8
+2025-06-29,diandra.fechita@endava.com,Diandra Fechita,ABSENCE,Special Leave,,,,8
+2025-06-30,diandra.fechita@endava.com,Diandra Fechita,ABSENCE,Special Leave,,,,8
+2025-07-01,diandra.fechita@endava.com,Diandra Fechita,ABSENCE,Special Leave,,,,8
+2025-07-02,diandra.fechita@endava.com,Diandra Fechita,ABSENCE,Special Leave,,,,8
+2025-06-01,diandra.fechita@endava.com,Diandra Fechita,ABSENCE,Medical Leave,,,,8
+2025-06-13,emanuela.lupancu@endava.com,Emanuela Lupancu,ABSENCE,Childcare Leave,,,,8
+2025-07-08,emanuela.lupancu@endava.com,Emanuela Lupancu,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-09,emanuela.lupancu@endava.com,Emanuela Lupancu,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-10,emanuela.lupancu@endava.com,Emanuela Lupancu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-07,alex-rares.roman@endava.com,Alex Rares Roman,ABSENCE,Special Leave Adoption,,,,8
+2025-08-27,alex-rares.roman@endava.com,Alex Rares Roman,ABSENCE,Patternity Leave,,,,8
+2025-08-28,alex-rares.roman@endava.com,Alex Rares Roman,ABSENCE,Patternity Leave,,,,8
+2025-08-29,alex-rares.roman@endava.com,Alex Rares Roman,ABSENCE,Patternity Leave,,,,8
+2025-08-16,laurentiu.fratila@endava.com,Laurentiu Fratila,ABSENCE,Special Leave,,,,8
+2025-08-17,laurentiu.fratila@endava.com,Laurentiu Fratila,ABSENCE,Special Leave,,,,8
+2025-08-18,laurentiu.fratila@endava.com,Laurentiu Fratila,ABSENCE,Special Leave,,,,8
+2025-08-02,laurentiu.fratila@endava.com,Laurentiu Fratila,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-03,laurentiu.fratila@endava.com,Laurentiu Fratila,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-04,laurentiu.fratila@endava.com,Laurentiu Fratila,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-05,laurentiu.fratila@endava.com,Laurentiu Fratila,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-06,laurentiu.fratila@endava.com,Laurentiu Fratila,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-21,andrei-alexandru.gheorghe@endava.com,Andrei Alexandru Gheorghe,ABSENCE,Unpaid Leave,,,,8
+2025-08-22,andrei-alexandru.gheorghe@endava.com,Andrei Alexandru Gheorghe,ABSENCE,Unpaid Leave,,,,8
+2025-08-21,andrei-alexandru.gheorghe@endava.com,Andrei Alexandru Gheorghe,ABSENCE,Medical Leave,,,,8
+2025-08-22,andrei-alexandru.gheorghe@endava.com,Andrei Alexandru Gheorghe,ABSENCE,Medical Leave,,,,8
+2025-08-01,stefan-gabriel.verde@endava.com,Stefan Gabriel Verde,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-02,stefan-gabriel.verde@endava.com,Stefan Gabriel Verde,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-19,stefan-gabriel.verde@endava.com,Stefan Gabriel Verde,ABSENCE,Patternity Leave,,,,8
+2025-07-20,stefan-gabriel.verde@endava.com,Stefan Gabriel Verde,ABSENCE,Patternity Leave,,,,8
+2025-07-21,stefan-gabriel.verde@endava.com,Stefan Gabriel Verde,ABSENCE,Patternity Leave,,,,8
+2025-08-05,dan-teodor.buzoianu@endava.com,Dan Teodor Buzoianu,ABSENCE,Special Leave,,,,8
+2025-08-06,dan-teodor.buzoianu@endava.com,Dan Teodor Buzoianu,ABSENCE,Special Leave,,,,8
+2025-08-07,dan-teodor.buzoianu@endava.com,Dan Teodor Buzoianu,ABSENCE,Special Leave,,,,8
+2025-08-08,dan-teodor.buzoianu@endava.com,Dan Teodor Buzoianu,ABSENCE,Special Leave,,,,8
+2025-08-09,dan-teodor.buzoianu@endava.com,Dan Teodor Buzoianu,ABSENCE,Special Leave,,,,8
+2025-07-05,dan-teodor.buzoianu@endava.com,Dan Teodor Buzoianu,ABSENCE,Special Leave,,,,8
+2025-06-19,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Annual Leave,,,,8
+2025-06-20,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Annual Leave,,,,8
+2025-06-21,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Annual Leave,,,,8
+2025-06-22,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Annual Leave,,,,8
+2025-06-23,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Annual Leave,,,,8
+2025-07-11,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Childcare Leave,,,,8
+2025-07-12,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Childcare Leave,,,,8
+2025-07-13,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Childcare Leave,,,,8
+2025-07-14,denisa-maria.gorea@endava.com,Denisa Maria Gorea,ABSENCE,Childcare Leave,,,,8
+2025-07-13,botond-ors.solyom@endava.com,Botond Ors Solyom,ABSENCE,Special Leave Adoption,,,,8
+2025-07-14,botond-ors.solyom@endava.com,Botond Ors Solyom,ABSENCE,Special Leave Adoption,,,,8
+2025-07-15,botond-ors.solyom@endava.com,Botond Ors Solyom,ABSENCE,Special Leave Adoption,,,,8
+2025-07-02,botond-ors.solyom@endava.com,Botond Ors Solyom,ABSENCE,Special Leave,,,,8
+2025-07-26,cosmin.chirazi@endava.com,Cosmin Chirazi,ABSENCE,Special Leave,,,,8
+2025-07-27,cosmin.chirazi@endava.com,Cosmin Chirazi,ABSENCE,Special Leave,,,,8
+2025-07-28,cosmin.chirazi@endava.com,Cosmin Chirazi,ABSENCE,Special Leave,,,,8
+2025-06-28,cosmin.chirazi@endava.com,Cosmin Chirazi,ABSENCE,Patternity Leave,,,,8
+2025-06-29,cosmin.chirazi@endava.com,Cosmin Chirazi,ABSENCE,Patternity Leave,,,,8
+2025-08-16,george-andrei.necula@endava.com,George Andrei Necula,ABSENCE,Special Leave,,,,8
+2025-08-17,george-andrei.necula@endava.com,George Andrei Necula,ABSENCE,Special Leave,,,,8
+2025-08-18,george-andrei.necula@endava.com,George Andrei Necula,ABSENCE,Special Leave,,,,8
+2025-08-19,george-andrei.necula@endava.com,George Andrei Necula,ABSENCE,Special Leave,,,,8
+2025-08-20,george-andrei.necula@endava.com,George Andrei Necula,ABSENCE,Special Leave,,,,8
+2025-06-18,george-andrei.necula@endava.com,George Andrei Necula,ABSENCE,Special Leave Adoption,,,,8
+2025-06-19,george-andrei.necula@endava.com,George Andrei Necula,ABSENCE,Special Leave Adoption,,,,8
+2025-06-21,denis.roca@endava.com,Denis Roca,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-22,denis.roca@endava.com,Denis Roca,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-15,denis.roca@endava.com,Denis Roca,ABSENCE,Special Leave Adoption,,,,8
+2025-08-12,tiberiu.iatan@endava.com,Tiberiu Iatan,ABSENCE,Unpaid Leave,,,,8
+2025-08-13,tiberiu.iatan@endava.com,Tiberiu Iatan,ABSENCE,Unpaid Leave,,,,8
+2025-08-14,tiberiu.iatan@endava.com,Tiberiu Iatan,ABSENCE,Unpaid Leave,,,,8
+2025-08-13,tiberiu.iatan@endava.com,Tiberiu Iatan,ABSENCE,Special Leave,,,,8
+2025-07-08,george-stefan.bodogae@endava.com,George Stefan Bodogae,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-09,george-stefan.bodogae@endava.com,George Stefan Bodogae,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-10,george-stefan.bodogae@endava.com,George Stefan Bodogae,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-11,george-stefan.bodogae@endava.com,George Stefan Bodogae,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-18,george-stefan.bodogae@endava.com,George Stefan Bodogae,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-19,george-stefan.bodogae@endava.com,George Stefan Bodogae,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-20,george-stefan.bodogae@endava.com,George Stefan Bodogae,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-04,alin.avram@endava.com,Alin Avram,ABSENCE,Childcare Leave,,,,8
+2025-08-05,alin.avram@endava.com,Alin Avram,ABSENCE,Childcare Leave,,,,8
+2025-08-06,alin.avram@endava.com,Alin Avram,ABSENCE,Childcare Leave,,,,8
+2025-08-07,alin.avram@endava.com,Alin Avram,ABSENCE,Childcare Leave,,,,8
+2025-08-23,alin.avram@endava.com,Alin Avram,ABSENCE,TOIL Travel,,,,8
+2025-08-24,alin.avram@endava.com,Alin Avram,ABSENCE,TOIL Travel,,,,8
+2025-08-25,alin.avram@endava.com,Alin Avram,ABSENCE,TOIL Travel,,,,8
+2025-08-26,alin.avram@endava.com,Alin Avram,ABSENCE,TOIL Travel,,,,8
+2025-08-27,alin.avram@endava.com,Alin Avram,ABSENCE,TOIL Travel,,,,8
+2025-08-15,cornel-adrian.pop@endava.com,Cornel Adrian Pop,ABSENCE,Unpaid Leave,,,,8
+2025-08-16,cornel-adrian.pop@endava.com,Cornel Adrian Pop,ABSENCE,Unpaid Leave,,,,8
+2025-08-17,cornel-adrian.pop@endava.com,Cornel Adrian Pop,ABSENCE,Unpaid Leave,,,,8
+2025-06-29,cornel-adrian.pop@endava.com,Cornel Adrian Pop,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-30,cornel-adrian.pop@endava.com,Cornel Adrian Pop,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-01,cornel-adrian.pop@endava.com,Cornel Adrian Pop,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-03,radu-mihai.nicoale@endava.com,Radu Nicolae,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-04,radu-mihai.nicoale@endava.com,Radu Nicolae,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-05,radu-mihai.nicoale@endava.com,Radu Nicolae,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-08,radu-mihai.nicoale@endava.com,Radu Nicolae,ABSENCE,Maternity Leave,,,,8
+2025-08-09,radu-mihai.nicoale@endava.com,Radu Nicolae,ABSENCE,Maternity Leave,,,,8
+2025-06-19,attila.szasz@endava.com,Attila Szasz,ABSENCE,TOIL Travel,,,,8
+2025-06-20,attila.szasz@endava.com,Attila Szasz,ABSENCE,TOIL Travel,,,,8
+2025-06-21,attila.szasz@endava.com,Attila Szasz,ABSENCE,TOIL Travel,,,,8
+2025-07-11,attila.szasz@endava.com,Attila Szasz,ABSENCE,Patternity Leave,,,,8
+2025-07-12,attila.szasz@endava.com,Attila Szasz,ABSENCE,Patternity Leave,,,,8
+2025-06-20,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-06-21,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-06-22,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-06-23,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-07-30,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-07-31,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-08-01,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-08-02,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-08-03,adrian-vasile.vladescu@endava.com,Adrian Vasile Vladescu,ABSENCE,Childcare Leave,,,,8
+2025-08-12,luisa-yi-qing.yang@endava.com,Luisa Yi Qing Yang,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-13,luisa-yi-qing.yang@endava.com,Luisa Yi Qing Yang,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-14,luisa-yi-qing.yang@endava.com,Luisa Yi Qing Yang,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-01,luisa-yi-qing.yang@endava.com,Luisa Yi Qing Yang,ABSENCE,TOIL Travel,,,,8
+2025-08-02,luisa-yi-qing.yang@endava.com,Luisa Yi Qing Yang,ABSENCE,TOIL Travel,,,,8
+2025-08-03,luisa-yi-qing.yang@endava.com,Luisa Yi Qing Yang,ABSENCE,TOIL Travel,,,,8
+2025-08-04,luisa-yi-qing.yang@endava.com,Luisa Yi Qing Yang,ABSENCE,TOIL Travel,,,,8
+2025-06-13,vlad.badulescu@endava.com,Vlad Badulescu,ABSENCE,Childcare Leave,,,,8
+2025-06-14,vlad.badulescu@endava.com,Vlad Badulescu,ABSENCE,Childcare Leave,,,,8
+2025-06-15,vlad.badulescu@endava.com,Vlad Badulescu,ABSENCE,Childcare Leave,,,,8
+2025-06-16,vlad.badulescu@endava.com,Vlad Badulescu,ABSENCE,Childcare Leave,,,,8
+2025-07-02,vlad.badulescu@endava.com,Vlad Badulescu,ABSENCE,Annual Leave,,,,8
+2025-07-03,vlad.badulescu@endava.com,Vlad Badulescu,ABSENCE,Annual Leave,,,,8
+2025-08-04,cosmin-gabriel.mirea@endava.com,Cosmin Gabriel Mirea,ABSENCE,Maternity Leave,,,,8
+2025-08-05,cosmin-gabriel.mirea@endava.com,Cosmin Gabriel Mirea,ABSENCE,Maternity Leave,,,,8
+2025-08-06,cosmin-gabriel.mirea@endava.com,Cosmin Gabriel Mirea,ABSENCE,Maternity Leave,,,,8
+2025-08-07,cosmin-gabriel.mirea@endava.com,Cosmin Gabriel Mirea,ABSENCE,Maternity Leave,,,,8
+2025-08-09,cosmin-gabriel.mirea@endava.com,Cosmin Gabriel Mirea,ABSENCE,Maternity Leave,,,,8
+2025-08-10,cosmin-gabriel.mirea@endava.com,Cosmin Gabriel Mirea,ABSENCE,Maternity Leave,,,,8
+2025-08-11,cosmin-gabriel.mirea@endava.com,Cosmin Gabriel Mirea,ABSENCE,Maternity Leave,,,,8
+2025-08-12,cosmin-gabriel.mirea@endava.com,Cosmin Gabriel Mirea,ABSENCE,Maternity Leave,,,,8
+2025-08-08,aron.telegdy@endava.com,Aron Domokos Telegdy,ABSENCE,Maternity Leave,,,,8
+2025-08-09,aron.telegdy@endava.com,Aron Domokos Telegdy,ABSENCE,Maternity Leave,,,,8
+2025-06-22,aron.telegdy@endava.com,Aron Domokos Telegdy,ABSENCE,Patternity Leave,,,,8
+2025-06-23,aron.telegdy@endava.com,Aron Domokos Telegdy,ABSENCE,Patternity Leave,,,,8
+2025-06-24,aron.telegdy@endava.com,Aron Domokos Telegdy,ABSENCE,Patternity Leave,,,,8
+2025-06-25,aron.telegdy@endava.com,Aron Domokos Telegdy,ABSENCE,Patternity Leave,,,,8
+2025-08-28,bogdan-cristian.marcu@endava.com,Bogdan Cristian Marcu,ABSENCE,Maternity Leave,,,,8
+2025-08-29,bogdan-cristian.marcu@endava.com,Bogdan Cristian Marcu,ABSENCE,Maternity Leave,,,,8
+2025-08-30,bogdan-cristian.marcu@endava.com,Bogdan Cristian Marcu,ABSENCE,Maternity Leave,,,,8
+2025-08-31,bogdan-cristian.marcu@endava.com,Bogdan Cristian Marcu,ABSENCE,Maternity Leave,,,,8
+2025-09-01,bogdan-cristian.marcu@endava.com,Bogdan Cristian Marcu,ABSENCE,Maternity Leave,,,,8
+2025-06-21,bogdan-cristian.marcu@endava.com,Bogdan Cristian Marcu,ABSENCE,Patternity Leave,,,,8
+2025-06-22,bogdan-cristian.marcu@endava.com,Bogdan Cristian Marcu,ABSENCE,Patternity Leave,,,,8
+2025-06-23,bogdan-cristian.marcu@endava.com,Bogdan Cristian Marcu,ABSENCE,Patternity Leave,,,,8
+2025-07-07,adina.gheorghevici@endava.com,Adina Gheorghevici,ABSENCE,Childcare Leave,,,,8
+2025-07-08,adina.gheorghevici@endava.com,Adina Gheorghevici,ABSENCE,Childcare Leave,,,,8
+2025-07-09,adina.gheorghevici@endava.com,Adina Gheorghevici,ABSENCE,Childcare Leave,,,,8
+2025-07-10,adina.gheorghevici@endava.com,Adina Gheorghevici,ABSENCE,Childcare Leave,,,,8
+2025-07-11,adina.gheorghevici@endava.com,Adina Gheorghevici,ABSENCE,Childcare Leave,,,,8
+2025-08-22,adina.gheorghevici@endava.com,Adina Gheorghevici,ABSENCE,Unpaid Leave,,,,8
+2025-06-29,radu-ioan.stoica@endava.com,Radu Ioan Stoica,ABSENCE,Annual Leave,,,,8
+2025-06-30,radu-ioan.stoica@endava.com,Radu Ioan Stoica,ABSENCE,Annual Leave,,,,8
+2025-07-01,radu-ioan.stoica@endava.com,Radu Ioan Stoica,ABSENCE,Annual Leave,,,,8
+2025-07-02,radu-ioan.stoica@endava.com,Radu Ioan Stoica,ABSENCE,Annual Leave,,,,8
+2025-07-03,radu-ioan.stoica@endava.com,Radu Ioan Stoica,ABSENCE,Annual Leave,,,,8
+2025-06-27,radu-ioan.stoica@endava.com,Radu Ioan Stoica,ABSENCE,Annual Leave,,,,8
+2025-06-28,radu-ioan.stoica@endava.com,Radu Ioan Stoica,ABSENCE,Annual Leave,,,,8
+2025-07-23,raluca-elisa.butiurca@endava.com,Raluca Elisa Butiurca,ABSENCE,Maternity Leave,,,,8
+2025-08-01,raluca-elisa.butiurca@endava.com,Raluca Elisa Butiurca,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-02,raluca-elisa.butiurca@endava.com,Raluca Elisa Butiurca,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-03,raluca-elisa.butiurca@endava.com,Raluca Elisa Butiurca,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-04,raluca-elisa.butiurca@endava.com,Raluca Elisa Butiurca,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-28,andra-maria.petcu@endava.com,Andra-Maria Petcu,ABSENCE,Maternity Leave,,,,8
+2025-06-29,andra-maria.petcu@endava.com,Andra-Maria Petcu,ABSENCE,Maternity Leave,,,,8
+2025-06-08,andra-maria.petcu@endava.com,Andra-Maria Petcu,ABSENCE,Patternity Leave,,,,8
+2025-06-09,andra-maria.petcu@endava.com,Andra-Maria Petcu,ABSENCE,Patternity Leave,,,,8
+2025-07-03,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,Special Leave,,,,8
+2025-07-04,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,Special Leave,,,,8
+2025-07-05,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,Special Leave,,,,8
+2025-07-06,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,Special Leave,,,,8
+2025-07-07,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,Special Leave,,,,8
+2025-07-22,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-23,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-24,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-25,irina.vasilita@endava.com,Irina Vasilita,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-28,sabin-andrei.popa@endava.com,Sabin Andrei Popa,ABSENCE,TOIL Travel,,,,8
+2025-07-06,sabin-andrei.popa@endava.com,Sabin Andrei Popa,ABSENCE,Maternity Leave,,,,8
+2025-06-25,rares.muresan@endava.com,Rares Muresan,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-26,rares.muresan@endava.com,Rares Muresan,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-27,rares.muresan@endava.com,Rares Muresan,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-28,rares.muresan@endava.com,Rares Muresan,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-29,rares.muresan@endava.com,Rares Muresan,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-23,rares.muresan@endava.com,Rares Muresan,ABSENCE,Maternity Leave,,,,8
+2025-06-24,rares.muresan@endava.com,Rares Muresan,ABSENCE,Maternity Leave,,,,8
+2025-06-25,rares.muresan@endava.com,Rares Muresan,ABSENCE,Maternity Leave,,,,8
+2025-08-08,anton-calin.stroia@endava.com,Anton Calin Stroia,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-04,anton-calin.stroia@endava.com,Anton Calin Stroia,ABSENCE,Medical Leave,,,,8
+2025-08-05,anton-calin.stroia@endava.com,Anton Calin Stroia,ABSENCE,Medical Leave,,,,8
+2025-08-19,alexandru.tarcan@endava.com,Alexandru Tarcan,ABSENCE,Patternity Leave,,,,8
+2025-08-20,alexandru.tarcan@endava.com,Alexandru Tarcan,ABSENCE,Patternity Leave,,,,8
+2025-08-21,alexandru.tarcan@endava.com,Alexandru Tarcan,ABSENCE,Patternity Leave,,,,8
+2025-07-09,alexandru.tarcan@endava.com,Alexandru Tarcan,ABSENCE,Patternity Leave,,,,8
+2025-07-10,alexandru.tarcan@endava.com,Alexandru Tarcan,ABSENCE,Patternity Leave,,,,8
+2025-07-11,alexandru.tarcan@endava.com,Alexandru Tarcan,ABSENCE,Patternity Leave,,,,8
+2025-07-11,razvan.azoitei@endava.com,Razvan Azoitei,ABSENCE,Unpaid Leave,,,,8
+2025-07-12,razvan.azoitei@endava.com,Razvan Azoitei,ABSENCE,Unpaid Leave,,,,8
+2025-06-30,razvan.azoitei@endava.com,Razvan Azoitei,ABSENCE,Special Leave Adoption,,,,8
+2025-08-20,ioan.agape@endava.com,Ioan Agape,ABSENCE,Childcare Leave,,,,8
+2025-08-21,ioan.agape@endava.com,Ioan Agape,ABSENCE,Childcare Leave,,,,8
+2025-08-07,ioan.agape@endava.com,Ioan Agape,ABSENCE,Childcare Leave,,,,8
+2025-08-08,ioan.agape@endava.com,Ioan Agape,ABSENCE,Childcare Leave,,,,8
+2025-08-09,ioan.agape@endava.com,Ioan Agape,ABSENCE,Childcare Leave,,,,8
+2025-07-20,mihnea.amihailesei@endava.com,Mihnea Amihailesei,ABSENCE,Medical Leave,,,,8
+2025-07-21,mihnea.amihailesei@endava.com,Mihnea Amihailesei,ABSENCE,Medical Leave,,,,8
+2025-07-05,mihnea.amihailesei@endava.com,Mihnea Amihailesei,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-06,mihnea.amihailesei@endava.com,Mihnea Amihailesei,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-04,bianca-maria.lazar@endava.com,Bianca Maria Lazar,ABSENCE,Maternity Leave,,,,8
+2025-08-18,bianca-maria.lazar@endava.com,Bianca Maria Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-08-19,bianca-maria.lazar@endava.com,Bianca Maria Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-08-20,bianca-maria.lazar@endava.com,Bianca Maria Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-08-21,bianca-maria.lazar@endava.com,Bianca Maria Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-07-02,andrei-madalin.diaconu@endava.com,Andrei Madalin Diaconu,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-03,andrei-madalin.diaconu@endava.com,Andrei Madalin Diaconu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-15,andrei-madalin.diaconu@endava.com,Andrei Madalin Diaconu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-16,andrei-madalin.diaconu@endava.com,Andrei Madalin Diaconu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-17,andrei-madalin.diaconu@endava.com,Andrei Madalin Diaconu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-07,iustin-mihai.stanciu@endava.com,Iustin-Mihai Stanciu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-08,iustin-mihai.stanciu@endava.com,Iustin-Mihai Stanciu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-09,iustin-mihai.stanciu@endava.com,Iustin-Mihai Stanciu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-10,iustin-mihai.stanciu@endava.com,Iustin-Mihai Stanciu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-11,iustin-mihai.stanciu@endava.com,Iustin-Mihai Stanciu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-12,iustin-mihai.stanciu@endava.com,Iustin-Mihai Stanciu,ABSENCE,Special Leave,,,,8
+2025-08-13,iustin-mihai.stanciu@endava.com,Iustin-Mihai Stanciu,ABSENCE,Special Leave,,,,8
+2025-07-11,andrei.andries@endava.com,Andrei Andries,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-17,andrei.andries@endava.com,Andrei Andries,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-18,andrei.andries@endava.com,Andrei Andries,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-19,andrei.andries@endava.com,Andrei Andries,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-20,andrei.andries@endava.com,Andrei Andries,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-21,andrei.andries@endava.com,Andrei Andries,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-23,vlad-cristian.brinzas@endava.com,Vlad Cristian Brinzas,ABSENCE,Patternity Leave,,,,8
+2025-06-24,vlad-cristian.brinzas@endava.com,Vlad Cristian Brinzas,ABSENCE,Patternity Leave,,,,8
+2025-06-25,vlad-cristian.brinzas@endava.com,Vlad Cristian Brinzas,ABSENCE,Patternity Leave,,,,8
+2025-07-11,vlad-cristian.brinzas@endava.com,Vlad Cristian Brinzas,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-12,vlad-cristian.brinzas@endava.com,Vlad Cristian Brinzas,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-13,vlad-cristian.brinzas@endava.com,Vlad Cristian Brinzas,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-14,vlad-cristian.brinzas@endava.com,Vlad Cristian Brinzas,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-15,vlad-cristian.brinzas@endava.com,Vlad Cristian Brinzas,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-18,rodica-elena.rosca@endava.com,Rodica Elena Rosca,ABSENCE,Medical Leave,,,,8
+2025-07-19,rodica-elena.rosca@endava.com,Rodica Elena Rosca,ABSENCE,Medical Leave,,,,8
+2025-07-20,rodica-elena.rosca@endava.com,Rodica Elena Rosca,ABSENCE,Medical Leave,,,,8
+2025-08-25,rodica-elena.rosca@endava.com,Rodica Elena Rosca,ABSENCE,Maternity Leave,,,,8
+2025-08-26,rodica-elena.rosca@endava.com,Rodica Elena Rosca,ABSENCE,Maternity Leave,,,,8
+2025-08-30,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,Patternity Leave,,,,8
+2025-08-31,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,Patternity Leave,,,,8
+2025-09-01,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,Patternity Leave,,,,8
+2025-09-02,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,Patternity Leave,,,,8
+2025-09-03,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,Patternity Leave,,,,8
+2025-08-07,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-08,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-09,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-10,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-11,anca-vasilica.iacob@endava.com,Anca Vasilica Iacob,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-02,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Unpaid Leave,,,,8
+2025-07-03,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Unpaid Leave,,,,8
+2025-07-04,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Unpaid Leave,,,,8
+2025-07-05,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Unpaid Leave,,,,8
+2025-07-06,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Unpaid Leave,,,,8
+2025-06-14,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Special Leave Adoption,,,,8
+2025-06-15,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Special Leave Adoption,,,,8
+2025-06-16,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Special Leave Adoption,,,,8
+2025-06-17,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Special Leave Adoption,,,,8
+2025-06-18,mihai.maciuc@endava.com,Mihai Maciuc,ABSENCE,Special Leave Adoption,,,,8
+2025-07-23,tudor.arion@endava.com,Vasile Tudorel Arion,ABSENCE,Medical Leave,,,,8
+2025-07-16,tudor.arion@endava.com,Vasile Tudorel Arion,ABSENCE,Unpaid Leave,,,,8
+2025-07-17,tudor.arion@endava.com,Vasile Tudorel Arion,ABSENCE,Unpaid Leave,,,,8
+2025-07-18,tudor.arion@endava.com,Vasile Tudorel Arion,ABSENCE,Unpaid Leave,,,,8
+2025-07-19,tudor.arion@endava.com,Vasile Tudorel Arion,ABSENCE,Unpaid Leave,,,,8
+2025-08-03,tudor-gabriel.pascaru@endava.com,Tudor Gabriel Pascaru,ABSENCE,TOIL Travel,,,,8
+2025-07-05,tudor-gabriel.pascaru@endava.com,Tudor Gabriel Pascaru,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-06,tudor-gabriel.pascaru@endava.com,Tudor Gabriel Pascaru,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-17,mihnea-daniel.popescu@endava.com,Mihnea Daniel Popescu,ABSENCE,Medical Leave,,,,8
+2025-07-25,mihnea-daniel.popescu@endava.com,Mihnea Daniel Popescu,ABSENCE,Special Leave,,,,8
+2025-07-26,mihnea-daniel.popescu@endava.com,Mihnea Daniel Popescu,ABSENCE,Special Leave,,,,8
+2025-07-27,mihnea-daniel.popescu@endava.com,Mihnea Daniel Popescu,ABSENCE,Special Leave,,,,8
+2025-06-25,george-eduard.achiriloaei@endava.com,George Eduard Achiriloaei,ABSENCE,Medical Leave,,,,8
+2025-07-12,george-eduard.achiriloaei@endava.com,George Eduard Achiriloaei,ABSENCE,Patternity Leave,,,,8
+2025-07-13,george-eduard.achiriloaei@endava.com,George Eduard Achiriloaei,ABSENCE,Patternity Leave,,,,8
+2025-06-19,angel-david.palihovici@endava.com,Angel David Palihovici,ABSENCE,Childcare Leave,,,,8
+2025-06-20,angel-david.palihovici@endava.com,Angel David Palihovici,ABSENCE,Childcare Leave,,,,8
+2025-06-25,angel-david.palihovici@endava.com,Angel David Palihovici,ABSENCE,Unpaid Leave,,,,8
+2025-06-26,angel-david.palihovici@endava.com,Angel David Palihovici,ABSENCE,Unpaid Leave,,,,8
+2025-08-16,armin-andrei.chanchian@endava.com,Armin Andrei Chanchian,ABSENCE,Special Leave Adoption,,,,8
+2025-08-17,armin-andrei.chanchian@endava.com,Armin Andrei Chanchian,ABSENCE,Special Leave Adoption,,,,8
+2025-08-18,armin-andrei.chanchian@endava.com,Armin Andrei Chanchian,ABSENCE,Special Leave Adoption,,,,8
+2025-06-24,armin-andrei.chanchian@endava.com,Armin Andrei Chanchian,ABSENCE,Unpaid Leave,,,,8
+2025-06-25,armin-andrei.chanchian@endava.com,Armin Andrei Chanchian,ABSENCE,Unpaid Leave,,,,8
+2025-06-26,armin-andrei.chanchian@endava.com,Armin Andrei Chanchian,ABSENCE,Unpaid Leave,,,,8
+2025-06-27,armin-andrei.chanchian@endava.com,Armin Andrei Chanchian,ABSENCE,Unpaid Leave,,,,8
+2025-06-28,armin-andrei.chanchian@endava.com,Armin Andrei Chanchian,ABSENCE,Unpaid Leave,,,,8
+2025-06-23,alexandru.burlica@endava.com,Alexandru Burlica,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-24,alexandru.burlica@endava.com,Alexandru Burlica,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-25,alexandru.burlica@endava.com,Alexandru Burlica,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-28,alexandru.burlica@endava.com,Alexandru Burlica,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-29,alexandru.burlica@endava.com,Alexandru Burlica,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-09,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,Maternity Leave,,,,8
+2025-07-10,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,Maternity Leave,,,,8
+2025-07-11,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,Maternity Leave,,,,8
+2025-07-12,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,Maternity Leave,,,,8
+2025-07-13,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,Maternity Leave,,,,8
+2025-08-16,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-17,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-18,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-19,andrei-octavian.minca@endava.com,Andrei Octavian Minca,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-17,costina.vanghele@endava.com,Costina Vanghele,ABSENCE,TOIL Travel,,,,8
+2025-08-18,costina.vanghele@endava.com,Costina Vanghele,ABSENCE,TOIL Travel,,,,8
+2025-08-19,costina.vanghele@endava.com,Costina Vanghele,ABSENCE,TOIL Travel,,,,8
+2025-08-20,costina.vanghele@endava.com,Costina Vanghele,ABSENCE,TOIL Travel,,,,8
+2025-07-20,costina.vanghele@endava.com,Costina Vanghele,ABSENCE,TOIL Travel,,,,8
+2025-07-21,costina.vanghele@endava.com,Costina Vanghele,ABSENCE,TOIL Travel,,,,8
+2025-07-22,costina.vanghele@endava.com,Costina Vanghele,ABSENCE,TOIL Travel,,,,8
+2025-07-23,costina.vanghele@endava.com,Costina Vanghele,ABSENCE,TOIL Travel,,,,8
+2025-08-24,adriana-maria.vadean@endava.com,Adriana Maria Vadean,ABSENCE,TOIL Travel,,,,8
+2025-08-25,adriana-maria.vadean@endava.com,Adriana Maria Vadean,ABSENCE,TOIL Travel,,,,8
+2025-08-26,adriana-maria.vadean@endava.com,Adriana Maria Vadean,ABSENCE,TOIL Travel,,,,8
+2025-08-27,adriana-maria.vadean@endava.com,Adriana Maria Vadean,ABSENCE,TOIL Travel,,,,8
+2025-08-28,adriana-maria.vadean@endava.com,Adriana Maria Vadean,ABSENCE,TOIL Travel,,,,8
+2025-06-12,adriana-maria.vadean@endava.com,Adriana Maria Vadean,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-13,adriana-maria.vadean@endava.com,Adriana Maria Vadean,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-17,delia.tudor@endava.com,Delia Tudor,ABSENCE,Childcare Leave,,,,8
+2025-08-13,delia.tudor@endava.com,Delia Tudor,ABSENCE,Medical Leave,,,,8
+2025-08-14,delia.tudor@endava.com,Delia Tudor,ABSENCE,Medical Leave,,,,8
+2025-08-15,delia.tudor@endava.com,Delia Tudor,ABSENCE,Medical Leave,,,,8
+2025-06-20,vlad.baranceanu@endava.com,Vlad Baranceanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-21,vlad.baranceanu@endava.com,Vlad Baranceanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-22,vlad.baranceanu@endava.com,Vlad Baranceanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-07,vlad.baranceanu@endava.com,Vlad Baranceanu,ABSENCE,Maternity Leave,,,,8
+2025-06-08,vlad.baranceanu@endava.com,Vlad Baranceanu,ABSENCE,Maternity Leave,,,,8
+2025-08-25,stefan.liute@endava.com,Stefan Liute,ABSENCE,Special Leave Adoption,,,,8
+2025-08-13,stefan.liute@endava.com,Stefan Liute,ABSENCE,Medical Leave,,,,8
+2025-08-14,stefan.liute@endava.com,Stefan Liute,ABSENCE,Medical Leave,,,,8
+2025-08-15,stefan.liute@endava.com,Stefan Liute,ABSENCE,Medical Leave,,,,8
+2025-08-05,sorin-cristian.miron@endava.com,Sorin Cristian Miron,ABSENCE,Childcare Leave,,,,8
+2025-08-06,sorin-cristian.miron@endava.com,Sorin Cristian Miron,ABSENCE,Childcare Leave,,,,8
+2025-08-07,sorin-cristian.miron@endava.com,Sorin Cristian Miron,ABSENCE,Childcare Leave,,,,8
+2025-06-05,sorin-cristian.miron@endava.com,Sorin Cristian Miron,ABSENCE,Patternity Leave,,,,8
+2025-06-06,sorin-cristian.miron@endava.com,Sorin Cristian Miron,ABSENCE,Patternity Leave,,,,8
+2025-06-07,sorin-cristian.miron@endava.com,Sorin Cristian Miron,ABSENCE,Patternity Leave,,,,8
+2025-06-08,sorin-cristian.miron@endava.com,Sorin Cristian Miron,ABSENCE,Patternity Leave,,,,8
+2025-08-29,arthur.negosanu@endava.com,Arthur Negosanu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-30,arthur.negosanu@endava.com,Arthur Negosanu,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-29,arthur.negosanu@endava.com,Arthur Negosanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-30,arthur.negosanu@endava.com,Arthur Negosanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-31,arthur.negosanu@endava.com,Arthur Negosanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-01,arthur.negosanu@endava.com,Arthur Negosanu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-20,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Unpaid Leave,,,,8
+2025-07-21,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Unpaid Leave,,,,8
+2025-07-22,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Unpaid Leave,,,,8
+2025-07-23,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Unpaid Leave,,,,8
+2025-08-19,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Annual Leave,,,,8
+2025-08-20,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Annual Leave,,,,8
+2025-08-21,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Annual Leave,,,,8
+2025-08-22,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Annual Leave,,,,8
+2025-08-23,tudor-mihai.iakkel@endava.com,Tudor Mihai Iakkel,ABSENCE,Annual Leave,,,,8
+2025-07-12,luka.popovici@endava.com,Luka Popovici,ABSENCE,Special Leave,,,,8
+2025-07-13,luka.popovici@endava.com,Luka Popovici,ABSENCE,Special Leave,,,,8
+2025-07-14,luka.popovici@endava.com,Luka Popovici,ABSENCE,Special Leave,,,,8
+2025-06-09,luka.popovici@endava.com,Luka Popovici,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-09,vasile.meghesan@endava.com,Vasile Meghesan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-10,vasile.meghesan@endava.com,Vasile Meghesan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-11,vasile.meghesan@endava.com,Vasile Meghesan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-12,vasile.meghesan@endava.com,Vasile Meghesan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-13,vasile.meghesan@endava.com,Vasile Meghesan,ABSENCE,Special Leave Adoption,,,,8
+2025-06-27,vasile.meghesan@endava.com,Vasile Meghesan,ABSENCE,Special Leave,,,,8
+2025-06-28,vasile.meghesan@endava.com,Vasile Meghesan,ABSENCE,Special Leave,,,,8
+2025-06-05,andrei-george.avram@endava.com,Andrei George Avram,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-06,andrei-george.avram@endava.com,Andrei George Avram,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-07,andrei-george.avram@endava.com,Andrei George Avram,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-08,andrei-george.avram@endava.com,Andrei George Avram,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-09,andrei-george.avram@endava.com,Andrei George Avram,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-22,andrei-george.avram@endava.com,Andrei George Avram,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-23,andrei-george.avram@endava.com,Andrei George Avram,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-13,claudiu.marinescu@endava.com,Claudiu Marinescu,ABSENCE,Maternity Leave,,,,8
+2025-08-14,claudiu.marinescu@endava.com,Claudiu Marinescu,ABSENCE,Maternity Leave,,,,8
+2025-07-04,claudiu.marinescu@endava.com,Claudiu Marinescu,ABSENCE,Special Leave Adoption,,,,8
+2025-07-05,claudiu.marinescu@endava.com,Claudiu Marinescu,ABSENCE,Special Leave Adoption,,,,8
+2025-07-06,claudiu.marinescu@endava.com,Claudiu Marinescu,ABSENCE,Special Leave Adoption,,,,8
+2025-07-07,claudiu.marinescu@endava.com,Claudiu Marinescu,ABSENCE,Special Leave Adoption,,,,8
+2025-06-30,mirela-magdalena.catrina@endava.com,Mirela-Magdalena Catrina,ABSENCE,Maternity Leave,,,,8
+2025-07-01,mirela-magdalena.catrina@endava.com,Mirela-Magdalena Catrina,ABSENCE,Maternity Leave,,,,8
+2025-07-02,mirela-magdalena.catrina@endava.com,Mirela-Magdalena Catrina,ABSENCE,Maternity Leave,,,,8
+2025-08-26,mirela-magdalena.catrina@endava.com,Mirela-Magdalena Catrina,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-27,mirela-magdalena.catrina@endava.com,Mirela-Magdalena Catrina,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-13,catalin.festeu@endava.com,Catalin Festeu,ABSENCE,Patternity Leave,,,,8
+2025-07-14,catalin.festeu@endava.com,Catalin Festeu,ABSENCE,Patternity Leave,,,,8
+2025-07-15,catalin.festeu@endava.com,Catalin Festeu,ABSENCE,Patternity Leave,,,,8
+2025-07-16,catalin.festeu@endava.com,Catalin Festeu,ABSENCE,Patternity Leave,,,,8
+2025-07-08,catalin.festeu@endava.com,Catalin Festeu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-16,robert.fedus@endava.com,Robert Fedus,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-17,robert.fedus@endava.com,Robert Fedus,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-18,robert.fedus@endava.com,Robert Fedus,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-06,robert.fedus@endava.com,Robert Fedus,ABSENCE,Childcare Leave,,,,8
+2025-06-07,robert.fedus@endava.com,Robert Fedus,ABSENCE,Childcare Leave,,,,8
+2025-06-08,robert.fedus@endava.com,Robert Fedus,ABSENCE,Childcare Leave,,,,8
+2025-06-27,dragos-alexandru.ion@endava.com,Dragos Alexandru Ion,ABSENCE,Annual Leave,,,,8
+2025-06-28,dragos-alexandru.ion@endava.com,Dragos Alexandru Ion,ABSENCE,Annual Leave,,,,8
+2025-06-29,dragos-alexandru.ion@endava.com,Dragos Alexandru Ion,ABSENCE,Annual Leave,,,,8
+2025-06-30,dragos-alexandru.ion@endava.com,Dragos Alexandru Ion,ABSENCE,Annual Leave,,,,8
+2025-07-01,dragos-alexandru.ion@endava.com,Dragos Alexandru Ion,ABSENCE,Annual Leave,,,,8
+2025-07-30,dragos-alexandru.ion@endava.com,Dragos Alexandru Ion,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-31,dragos-alexandru.ion@endava.com,Dragos Alexandru Ion,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-01,dragos-alexandru.ion@endava.com,Dragos Alexandru Ion,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-26,alexandru.catrinescu@endava.com,Alexandru Catrinescu,ABSENCE,Childcare Leave,,,,8
+2025-07-27,alexandru.catrinescu@endava.com,Alexandru Catrinescu,ABSENCE,Childcare Leave,,,,8
+2025-07-28,alexandru.catrinescu@endava.com,Alexandru Catrinescu,ABSENCE,Childcare Leave,,,,8
+2025-07-29,alexandru.catrinescu@endava.com,Alexandru Catrinescu,ABSENCE,Childcare Leave,,,,8
+2025-07-30,alexandru.catrinescu@endava.com,Alexandru Catrinescu,ABSENCE,Childcare Leave,,,,8
+2025-08-26,alexandru.cazan@endava.com,Alexandru Gabriel Cazan,ABSENCE,Special Leave,,,,8
+2025-08-12,tudor.muntean@endava.com,Tudor Muntean,ABSENCE,Special Leave,,,,8
+2025-08-13,tudor.muntean@endava.com,Tudor Muntean,ABSENCE,Special Leave,,,,8
+2025-08-14,tudor.muntean@endava.com,Tudor Muntean,ABSENCE,Special Leave,,,,8
+2025-08-15,denisa.ibanescu@endava.com,Denisa Ibanescu,ABSENCE,Annual Leave,,,,8
+2025-08-16,denisa.ibanescu@endava.com,Denisa Ibanescu,ABSENCE,Annual Leave,,,,8
+2025-08-17,denisa.ibanescu@endava.com,Denisa Ibanescu,ABSENCE,Annual Leave,,,,8
+2025-08-18,denisa.ibanescu@endava.com,Denisa Ibanescu,ABSENCE,Annual Leave,,,,8
+2025-08-18,luigi-emanuel.arama@endava.com,Luigi Emanuel Arama,ABSENCE,TOIL Travel,,,,8
+2025-08-19,luigi-emanuel.arama@endava.com,Luigi Emanuel Arama,ABSENCE,TOIL Travel,,,,8
+2025-08-20,luigi-emanuel.arama@endava.com,Luigi Emanuel Arama,ABSENCE,TOIL Travel,,,,8
+2025-07-28,radu-ioan.maris@endava.com,Radu Ioan Maris,ABSENCE,Special Leave,,,,8
+2025-07-29,radu-ioan.maris@endava.com,Radu Ioan Maris,ABSENCE,Special Leave,,,,8
+2025-07-30,radu-ioan.maris@endava.com,Radu Ioan Maris,ABSENCE,Special Leave,,,,8
+2025-07-31,radu-ioan.maris@endava.com,Radu Ioan Maris,ABSENCE,Special Leave,,,,8
+2025-08-01,radu-ioan.maris@endava.com,Radu Ioan Maris,ABSENCE,Special Leave,,,,8
+2025-06-03,vlad-marian.pitariu@endava.com,Vlad Marian Pitariu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-09,mozes.csaszar@endava.com,Mozes Csaszar,ABSENCE,Unpaid Leave,,,,8
+2025-07-10,mozes.csaszar@endava.com,Mozes Csaszar,ABSENCE,Unpaid Leave,,,,8
+2025-07-30,petru-adelin.cojocaru@endava.com,Petru Adelin Cojocaru,ABSENCE,Childcare Leave,,,,8
+2025-07-31,petru-adelin.cojocaru@endava.com,Petru Adelin Cojocaru,ABSENCE,Childcare Leave,,,,8
+2025-08-01,petru-adelin.cojocaru@endava.com,Petru Adelin Cojocaru,ABSENCE,Childcare Leave,,,,8
+2025-08-02,petru-adelin.cojocaru@endava.com,Petru Adelin Cojocaru,ABSENCE,Childcare Leave,,,,8
+2025-08-03,petru-adelin.cojocaru@endava.com,Petru Adelin Cojocaru,ABSENCE,Childcare Leave,,,,8
+2025-06-04,dumitru-andrei.iroftei@endava.com,Dumitru Andrei Iroftei,ABSENCE,Unpaid Leave,,,,8
+2025-06-05,dumitru-andrei.iroftei@endava.com,Dumitru Andrei Iroftei,ABSENCE,Unpaid Leave,,,,8
+2025-06-06,dumitru-andrei.iroftei@endava.com,Dumitru Andrei Iroftei,ABSENCE,Unpaid Leave,,,,8
+2025-06-07,dumitru-andrei.iroftei@endava.com,Dumitru Andrei Iroftei,ABSENCE,Unpaid Leave,,,,8
+2025-08-18,madalina.birtu@endava.com,Madalina Birtu,ABSENCE,Childcare Leave,,,,8
+2025-08-19,madalina.birtu@endava.com,Madalina Birtu,ABSENCE,Childcare Leave,,,,8
+2025-08-20,madalina.birtu@endava.com,Madalina Birtu,ABSENCE,Childcare Leave,,,,8
+2025-08-21,madalina.birtu@endava.com,Madalina Birtu,ABSENCE,Childcare Leave,,,,8
+2025-08-22,madalina.birtu@endava.com,Madalina Birtu,ABSENCE,Childcare Leave,,,,8
+2025-06-02,alexandru.cinipa@endava.com,Alexandru Cinipa,ABSENCE,Medical Leave,,,,8
+2025-08-18,iuliana-elena.rusu@endava.com,Iuliana Elena Rusu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-19,iuliana-elena.rusu@endava.com,Iuliana Elena Rusu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-20,iuliana-elena.rusu@endava.com,Iuliana Elena Rusu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-21,iuliana-elena.rusu@endava.com,Iuliana Elena Rusu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-22,iuliana-elena.rusu@endava.com,Iuliana Elena Rusu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-05,augustin-dumitru.sasu@endava.com,Augustin Dumitru Sasu,ABSENCE,Maternity Leave,,,,8
+2025-06-06,augustin-dumitru.sasu@endava.com,Augustin Dumitru Sasu,ABSENCE,Maternity Leave,,,,8
+2025-07-30,irina.morosanu@endava.com,Irina Morosanu,ABSENCE,Unpaid Leave,,,,8
+2025-07-31,irina.morosanu@endava.com,Irina Morosanu,ABSENCE,Unpaid Leave,,,,8
+2025-08-01,irina.morosanu@endava.com,Irina Morosanu,ABSENCE,Unpaid Leave,,,,8
+2025-08-02,irina.morosanu@endava.com,Irina Morosanu,ABSENCE,Unpaid Leave,,,,8
+2025-08-03,irina.morosanu@endava.com,Irina Morosanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-25,alexandru.chelaru@endava.com,Alexandru Chelaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-26,alexandru.chelaru@endava.com,Alexandru Chelaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-27,alexandru.chelaru@endava.com,Alexandru Chelaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-28,alexandru.chelaru@endava.com,Alexandru Chelaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-29,alexandru.chelaru@endava.com,Alexandru Chelaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-13,denis-alexandru.antonescu@endava.com,Denis-Alexandru Antonescu,ABSENCE,Patternity Leave,,,,8
+2025-07-14,denis-alexandru.antonescu@endava.com,Denis-Alexandru Antonescu,ABSENCE,Patternity Leave,,,,8
+2025-07-15,denis-alexandru.antonescu@endava.com,Denis-Alexandru Antonescu,ABSENCE,Patternity Leave,,,,8
+2025-07-16,denis-alexandru.antonescu@endava.com,Denis-Alexandru Antonescu,ABSENCE,Patternity Leave,,,,8
+2025-06-16,rares-gabriel.margarint@endava.com,Rares Gabriel Margarint,ABSENCE,Unpaid Leave,,,,8
+2025-07-17,alexandru.pestritu@endava.com,Alexandru Pestritu,ABSENCE,Patternity Leave,,,,8
+2025-07-11,oana-maria.danciu@endava.com,Oana-Maria Danciu,ABSENCE,Annual Leave,,,,8
+2025-07-12,oana-maria.danciu@endava.com,Oana-Maria Danciu,ABSENCE,Annual Leave,,,,8
+2025-06-06,mihai-cristian.tabarcea@endava.com,Mihai Cristian Tabarcea,ABSENCE,Patternity Leave,,,,8
+2025-06-07,mihai-cristian.tabarcea@endava.com,Mihai Cristian Tabarcea,ABSENCE,Patternity Leave,,,,8
+2025-06-08,mihai-cristian.tabarcea@endava.com,Mihai Cristian Tabarcea,ABSENCE,Patternity Leave,,,,8
+2025-07-19,george-nicolae.botos@endava.com,George Nicolae Botos,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-23,paul-valentin.vela@endava.com,Paul Valentin Vela,ABSENCE,Medical Leave,,,,8
+2025-06-24,paul-valentin.vela@endava.com,Paul Valentin Vela,ABSENCE,Medical Leave,,,,8
+2025-06-25,veronica.caplea@endava.com,Veronica Caplea,ABSENCE,Annual Leave,,,,8
+2025-06-26,veronica.caplea@endava.com,Veronica Caplea,ABSENCE,Annual Leave,,,,8
+2025-06-27,veronica.caplea@endava.com,Veronica Caplea,ABSENCE,Annual Leave,,,,8
+2025-06-28,veronica.caplea@endava.com,Veronica Caplea,ABSENCE,Annual Leave,,,,8
+2025-06-03,eduard-stefan.mariniuc@endava.com,Eduard Stefan Mariniuc,ABSENCE,Annual Leave,,,,8
+2025-06-04,eduard-stefan.mariniuc@endava.com,Eduard Stefan Mariniuc,ABSENCE,Annual Leave,,,,8
+2025-06-05,eduard-stefan.mariniuc@endava.com,Eduard Stefan Mariniuc,ABSENCE,Annual Leave,,,,8
+2025-07-13,andrei-bogdan.aluculesei@endava.com,Andrei Bogdan Aluculesei,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-14,andrei-bogdan.aluculesei@endava.com,Andrei Bogdan Aluculesei,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-21,cosmin-gabriel.petriuc@endava.com,Cosmin Gabriel Petriuc,ABSENCE,Annual Leave,,,,8
+2025-06-22,cosmin-gabriel.petriuc@endava.com,Cosmin Gabriel Petriuc,ABSENCE,Annual Leave,,,,8
+2025-08-10,darius.fratila@endava.com,Darius Fratila,ABSENCE,Annual Leave,,,,8
+2025-08-11,darius.fratila@endava.com,Darius Fratila,ABSENCE,Annual Leave,,,,8
+2025-08-12,darius.fratila@endava.com,Darius Fratila,ABSENCE,Annual Leave,,,,8
+2025-08-13,darius.fratila@endava.com,Darius Fratila,ABSENCE,Annual Leave,,,,8
+2025-08-14,darius.fratila@endava.com,Darius Fratila,ABSENCE,Annual Leave,,,,8
+2025-08-28,alexandru.bardasu@endava.com,Alexandru Bardasu,ABSENCE,Medical Leave,,,,8
+2025-08-29,alexandru.bardasu@endava.com,Alexandru Bardasu,ABSENCE,Medical Leave,,,,8
+2025-08-30,alexandru.bardasu@endava.com,Alexandru Bardasu,ABSENCE,Medical Leave,,,,8
+2025-08-31,alexandru.bardasu@endava.com,Alexandru Bardasu,ABSENCE,Medical Leave,,,,8
+2025-08-02,adrian.visan@endava.com,Adrian Visan,ABSENCE,Childcare Leave,,,,8
+2025-08-03,adrian.visan@endava.com,Adrian Visan,ABSENCE,Childcare Leave,,,,8
+2025-08-04,adrian.visan@endava.com,Adrian Visan,ABSENCE,Childcare Leave,,,,8
+2025-08-05,adrian.visan@endava.com,Adrian Visan,ABSENCE,Childcare Leave,,,,8
+2025-07-03,stefan-tiberiu.paduraru@endava.com,Stefan Tiberiu Paduraru,ABSENCE,Unpaid Leave,,,,8
+2025-07-04,stefan-tiberiu.paduraru@endava.com,Stefan Tiberiu Paduraru,ABSENCE,Unpaid Leave,,,,8
+2025-07-05,stefan-tiberiu.paduraru@endava.com,Stefan Tiberiu Paduraru,ABSENCE,Unpaid Leave,,,,8
+2025-07-31,maria-ioana.fuerea@endava.com,Maria-Ioana Fuerea,ABSENCE,Childcare Leave,,,,8
+2025-08-01,maria-ioana.fuerea@endava.com,Maria-Ioana Fuerea,ABSENCE,Childcare Leave,,,,8
+2025-08-02,maria-ioana.fuerea@endava.com,Maria-Ioana Fuerea,ABSENCE,Childcare Leave,,,,8
+2025-07-10,carmen-gabriela.nadragea@endava.com,Carmen-Gabriela Nadragea,ABSENCE,Maternity Leave,,,,8
+2025-07-11,carmen-gabriela.nadragea@endava.com,Carmen-Gabriela Nadragea,ABSENCE,Maternity Leave,,,,8
+2025-07-12,carmen-gabriela.nadragea@endava.com,Carmen-Gabriela Nadragea,ABSENCE,Maternity Leave,,,,8
+2025-07-30,alexandru.panainte@endava.com,Alexandru Panainte,ABSENCE,Special Leave Adoption,,,,8
+2025-07-31,alexandru.panainte@endava.com,Alexandru Panainte,ABSENCE,Special Leave Adoption,,,,8
+2025-08-01,alexandru.panainte@endava.com,Alexandru Panainte,ABSENCE,Special Leave Adoption,,,,8
+2025-08-02,alexandru.panainte@endava.com,Alexandru Panainte,ABSENCE,Special Leave Adoption,,,,8
+2025-08-03,alexandru.panainte@endava.com,Alexandru Panainte,ABSENCE,Special Leave Adoption,,,,8
+2025-07-21,alexandru.duta2@endava.com,Alexandru Duta,ABSENCE,Patternity Leave,,,,8
+2025-07-22,alexandru.duta2@endava.com,Alexandru Duta,ABSENCE,Patternity Leave,,,,8
+2025-06-20,sebastian-cristian.sleam@endava.com,Sebastian Cristian Sleam,ABSENCE,Patternity Leave,,,,8
+2025-08-19,stefan.cotos@endava.com,Stefan Cotos,ABSENCE,Annual Leave,,,,8
+2025-08-20,stefan.cotos@endava.com,Stefan Cotos,ABSENCE,Annual Leave,,,,8
+2025-08-21,stefan.cotos@endava.com,Stefan Cotos,ABSENCE,Annual Leave,,,,8
+2025-07-10,andrei-alin.socoteala@endava.com,Andrei Alin Socoteala,ABSENCE,TOIL Travel,,,,8
+2025-07-11,andrei-alin.socoteala@endava.com,Andrei Alin Socoteala,ABSENCE,TOIL Travel,,,,8
+2025-07-12,andrei-alin.socoteala@endava.com,Andrei Alin Socoteala,ABSENCE,TOIL Travel,,,,8
+2025-07-13,andrei-alin.socoteala@endava.com,Andrei Alin Socoteala,ABSENCE,TOIL Travel,,,,8
+2025-06-01,maria-madalina.olaru@endava.com,Maria Madalina Olaru,ABSENCE,Patternity Leave,,,,8
+2025-06-02,maria-madalina.olaru@endava.com,Maria Madalina Olaru,ABSENCE,Patternity Leave,,,,8
+2025-06-03,maria-madalina.olaru@endava.com,Maria Madalina Olaru,ABSENCE,Patternity Leave,,,,8
+2025-08-25,alexandra-elena.pitaru@endava.com,Alexandra Elena Pitaru,ABSENCE,TOIL Travel,,,,8
+2025-08-26,alexandra-elena.pitaru@endava.com,Alexandra Elena Pitaru,ABSENCE,TOIL Travel,,,,8
+2025-08-27,alexandra-elena.pitaru@endava.com,Alexandra Elena Pitaru,ABSENCE,TOIL Travel,,,,8
+2025-06-20,mihai-alexandru.birziloiu@endava.com,Mihai-Alexandru Birziloiu,ABSENCE,Annual Leave,,,,8
+2025-06-21,mihai-alexandru.birziloiu@endava.com,Mihai-Alexandru Birziloiu,ABSENCE,Annual Leave,,,,8
+2025-07-30,simona.boicu@endava.com,Simona Boicu,ABSENCE,TOIL Travel,,,,8
+2025-07-31,simona.boicu@endava.com,Simona Boicu,ABSENCE,TOIL Travel,,,,8
+2025-06-30,bianca-anamaria.chiorean@endava.com,Bianca Anamaria Chiorean,ABSENCE,Childcare Leave,,,,8
+2025-07-01,bianca-anamaria.chiorean@endava.com,Bianca Anamaria Chiorean,ABSENCE,Childcare Leave,,,,8
+2025-07-02,bianca-anamaria.chiorean@endava.com,Bianca Anamaria Chiorean,ABSENCE,Childcare Leave,,,,8
+2025-07-03,bianca-anamaria.chiorean@endava.com,Bianca Anamaria Chiorean,ABSENCE,Childcare Leave,,,,8
+2025-08-21,filip.craciun@endava.com,Filip Craciun,ABSENCE,TOIL Travel,,,,8
+2025-08-22,filip.craciun@endava.com,Filip Craciun,ABSENCE,TOIL Travel,,,,8
+2025-08-23,filip.craciun@endava.com,Filip Craciun,ABSENCE,TOIL Travel,,,,8
+2025-08-24,filip.craciun@endava.com,Filip Craciun,ABSENCE,TOIL Travel,,,,8
+2025-08-25,filip.craciun@endava.com,Filip Craciun,ABSENCE,TOIL Travel,,,,8
+2025-06-21,robert.cristian@endava.com,Robert Cristian,ABSENCE,Maternity Leave,,,,8
+2025-06-22,robert.cristian@endava.com,Robert Cristian,ABSENCE,Maternity Leave,,,,8
+2025-06-23,robert.cristian@endava.com,Robert Cristian,ABSENCE,Maternity Leave,,,,8
+2025-06-24,robert.cristian@endava.com,Robert Cristian,ABSENCE,Maternity Leave,,,,8
+2025-06-25,robert.cristian@endava.com,Robert Cristian,ABSENCE,Maternity Leave,,,,8
+2025-07-10,florin.nita@endava.com,Florin Nita,ABSENCE,Unpaid Leave,,,,8
+2025-07-11,florin.nita@endava.com,Florin Nita,ABSENCE,Unpaid Leave,,,,8
+2025-07-12,florin.nita@endava.com,Florin Nita,ABSENCE,Unpaid Leave,,,,8
+2025-07-13,florin.nita@endava.com,Florin Nita,ABSENCE,Unpaid Leave,,,,8
+2025-07-14,florin.nita@endava.com,Florin Nita,ABSENCE,Unpaid Leave,,,,8
+2025-06-12,gabriel.firisar@endava.com,Gabriel Firisar,ABSENCE,Maternity Leave,,,,8
+2025-06-13,gabriel.firisar@endava.com,Gabriel Firisar,ABSENCE,Maternity Leave,,,,8
+2025-06-14,gabriel.firisar@endava.com,Gabriel Firisar,ABSENCE,Maternity Leave,,,,8
+2025-06-15,gabriel.firisar@endava.com,Gabriel Firisar,ABSENCE,Maternity Leave,,,,8
+2025-07-30,mariana-ionela.muntian@endava.com,Mariana Ionela Muntian,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-06,huba.nemet@endava.com,Huba Nemet,ABSENCE,Maternity Leave,,,,8
+2025-06-07,huba.nemet@endava.com,Huba Nemet,ABSENCE,Maternity Leave,,,,8
+2025-06-08,huba.nemet@endava.com,Huba Nemet,ABSENCE,Maternity Leave,,,,8
+2025-08-23,camelia.stoica@endava.com,Camelia Stoica,ABSENCE,Unpaid Leave,,,,8
+2025-08-24,camelia.stoica@endava.com,Camelia Stoica,ABSENCE,Unpaid Leave,,,,8
+2025-08-25,camelia.stoica@endava.com,Camelia Stoica,ABSENCE,Unpaid Leave,,,,8
+2025-06-29,andrei-tudor.mirza@endava.com,Andrei Tudor Mirza,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-18,maria-mihaela.bradea@endava.com,Maria Mihaela Bradea,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-19,maria-mihaela.bradea@endava.com,Maria Mihaela Bradea,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-21,catalin.ursu@endava.com,Catalin Ursu,ABSENCE,Special Leave Adoption,,,,8
+2025-08-27,rares-alexandru.iancu@endava.com,Rares Alexandru Iancu,ABSENCE,Childcare Leave,,,,8
+2025-08-28,rares-alexandru.iancu@endava.com,Rares Alexandru Iancu,ABSENCE,Childcare Leave,,,,8
+2025-07-31,celia.ciurchil@endava.com,Celia Ciurchil-Giurgiu,ABSENCE,Special Leave Adoption,,,,8
+2025-08-01,celia.ciurchil@endava.com,Celia Ciurchil-Giurgiu,ABSENCE,Special Leave Adoption,,,,8
+2025-08-02,celia.ciurchil@endava.com,Celia Ciurchil-Giurgiu,ABSENCE,Special Leave Adoption,,,,8
+2025-08-03,celia.ciurchil@endava.com,Celia Ciurchil-Giurgiu,ABSENCE,Special Leave Adoption,,,,8
+2025-08-04,celia.ciurchil@endava.com,Celia Ciurchil-Giurgiu,ABSENCE,Special Leave Adoption,,,,8
+2025-07-04,iasmina-andra.pagu@endava.com,Iasmina Pagu,ABSENCE,Unpaid Leave,,,,8
+2025-07-05,iasmina-andra.pagu@endava.com,Iasmina Pagu,ABSENCE,Unpaid Leave,,,,8
+2025-07-06,iasmina-andra.pagu@endava.com,Iasmina Pagu,ABSENCE,Unpaid Leave,,,,8
+2025-06-13,andrei-tudor.grumazescu@endava.com,Andrei Tudor Grumazescu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-14,andrei-tudor.grumazescu@endava.com,Andrei Tudor Grumazescu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-15,andrei-tudor.grumazescu@endava.com,Andrei Tudor Grumazescu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-16,andrei-tudor.grumazescu@endava.com,Andrei Tudor Grumazescu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-17,andrei-tudor.grumazescu@endava.com,Andrei Tudor Grumazescu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-19,alexandru.edves@endava.com,Alexandru Edves,ABSENCE,Patternity Leave,,,,8
+2025-08-08,alexandru.zosin@endava.com,Alexandru Zosin,ABSENCE,Special Leave Adoption,,,,8
+2025-08-09,alexandru.zosin@endava.com,Alexandru Zosin,ABSENCE,Special Leave Adoption,,,,8
+2025-08-10,alexandru.zosin@endava.com,Alexandru Zosin,ABSENCE,Special Leave Adoption,,,,8
+2025-06-10,denisa.lutic@endava.com,Denisa Lutic,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-11,denisa.lutic@endava.com,Denisa Lutic,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-08,daniel.rosu@endava.com,Daniel Rosu,ABSENCE,Unpaid Leave,,,,8
+2025-06-28,andrei-titus.pavel@endava.com,Andrei Titus Pavel,ABSENCE,Special Leave,,,,8
+2025-06-29,andrei-titus.pavel@endava.com,Andrei Titus Pavel,ABSENCE,Special Leave,,,,8
+2025-07-09,stefandaniel.ionita@endava.com,Stefan Daniel Ionita,ABSENCE,Unpaid Leave,,,,8
+2025-07-10,stefandaniel.ionita@endava.com,Stefan Daniel Ionita,ABSENCE,Unpaid Leave,,,,8
+2025-06-08,miruna.curduman@endava.com,Miruna Curduman,ABSENCE,TOIL Travel,,,,8
+2025-06-09,miruna.curduman@endava.com,Miruna Curduman,ABSENCE,TOIL Travel,,,,8
+2025-06-10,miruna.curduman@endava.com,Miruna Curduman,ABSENCE,TOIL Travel,,,,8
+2025-06-11,miruna.curduman@endava.com,Miruna Curduman,ABSENCE,TOIL Travel,,,,8
+2025-06-12,miruna.curduman@endava.com,Miruna Curduman,ABSENCE,TOIL Travel,,,,8
+2025-06-05,daniela-maria.pascan@endava.com,Daniela Maria Pascan,ABSENCE,Special Leave,,,,8
+2025-06-06,daniela-maria.pascan@endava.com,Daniela Maria Pascan,ABSENCE,Special Leave,,,,8
+2025-06-07,daniela-maria.pascan@endava.com,Daniela Maria Pascan,ABSENCE,Special Leave,,,,8
+2025-06-08,daniela-maria.pascan@endava.com,Daniela Maria Pascan,ABSENCE,Special Leave,,,,8
+2025-07-15,diana-cristina.mocan@endava.com,Diana Cristina Mocan,ABSENCE,Childcare Leave,,,,8
+2025-07-16,diana-cristina.mocan@endava.com,Diana Cristina Mocan,ABSENCE,Childcare Leave,,,,8
+2025-07-17,diana-cristina.mocan@endava.com,Diana Cristina Mocan,ABSENCE,Childcare Leave,,,,8
+2025-07-18,diana-cristina.mocan@endava.com,Diana Cristina Mocan,ABSENCE,Childcare Leave,,,,8
+2025-06-20,ioana.alexa@endava.com,Ioana Alexa,ABSENCE,Special Leave Adoption,,,,8
+2025-06-21,ioana.alexa@endava.com,Ioana Alexa,ABSENCE,Special Leave Adoption,,,,8
+2025-06-13,bogdan-ionut.tibuleac@endava.com,Bogdan Ionut Tibuleac,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-14,bogdan-ionut.tibuleac@endava.com,Bogdan Ionut Tibuleac,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-15,bogdan-ionut.tibuleac@endava.com,Bogdan Ionut Tibuleac,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-16,bogdan-ionut.tibuleac@endava.com,Bogdan Ionut Tibuleac,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-17,bogdan-ionut.tibuleac@endava.com,Bogdan Ionut Tibuleac,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-20,sabin.chirila@endava.com,Sabin Chirila,ABSENCE,TOIL Travel,,,,8
+2025-08-21,sabin.chirila@endava.com,Sabin Chirila,ABSENCE,TOIL Travel,,,,8
+2025-08-22,sabin.chirila@endava.com,Sabin Chirila,ABSENCE,TOIL Travel,,,,8
+2025-06-06,ruben-daniel.pasca@endava.com,Ruben Daniel Pasca,ABSENCE,Special Leave,,,,8
+2025-06-07,ruben-daniel.pasca@endava.com,Ruben Daniel Pasca,ABSENCE,Special Leave,,,,8
+2025-06-08,ruben-daniel.pasca@endava.com,Ruben Daniel Pasca,ABSENCE,Special Leave,,,,8
+2025-06-09,ruben-daniel.pasca@endava.com,Ruben Daniel Pasca,ABSENCE,Special Leave,,,,8
+2025-06-24,sanda.dobrenco@endava.com,Sanda Dobrenco,ABSENCE,Patternity Leave,,,,8
+2025-06-25,sanda.dobrenco@endava.com,Sanda Dobrenco,ABSENCE,Patternity Leave,,,,8
+2025-06-26,sanda.dobrenco@endava.com,Sanda Dobrenco,ABSENCE,Patternity Leave,,,,8
+2025-06-27,sanda.dobrenco@endava.com,Sanda Dobrenco,ABSENCE,Patternity Leave,,,,8
+2025-07-03,emma-simina.muresan@endava.com,Emma Simina Muresan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-04,emma-simina.muresan@endava.com,Emma Simina Muresan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-05,emma-simina.muresan@endava.com,Emma Simina Muresan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-06,emma-simina.muresan@endava.com,Emma Simina Muresan,ABSENCE,Special Leave Adoption,,,,8
+2025-06-06,rares.agachi@endava.com,Rares Agachi,ABSENCE,Patternity Leave,,,,8
+2025-06-07,rares.agachi@endava.com,Rares Agachi,ABSENCE,Patternity Leave,,,,8
+2025-06-08,rares.agachi@endava.com,Rares Agachi,ABSENCE,Patternity Leave,,,,8
+2025-06-09,rares.agachi@endava.com,Rares Agachi,ABSENCE,Patternity Leave,,,,8
+2025-06-10,rares.agachi@endava.com,Rares Agachi,ABSENCE,Patternity Leave,,,,8
+2025-08-21,tudor.mihai@endava.com,Tudor Mihai,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-22,tudor.mihai@endava.com,Tudor Mihai,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-23,tudor.mihai@endava.com,Tudor Mihai,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-24,tudor.mihai@endava.com,Tudor Mihai,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-25,tudor.mihai@endava.com,Tudor Mihai,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-14,tiberiu.rabi@endava.com,Tiberiu Rabi,ABSENCE,Maternity Leave,,,,8
+2025-07-15,tiberiu.rabi@endava.com,Tiberiu Rabi,ABSENCE,Maternity Leave,,,,8
+2025-07-16,tiberiu.rabi@endava.com,Tiberiu Rabi,ABSENCE,Maternity Leave,,,,8
+2025-07-04,gabriel-alexandru.nedelcu@endava.com,Gabriel Alexandru Nedelcu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-05,gabriel-alexandru.nedelcu@endava.com,Gabriel Alexandru Nedelcu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-30,mihaly-richard.teutsch@endava.com,Mihaly Richard Teutsch,ABSENCE,Medical Leave,,,,8
+2025-07-01,mihaly-richard.teutsch@endava.com,Mihaly Richard Teutsch,ABSENCE,Medical Leave,,,,8
+2025-07-02,mihaly-richard.teutsch@endava.com,Mihaly Richard Teutsch,ABSENCE,Medical Leave,,,,8
+2025-07-03,mihaly-richard.teutsch@endava.com,Mihaly Richard Teutsch,ABSENCE,Medical Leave,,,,8
+2025-07-04,mihaly-richard.teutsch@endava.com,Mihaly Richard Teutsch,ABSENCE,Medical Leave,,,,8
+2025-07-05,daria.lupu@endava.com,Daria Lupu Dima,ABSENCE,Annual Leave,,,,8
+2025-07-06,daria.lupu@endava.com,Daria Lupu Dima,ABSENCE,Annual Leave,,,,8
+2025-08-13,alice.tache@endava.com,Alice Tache,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-14,alice.tache@endava.com,Alice Tache,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-15,alice.tache@endava.com,Alice Tache,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-11,timotei-cristian.morar@endava.com,Timotei Cristian Morar,ABSENCE,Maternity Leave,,,,8
+2025-08-12,timotei-cristian.morar@endava.com,Timotei Cristian Morar,ABSENCE,Maternity Leave,,,,8
+2025-06-11,octavian.cojocariu@endava.com,Octavian Cojocariu,ABSENCE,Maternity Leave,,,,8
+2025-06-12,octavian.cojocariu@endava.com,Octavian Cojocariu,ABSENCE,Maternity Leave,,,,8
+2025-06-13,octavian.cojocariu@endava.com,Octavian Cojocariu,ABSENCE,Maternity Leave,,,,8
+2025-06-14,octavian.cojocariu@endava.com,Octavian Cojocariu,ABSENCE,Maternity Leave,,,,8
+2025-06-15,octavian.cojocariu@endava.com,Octavian Cojocariu,ABSENCE,Maternity Leave,,,,8
+2025-08-11,george.patrasc@endava.com,George Patrasc,ABSENCE,Medical Leave,,,,8
+2025-08-17,cosmin-nicusor.brumariu@endava.com,Cosmin-Nicusor Brumariu,ABSENCE,Medical Leave,,,,8
+2025-08-18,cosmin-nicusor.brumariu@endava.com,Cosmin-Nicusor Brumariu,ABSENCE,Medical Leave,,,,8
+2025-08-19,cosmin-nicusor.brumariu@endava.com,Cosmin-Nicusor Brumariu,ABSENCE,Medical Leave,,,,8
+2025-08-20,cosmin-nicusor.brumariu@endava.com,Cosmin-Nicusor Brumariu,ABSENCE,Medical Leave,,,,8
+2025-06-09,robert-catalin.franciuc@endava.com,Robert Catalin Franciuc,ABSENCE,Special Leave,,,,8
+2025-06-10,robert-catalin.franciuc@endava.com,Robert Catalin Franciuc,ABSENCE,Special Leave,,,,8
+2025-06-11,robert-catalin.franciuc@endava.com,Robert Catalin Franciuc,ABSENCE,Special Leave,,,,8
+2025-06-12,robert-catalin.franciuc@endava.com,Robert Catalin Franciuc,ABSENCE,Special Leave,,,,8
+2025-06-11,matei-mihai.micu@endava.com,Matei Micu,ABSENCE,Patternity Leave,,,,8
+2025-06-12,matei-mihai.micu@endava.com,Matei Micu,ABSENCE,Patternity Leave,,,,8
+2025-06-25,cristiana-ioana.apastinei@endava.com,Cristiana Ioana Apastinei,ABSENCE,Annual Leave,,,,8
+2025-06-26,cristiana-ioana.apastinei@endava.com,Cristiana Ioana Apastinei,ABSENCE,Annual Leave,,,,8
+2025-06-27,cristiana-ioana.apastinei@endava.com,Cristiana Ioana Apastinei,ABSENCE,Annual Leave,,,,8
+2025-06-28,cristiana-ioana.apastinei@endava.com,Cristiana Ioana Apastinei,ABSENCE,Annual Leave,,,,8
+2025-06-01,tiberiu-gabriel.suditu@endava.com,Tiberiu Gabriel Suditu,ABSENCE,Maternity Leave,,,,8
+2025-07-09,virgil.cimpean@endava.com,Virgil Cimpean,ABSENCE,Special Leave,,,,8
+2025-07-10,virgil.cimpean@endava.com,Virgil Cimpean,ABSENCE,Special Leave,,,,8
+2025-07-11,virgil.cimpean@endava.com,Virgil Cimpean,ABSENCE,Special Leave,,,,8
+2025-07-11,nicolae-vasile.veciunca@endava.com,Nicolae Vasile Veciunca,ABSENCE,Unpaid Leave,,,,8
+2025-07-12,nicolae-vasile.veciunca@endava.com,Nicolae Vasile Veciunca,ABSENCE,Unpaid Leave,,,,8
+2025-07-13,nicolae-vasile.veciunca@endava.com,Nicolae Vasile Veciunca,ABSENCE,Unpaid Leave,,,,8
+2025-07-14,nicolae-vasile.veciunca@endava.com,Nicolae Vasile Veciunca,ABSENCE,Unpaid Leave,,,,8
+2025-08-10,stefan-daniel.ochian@endava.com,Stefan-Daniel Ochian,ABSENCE,Unpaid Leave,,,,8
+2025-08-11,stefan-daniel.ochian@endava.com,Stefan-Daniel Ochian,ABSENCE,Unpaid Leave,,,,8
+2025-08-12,stefan-daniel.ochian@endava.com,Stefan-Daniel Ochian,ABSENCE,Unpaid Leave,,,,8
+2025-06-12,flora.balogh@endava.com,Flora Balogh,ABSENCE,TOIL Travel,,,,8
+2025-06-13,flora.balogh@endava.com,Flora Balogh,ABSENCE,TOIL Travel,,,,8
+2025-06-14,flora.balogh@endava.com,Flora Balogh,ABSENCE,TOIL Travel,,,,8
+2025-06-15,flora.balogh@endava.com,Flora Balogh,ABSENCE,TOIL Travel,,,,8
+2025-06-27,iulius-stefan.ambros@endava.com,Iulius Stefan Ambros,ABSENCE,Childcare Leave,,,,8
+2025-06-28,iulius-stefan.ambros@endava.com,Iulius Stefan Ambros,ABSENCE,Childcare Leave,,,,8
+2025-06-29,iulius-stefan.ambros@endava.com,Iulius Stefan Ambros,ABSENCE,Childcare Leave,,,,8
+2025-06-30,iulius-stefan.ambros@endava.com,Iulius Stefan Ambros,ABSENCE,Childcare Leave,,,,8
+2025-08-11,matei.tatar@endava.com,Matei Tatar,ABSENCE,Patternity Leave,,,,8
+2025-08-12,matei.tatar@endava.com,Matei Tatar,ABSENCE,Patternity Leave,,,,8
+2025-07-14,eduard-george.stan@endava.com,Eduard George Stan,ABSENCE,Annual Leave,,,,8
+2025-07-15,eduard-george.stan@endava.com,Eduard George Stan,ABSENCE,Annual Leave,,,,8
+2025-07-16,eduard-george.stan@endava.com,Eduard George Stan,ABSENCE,Annual Leave,,,,8
+2025-07-17,eduard-george.stan@endava.com,Eduard George Stan,ABSENCE,Annual Leave,,,,8
+2025-06-14,mihai-alexandru.militaru@endava.com,Mihai Alexandru Militaru,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-15,mihai-alexandru.militaru@endava.com,Mihai Alexandru Militaru,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-25,adina-denisa.horj@endava.com,Adina Denisa Horj,ABSENCE,Childcare Leave,,,,8
+2025-07-26,adina-denisa.horj@endava.com,Adina Denisa Horj,ABSENCE,Childcare Leave,,,,8
+2025-07-27,adina-denisa.horj@endava.com,Adina Denisa Horj,ABSENCE,Childcare Leave,,,,8
+2025-07-28,adina-denisa.horj@endava.com,Adina Denisa Horj,ABSENCE,Childcare Leave,,,,8
+2025-07-04,cristian.ghiuta@endava.com,Cristian Ghiuta,ABSENCE,Unpaid Leave,,,,8
+2025-06-13,iuliana-raluca.butnariu@endava.com,Iuliana Raluca Butnariu,ABSENCE,Childcare Leave,,,,8
+2025-06-14,iuliana-raluca.butnariu@endava.com,Iuliana Raluca Butnariu,ABSENCE,Childcare Leave,,,,8
+2025-06-15,iuliana-raluca.butnariu@endava.com,Iuliana Raluca Butnariu,ABSENCE,Childcare Leave,,,,8
+2025-06-16,iuliana-raluca.butnariu@endava.com,Iuliana Raluca Butnariu,ABSENCE,Childcare Leave,,,,8
+2025-06-18,razvan-petru.leonte@endava.com,Razvan Petru Leonte,ABSENCE,Special Leave,,,,8
+2025-06-19,razvan-petru.leonte@endava.com,Razvan Petru Leonte,ABSENCE,Special Leave,,,,8
+2025-06-20,razvan-petru.leonte@endava.com,Razvan Petru Leonte,ABSENCE,Special Leave,,,,8
+2025-06-21,razvan-petru.leonte@endava.com,Razvan Petru Leonte,ABSENCE,Special Leave,,,,8
+2025-06-20,daniel-antoniu.dumitru@endava.com,Daniel Antoniu Dumitru,ABSENCE,Patternity Leave,,,,8
+2025-06-21,daniel-antoniu.dumitru@endava.com,Daniel Antoniu Dumitru,ABSENCE,Patternity Leave,,,,8
+2025-06-22,daniel-antoniu.dumitru@endava.com,Daniel Antoniu Dumitru,ABSENCE,Patternity Leave,,,,8
+2025-06-23,daniel-antoniu.dumitru@endava.com,Daniel Antoniu Dumitru,ABSENCE,Patternity Leave,,,,8
+2025-07-25,silviu-vasilica.luta@endava.com,Silviu Vasilica Luta,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-26,silviu-vasilica.luta@endava.com,Silviu Vasilica Luta,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-27,silviu-vasilica.luta@endava.com,Silviu Vasilica Luta,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-28,silviu-vasilica.luta@endava.com,Silviu Vasilica Luta,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-28,sergiu.ungureanu2@endava.com,Sergiu Ungureanu,ABSENCE,Unpaid Leave,,,,8
+2025-07-29,sergiu.ungureanu2@endava.com,Sergiu Ungureanu,ABSENCE,Unpaid Leave,,,,8
+2025-07-30,sergiu.ungureanu2@endava.com,Sergiu Ungureanu,ABSENCE,Unpaid Leave,,,,8
+2025-07-31,sergiu.ungureanu2@endava.com,Sergiu Ungureanu,ABSENCE,Unpaid Leave,,,,8
+2025-06-01,daria-alexia.irimie@endava.com,Daria Alexia Irimie,ABSENCE,Maternity Leave,,,,8
+2025-06-02,daria-alexia.irimie@endava.com,Daria Alexia Irimie,ABSENCE,Maternity Leave,,,,8
+2025-07-20,ariana-casandra.olaru@endava.com,Ariana Casandra Olaru,ABSENCE,Childcare Leave,,,,8
+2025-07-21,ariana-casandra.olaru@endava.com,Ariana Casandra Olaru,ABSENCE,Childcare Leave,,,,8
+2025-07-22,ariana-casandra.olaru@endava.com,Ariana Casandra Olaru,ABSENCE,Childcare Leave,,,,8
+2025-07-23,ariana-casandra.olaru@endava.com,Ariana Casandra Olaru,ABSENCE,Childcare Leave,,,,8
+2025-07-24,ariana-casandra.olaru@endava.com,Ariana Casandra Olaru,ABSENCE,Childcare Leave,,,,8
+2025-06-01,rita-timea.torok@endava.com,Rita Timea Torok,ABSENCE,Annual Leave,,,,8
+2025-06-09,alexandru.munteanu@endava.com,Alexandru Munteanu,ABSENCE,Medical Leave,,,,8
+2025-06-10,alexandru.munteanu@endava.com,Alexandru Munteanu,ABSENCE,Medical Leave,,,,8
+2025-06-11,alexandru.munteanu@endava.com,Alexandru Munteanu,ABSENCE,Medical Leave,,,,8
+2025-06-12,alexandru.munteanu@endava.com,Alexandru Munteanu,ABSENCE,Medical Leave,,,,8
+2025-06-13,alexandru.munteanu@endava.com,Alexandru Munteanu,ABSENCE,Medical Leave,,,,8
+2025-07-27,bianca.popescu@endava.com,Bianca Popescu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-20,robert-cosmin.tudorache@endava.com,Robert-Cosmin Tudorache,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-21,robert-cosmin.tudorache@endava.com,Robert-Cosmin Tudorache,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-30,cosmin.carp@endava.com,Cosmin Carp,ABSENCE,Maternity Leave,,,,8
+2025-07-01,cosmin.carp@endava.com,Cosmin Carp,ABSENCE,Maternity Leave,,,,8
+2025-07-02,cosmin.carp@endava.com,Cosmin Carp,ABSENCE,Maternity Leave,,,,8
+2025-07-03,cosmin.carp@endava.com,Cosmin Carp,ABSENCE,Maternity Leave,,,,8
+2025-07-12,iulia-olivia.cipleu@endava.com,Iulia Olivia Cipleu,ABSENCE,TOIL Travel,,,,8
+2025-07-13,iulia-olivia.cipleu@endava.com,Iulia Olivia Cipleu,ABSENCE,TOIL Travel,,,,8
+2025-07-14,iulia-olivia.cipleu@endava.com,Iulia Olivia Cipleu,ABSENCE,TOIL Travel,,,,8
+2025-07-15,iulia-olivia.cipleu@endava.com,Iulia Olivia Cipleu,ABSENCE,TOIL Travel,,,,8
+2025-07-16,iulia-olivia.cipleu@endava.com,Iulia Olivia Cipleu,ABSENCE,TOIL Travel,,,,8
+2025-08-17,laura.rusanescu@endava.com,Laura Rusanescu,ABSENCE,Special Leave,,,,8
+2025-08-18,laura.rusanescu@endava.com,Laura Rusanescu,ABSENCE,Special Leave,,,,8
+2025-08-19,laura.rusanescu@endava.com,Laura Rusanescu,ABSENCE,Special Leave,,,,8
+2025-08-20,laura.rusanescu@endava.com,Laura Rusanescu,ABSENCE,Special Leave,,,,8
+2025-08-21,laura.rusanescu@endava.com,Laura Rusanescu,ABSENCE,Special Leave,,,,8
+2025-07-20,darius.margarit@endava.com,Darius Margarit,ABSENCE,Unpaid Leave,,,,8
+2025-07-21,darius.margarit@endava.com,Darius Margarit,ABSENCE,Unpaid Leave,,,,8
+2025-07-22,darius.margarit@endava.com,Darius Margarit,ABSENCE,Unpaid Leave,,,,8
+2025-07-23,darius.margarit@endava.com,Darius Margarit,ABSENCE,Unpaid Leave,,,,8
+2025-07-02,ioan-sebastian.muresan@endava.com,Ioan Sebastian Muresan,ABSENCE,Patternity Leave,,,,8
+2025-07-03,ioan-sebastian.muresan@endava.com,Ioan Sebastian Muresan,ABSENCE,Patternity Leave,,,,8
+2025-07-04,ioan-sebastian.muresan@endava.com,Ioan Sebastian Muresan,ABSENCE,Patternity Leave,,,,8
+2025-07-05,ioan-sebastian.muresan@endava.com,Ioan Sebastian Muresan,ABSENCE,Patternity Leave,,,,8
+2025-08-13,patricia.costras@endava.com,Patricia Costras,ABSENCE,Childcare Leave,,,,8
+2025-08-07,anca-elena.ilie@endava.com,Anca Elena Ilie,ABSENCE,Medical Leave,,,,8
+2025-08-08,anca-elena.ilie@endava.com,Anca Elena Ilie,ABSENCE,Medical Leave,,,,8
+2025-08-09,anca-elena.ilie@endava.com,Anca Elena Ilie,ABSENCE,Medical Leave,,,,8
+2025-08-10,anca-elena.ilie@endava.com,Anca Elena Ilie,ABSENCE,Medical Leave,,,,8
+2025-08-08,theodor-cristian.gheorghe@endava.com,Theodor Cristian Gheorghe,ABSENCE,Annual Leave,,,,8
+2025-08-09,theodor-cristian.gheorghe@endava.com,Theodor Cristian Gheorghe,ABSENCE,Annual Leave,,,,8
+2025-08-10,theodor-cristian.gheorghe@endava.com,Theodor Cristian Gheorghe,ABSENCE,Annual Leave,,,,8
+2025-08-11,theodor-cristian.gheorghe@endava.com,Theodor Cristian Gheorghe,ABSENCE,Annual Leave,,,,8
+2025-07-05,andrei.mihnea@endava.com,Andrei Mihnea,ABSENCE,Medical Leave,,,,8
+2025-06-29,rafael.andries@endava.com,Rafael Andries,ABSENCE,Special Leave,,,,8
+2025-08-29,bogdan.gargu@endava.com,Bogdan Gargu,ABSENCE,Childcare Leave,,,,8
+2025-08-30,bogdan.gargu@endava.com,Bogdan Gargu,ABSENCE,Childcare Leave,,,,8
+2025-06-19,ioana-alexia.popa@endava.com,Ioana Alexia Popa,ABSENCE,Patternity Leave,,,,8
+2025-06-20,ioana-alexia.popa@endava.com,Ioana Alexia Popa,ABSENCE,Patternity Leave,,,,8
+2025-07-05,andrei.vataselu@endava.com,Andrei Vataselu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-06,andrei.vataselu@endava.com,Andrei Vataselu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-02,eric-marian.dascalu@endava.com,Eric Marian Dascalu,ABSENCE,Maternity Leave,,,,8
+2025-08-03,eric-marian.dascalu@endava.com,Eric Marian Dascalu,ABSENCE,Maternity Leave,,,,8
+2025-08-04,eric-marian.dascalu@endava.com,Eric Marian Dascalu,ABSENCE,Maternity Leave,,,,8
+2025-08-11,alexandra.zamfir@endava.com,Alexandra Zamfir,ABSENCE,Maternity Leave,,,,8
+2025-08-12,alexandra.zamfir@endava.com,Alexandra Zamfir,ABSENCE,Maternity Leave,,,,8
+2025-08-29,alexandru.topan@endava.com,Alexandru Topan-Farcau,ABSENCE,Childcare Leave,,,,8
+2025-08-30,alexandru.mirea@endava.com,Alexandru Mirea,ABSENCE,Special Leave,,,,8
+2025-06-09,gabriela-miruna.stan@endava.com,Gabriela Miruna Stan,ABSENCE,Patternity Leave,,,,8
+2025-06-10,gabriela-miruna.stan@endava.com,Gabriela Miruna Stan,ABSENCE,Patternity Leave,,,,8
+2025-06-11,gabriela-miruna.stan@endava.com,Gabriela Miruna Stan,ABSENCE,Patternity Leave,,,,8
+2025-07-06,denisa-elena.stolniceanu@endava.com,Denisa Elena Stolniceanu,ABSENCE,Special Leave Adoption,,,,8
+2025-07-07,denisa-elena.stolniceanu@endava.com,Denisa Elena Stolniceanu,ABSENCE,Special Leave Adoption,,,,8
+2025-07-08,denisa-elena.stolniceanu@endava.com,Denisa Elena Stolniceanu,ABSENCE,Special Leave Adoption,,,,8
+2025-06-15,patric.caliman@endava.com,Patric Caliman,ABSENCE,Childcare Leave,,,,8
+2025-07-03,darius.dinu@endava.com,Darius Dinu,ABSENCE,Special Leave,,,,8
+2025-06-28,razvan.dumitru@endava.com,Razvan Dumitru,ABSENCE,Patternity Leave,,,,8
+2025-06-29,razvan.dumitru@endava.com,Razvan Dumitru,ABSENCE,Patternity Leave,,,,8
+2025-06-30,razvan.dumitru@endava.com,Razvan Dumitru,ABSENCE,Patternity Leave,,,,8
+2025-07-01,razvan.dumitru@endava.com,Razvan Dumitru,ABSENCE,Patternity Leave,,,,8
+2025-06-29,andreea.grecu2@endava.com,Andreea Grecu,ABSENCE,Maternity Leave,,,,8
+2025-06-01,catalin-george-adrian.otet@endava.com,Catalin George Adrian Otet,ABSENCE,Special Leave,,,,8
+2025-06-02,catalin-george-adrian.otet@endava.com,Catalin George Adrian Otet,ABSENCE,Special Leave,,,,8
+2025-06-03,catalin-george-adrian.otet@endava.com,Catalin George Adrian Otet,ABSENCE,Special Leave,,,,8
+2025-06-04,catalin-george-adrian.otet@endava.com,Catalin George Adrian Otet,ABSENCE,Special Leave,,,,8
+2025-06-05,catalin-george-adrian.otet@endava.com,Catalin George Adrian Otet,ABSENCE,Special Leave,,,,8
+2025-06-15,rares-anton.brezeanu@endava.com,Rares Anton Brezeanu,ABSENCE,Childcare Leave,,,,8
+2025-08-30,george-catalin.ghiold@endava.com,George-Catalin Ghiold,ABSENCE,Medical Leave,,,,8
+2025-08-31,george-catalin.ghiold@endava.com,George-Catalin Ghiold,ABSENCE,Medical Leave,,,,8
+2025-09-01,george-catalin.ghiold@endava.com,George-Catalin Ghiold,ABSENCE,Medical Leave,,,,8
+2025-09-02,george-catalin.ghiold@endava.com,George-Catalin Ghiold,ABSENCE,Medical Leave,,,,8
+2025-06-11,lavinia.avram@endava.com,Lavinia Avram,ABSENCE,Annual Leave,,,,8
+2025-06-12,lavinia.avram@endava.com,Lavinia Avram,ABSENCE,Annual Leave,,,,8
+2025-07-31,daniel.rotaru@endava.com,Daniel Rotaru,ABSENCE,Patternity Leave,,,,8
+2025-08-01,daniel.rotaru@endava.com,Daniel Rotaru,ABSENCE,Patternity Leave,,,,8
+2025-08-26,alina.trincu@endava.com,Alina Trincu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-27,alina.trincu@endava.com,Alina Trincu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-28,alina.trincu@endava.com,Alina Trincu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-29,alina.trincu@endava.com,Alina Trincu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-29,bogdan-vasile.spilevoi@endava.com,Bogdan Vasile Spilevoi,ABSENCE,Unpaid Leave,,,,8
+2025-06-30,bogdan-vasile.spilevoi@endava.com,Bogdan Vasile Spilevoi,ABSENCE,Unpaid Leave,,,,8
+2025-07-01,bogdan-vasile.spilevoi@endava.com,Bogdan Vasile Spilevoi,ABSENCE,Unpaid Leave,,,,8
+2025-07-02,bogdan-vasile.spilevoi@endava.com,Bogdan Vasile Spilevoi,ABSENCE,Unpaid Leave,,,,8
+2025-07-03,bogdan-vasile.spilevoi@endava.com,Bogdan Vasile Spilevoi,ABSENCE,Unpaid Leave,,,,8
+2025-08-12,rares-stefan.cazan@endava.com,Rares Stefan Cazan,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-13,rares-stefan.cazan@endava.com,Rares Stefan Cazan,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-14,rares-stefan.cazan@endava.com,Rares Stefan Cazan,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-15,rares-stefan.cazan@endava.com,Rares Stefan Cazan,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-26,lorena-maria.buzea@endava.com,Lorena Maria Buzea,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-27,lorena-maria.buzea@endava.com,Lorena Maria Buzea,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-06,david.serban@endava.com,David Serban,ABSENCE,TOIL Travel,,,,8
+2025-08-07,david.serban@endava.com,David Serban,ABSENCE,TOIL Travel,,,,8
+2025-08-08,david.serban@endava.com,David Serban,ABSENCE,TOIL Travel,,,,8
+2025-08-09,david.serban@endava.com,David Serban,ABSENCE,TOIL Travel,,,,8
+2025-08-15,alexandru-marian.armanu@endava.com,Alexandru Marian Armanu,ABSENCE,Patternity Leave,,,,8
+2025-08-16,alexandru-marian.armanu@endava.com,Alexandru Marian Armanu,ABSENCE,Patternity Leave,,,,8
+2025-08-17,alexandru-marian.armanu@endava.com,Alexandru Marian Armanu,ABSENCE,Patternity Leave,,,,8
+2025-08-18,alexandru-marian.armanu@endava.com,Alexandru Marian Armanu,ABSENCE,Patternity Leave,,,,8
+2025-08-19,alexandru-marian.armanu@endava.com,Alexandru Marian Armanu,ABSENCE,Patternity Leave,,,,8
+2025-07-22,vlad-ioan.durdeu@endava.com,Vlad Ioan Durdeu,ABSENCE,Childcare Leave,,,,8
+2025-07-23,vlad-ioan.durdeu@endava.com,Vlad Ioan Durdeu,ABSENCE,Childcare Leave,,,,8
+2025-07-24,vlad-ioan.durdeu@endava.com,Vlad Ioan Durdeu,ABSENCE,Childcare Leave,,,,8
+2025-07-25,vlad-ioan.durdeu@endava.com,Vlad Ioan Durdeu,ABSENCE,Childcare Leave,,,,8
+2025-07-26,vlad-ioan.durdeu@endava.com,Vlad Ioan Durdeu,ABSENCE,Childcare Leave,,,,8
+2025-06-10,denis-mihai.mateas@endava.com,Denis-Mihai Mateas,ABSENCE,Medical Leave,,,,8
+2025-06-11,denis-mihai.mateas@endava.com,Denis-Mihai Mateas,ABSENCE,Medical Leave,,,,8
+2025-06-12,denis-mihai.mateas@endava.com,Denis-Mihai Mateas,ABSENCE,Medical Leave,,,,8
+2025-06-13,denis-mihai.mateas@endava.com,Denis-Mihai Mateas,ABSENCE,Medical Leave,,,,8
+2025-06-14,denis-mihai.mateas@endava.com,Denis-Mihai Mateas,ABSENCE,Medical Leave,,,,8
+2025-08-11,robert-viorel.lazarov@endava.com,Robert-Viorel Lazarov,ABSENCE,Annual Leave,,,,8
+2025-08-12,robert-viorel.lazarov@endava.com,Robert-Viorel Lazarov,ABSENCE,Annual Leave,,,,8
+2025-08-13,robert-viorel.lazarov@endava.com,Robert-Viorel Lazarov,ABSENCE,Annual Leave,,,,8
+2025-07-14,adrian.matean@endava.com,Adrian Matean,ABSENCE,Medical Leave,,,,8
+2025-07-15,adrian.matean@endava.com,Adrian Matean,ABSENCE,Medical Leave,,,,8
+2025-07-16,adrian.matean@endava.com,Adrian Matean,ABSENCE,Medical Leave,,,,8
+2025-07-17,adrian.matean@endava.com,Adrian Matean,ABSENCE,Medical Leave,,,,8
+2025-07-18,adrian.matean@endava.com,Adrian Matean,ABSENCE,Medical Leave,,,,8
+2025-06-19,adelin-andrei.fulop@endava.com,Adelin Andrei Fulop,ABSENCE,Special Leave,,,,8
+2025-07-31,stefan.stescu@endava.com,Stefan Stescu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-21,valentin.alexe@endava.com,Valentin Alexe,ABSENCE,Childcare Leave,,,,8
+2025-07-13,stefania-diana.stirbu@endava.com,Stefania Diana Stirbu,ABSENCE,Annual Leave,,,,8
+2025-07-14,stefania-diana.stirbu@endava.com,Stefania Diana Stirbu,ABSENCE,Annual Leave,,,,8
+2025-07-15,stefania-diana.stirbu@endava.com,Stefania Diana Stirbu,ABSENCE,Annual Leave,,,,8
+2025-06-06,ciprian.serbu@endava.com,Ciprian Serbu,ABSENCE,Maternity Leave,,,,8
+2025-06-07,ciprian.serbu@endava.com,Ciprian Serbu,ABSENCE,Maternity Leave,,,,8
+2025-06-08,ciprian.serbu@endava.com,Ciprian Serbu,ABSENCE,Maternity Leave,,,,8
+2025-07-20,mihai-alexandru.ionel@endava.com,Mihai Alexandru Ionel,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-21,mihai-alexandru.ionel@endava.com,Mihai Alexandru Ionel,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-22,mihai-alexandru.ionel@endava.com,Mihai Alexandru Ionel,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-11,ionut-vlad.cira@endava.com,Ionut Vlad Cira,ABSENCE,Unpaid Leave,,,,8
+2025-06-12,ionut-vlad.cira@endava.com,Ionut Vlad Cira,ABSENCE,Unpaid Leave,,,,8
+2025-06-13,ionut-vlad.cira@endava.com,Ionut Vlad Cira,ABSENCE,Unpaid Leave,,,,8
+2025-06-14,ionut-vlad.cira@endava.com,Ionut Vlad Cira,ABSENCE,Unpaid Leave,,,,8
+2025-07-27,serafim.uliuliuc@endava.com,Serafim Uliuliuc,ABSENCE,Childcare Leave,,,,8
+2025-07-28,serafim.uliuliuc@endava.com,Serafim Uliuliuc,ABSENCE,Childcare Leave,,,,8
+2025-07-29,serafim.uliuliuc@endava.com,Serafim Uliuliuc,ABSENCE,Childcare Leave,,,,8
+2025-07-30,serafim.uliuliuc@endava.com,Serafim Uliuliuc,ABSENCE,Childcare Leave,,,,8
+2025-08-10,maria-iulia.zdrenghea@endava.com,Maria Iulia Zdrenghea,ABSENCE,Special Leave Adoption,,,,8
+2025-08-11,maria-iulia.zdrenghea@endava.com,Maria Iulia Zdrenghea,ABSENCE,Special Leave Adoption,,,,8
+2025-08-12,maria-iulia.zdrenghea@endava.com,Maria Iulia Zdrenghea,ABSENCE,Special Leave Adoption,,,,8
+2025-08-13,maria-iulia.zdrenghea@endava.com,Maria Iulia Zdrenghea,ABSENCE,Special Leave Adoption,,,,8
+2025-07-10,madalina.demian@endava.com,Madalina Demian,ABSENCE,Annual Leave,,,,8
+2025-07-11,madalina.demian@endava.com,Madalina Demian,ABSENCE,Annual Leave,,,,8
+2025-07-12,madalina.demian@endava.com,Madalina Demian,ABSENCE,Annual Leave,,,,8
+2025-07-13,madalina.demian@endava.com,Madalina Demian,ABSENCE,Annual Leave,,,,8
+2025-07-14,madalina.demian@endava.com,Madalina Demian,ABSENCE,Annual Leave,,,,8
+2025-07-16,constantin.voicu@endava.com,Constantin Voicu,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-17,constantin.voicu@endava.com,Constantin Voicu,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-29,gabriela-sidonia.ciontolac@endava.com,Gabriela-Sidonia Ciontolac,ABSENCE,Special Leave Adoption,,,,8
+2025-07-30,gabriela-sidonia.ciontolac@endava.com,Gabriela-Sidonia Ciontolac,ABSENCE,Special Leave Adoption,,,,8
+2025-06-23,cerasela-nicola.soare@endava.com,Cerasela Nicola Soare,ABSENCE,Special Leave,,,,8
+2025-06-24,cerasela-nicola.soare@endava.com,Cerasela Nicola Soare,ABSENCE,Special Leave,,,,8
+2025-06-25,cerasela-nicola.soare@endava.com,Cerasela Nicola Soare,ABSENCE,Special Leave,,,,8
+2025-06-20,alexandru.zagan@endava.com,Alexandru Zagan,ABSENCE,Unpaid Leave,,,,8
+2025-08-23,manuel.lazar@endava.com,Manuel Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-08-24,manuel.lazar@endava.com,Manuel Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-08-25,manuel.lazar@endava.com,Manuel Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-08-26,manuel.lazar@endava.com,Manuel Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-08-27,manuel.lazar@endava.com,Manuel Lazar,ABSENCE,Unpaid Leave,,,,8
+2025-06-02,andrei.ionascu@endava.com,Andrei Ionascu,ABSENCE,Unpaid Leave,,,,8
+2025-06-03,andrei.ionascu@endava.com,Andrei Ionascu,ABSENCE,Unpaid Leave,,,,8
+2025-06-22,dragos-ionut.talaba@endava.com,Dragos Ionut Talaba,ABSENCE,Childcare Leave,,,,8
+2025-06-23,dragos-ionut.talaba@endava.com,Dragos Ionut Talaba,ABSENCE,Childcare Leave,,,,8
+2025-06-24,dragos-ionut.talaba@endava.com,Dragos Ionut Talaba,ABSENCE,Childcare Leave,,,,8
+2025-06-25,dragos-ionut.talaba@endava.com,Dragos Ionut Talaba,ABSENCE,Childcare Leave,,,,8
+2025-06-26,dragos-ionut.talaba@endava.com,Dragos Ionut Talaba,ABSENCE,Childcare Leave,,,,8
+2025-06-17,octavian-paul.ilies@endava.com,Octavian Paul Ilies,ABSENCE,Unpaid Leave,,,,8
+2025-06-18,octavian-paul.ilies@endava.com,Octavian Paul Ilies,ABSENCE,Unpaid Leave,,,,8
+2025-06-19,octavian-paul.ilies@endava.com,Octavian Paul Ilies,ABSENCE,Unpaid Leave,,,,8
+2025-08-06,andrada-maria.tinta@endava.com,Andrada Maria Tinta,ABSENCE,Childcare Leave,,,,8
+2025-08-07,andrada-maria.tinta@endava.com,Andrada Maria Tinta,ABSENCE,Childcare Leave,,,,8
+2025-08-08,andrada-maria.tinta@endava.com,Andrada Maria Tinta,ABSENCE,Childcare Leave,,,,8
+2025-08-09,andrada-maria.tinta@endava.com,Andrada Maria Tinta,ABSENCE,Childcare Leave,,,,8
+2025-08-10,andrada-maria.tinta@endava.com,Andrada Maria Tinta,ABSENCE,Childcare Leave,,,,8
+2025-06-06,alexandru.serban2@endava.com,Alexandru Serban,ABSENCE,Special Leave,,,,8
+2025-06-07,alexandru.serban2@endava.com,Alexandru Serban,ABSENCE,Special Leave,,,,8
+2025-06-08,alexandru.serban2@endava.com,Alexandru Serban,ABSENCE,Special Leave,,,,8
+2025-06-09,alexandru.serban2@endava.com,Alexandru Serban,ABSENCE,Special Leave,,,,8
+2025-06-10,alexandru.serban2@endava.com,Alexandru Serban,ABSENCE,Special Leave,,,,8
+2025-06-06,robert.negre@endava.com,Robert Negre,ABSENCE,Unpaid Leave,,,,8
+2025-06-07,robert.negre@endava.com,Robert Negre,ABSENCE,Unpaid Leave,,,,8
+2025-06-08,robert.negre@endava.com,Robert Negre,ABSENCE,Unpaid Leave,,,,8
+2025-06-09,robert.negre@endava.com,Robert Negre,ABSENCE,Unpaid Leave,,,,8
+2025-06-10,robert.negre@endava.com,Robert Negre,ABSENCE,Unpaid Leave,,,,8
+2025-07-11,alexandra-simona.danca@endava.com,Alexandra Simona Danca,ABSENCE,Unpaid Leave,,,,8
+2025-07-12,alexandra-simona.danca@endava.com,Alexandra Simona Danca,ABSENCE,Unpaid Leave,,,,8
+2025-07-13,alexandra-simona.danca@endava.com,Alexandra Simona Danca,ABSENCE,Unpaid Leave,,,,8
+2025-07-14,alexandra-simona.danca@endava.com,Alexandra Simona Danca,ABSENCE,Unpaid Leave,,,,8
+2025-07-15,alexandra-simona.danca@endava.com,Alexandra Simona Danca,ABSENCE,Unpaid Leave,,,,8
+2025-08-14,vlad.muresan3@endava.com,Vlad Muresan,ABSENCE,TOIL Travel,,,,8
+2025-08-15,vlad.muresan3@endava.com,Vlad Muresan,ABSENCE,TOIL Travel,,,,8
+2025-08-16,vlad.muresan3@endava.com,Vlad Muresan,ABSENCE,TOIL Travel,,,,8
+2025-08-17,vlad.muresan3@endava.com,Vlad Muresan,ABSENCE,TOIL Travel,,,,8
+2025-08-18,vlad.muresan3@endava.com,Vlad Muresan,ABSENCE,TOIL Travel,,,,8
+2025-08-04,laszlo-carlos.fodor@endava.com,Laszlo Carlos Fodor,ABSENCE,TOIL Travel,,,,8
+2025-08-05,laszlo-carlos.fodor@endava.com,Laszlo Carlos Fodor,ABSENCE,TOIL Travel,,,,8
+2025-08-22,stefan-nicolae.gheorghiu@endava.com,Stefan Nicolae Gheorghiu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-23,stefan-nicolae.gheorghiu@endava.com,Stefan Nicolae Gheorghiu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-24,stefan-nicolae.gheorghiu@endava.com,Stefan Nicolae Gheorghiu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-25,stefan-nicolae.gheorghiu@endava.com,Stefan Nicolae Gheorghiu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-26,stefan-nicolae.gheorghiu@endava.com,Stefan Nicolae Gheorghiu,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-14,alexandru-mihai.matei@endava.com,Alexandru Mihai Matei,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-15,alexandru-mihai.matei@endava.com,Alexandru Mihai Matei,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-16,alexandru-mihai.matei@endava.com,Alexandru Mihai Matei,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-27,robert-erno.eminovici@endava.com,Robert Erno Eminovici,ABSENCE,Unpaid Leave,,,,8
+2025-08-28,robert-erno.eminovici@endava.com,Robert Erno Eminovici,ABSENCE,Unpaid Leave,,,,8
+2025-08-29,robert-erno.eminovici@endava.com,Robert Erno Eminovici,ABSENCE,Unpaid Leave,,,,8
+2025-08-30,robert-erno.eminovici@endava.com,Robert Erno Eminovici,ABSENCE,Unpaid Leave,,,,8
+2025-06-15,mihai.negrea@endava.com,Mihai Negrea,ABSENCE,Annual Leave,,,,8
+2025-06-16,mihai.negrea@endava.com,Mihai Negrea,ABSENCE,Annual Leave,,,,8
+2025-06-17,mihai.negrea@endava.com,Mihai Negrea,ABSENCE,Annual Leave,,,,8
+2025-08-01,ferdinand-alexandru.cabat@endava.com,Ferdinand Alexandru Cabat,ABSENCE,Annual Leave,,,,8
+2025-08-02,ferdinand-alexandru.cabat@endava.com,Ferdinand Alexandru Cabat,ABSENCE,Annual Leave,,,,8
+2025-08-03,ferdinand-alexandru.cabat@endava.com,Ferdinand Alexandru Cabat,ABSENCE,Annual Leave,,,,8
+2025-08-04,ferdinand-alexandru.cabat@endava.com,Ferdinand Alexandru Cabat,ABSENCE,Annual Leave,,,,8
+2025-08-22,sebastian-ionel.filipovici@endava.com,Sebastian Ionel Filipovici,ABSENCE,Patternity Leave,,,,8
+2025-08-23,sebastian-ionel.filipovici@endava.com,Sebastian Ionel Filipovici,ABSENCE,Patternity Leave,,,,8
+2025-08-24,sebastian-ionel.filipovici@endava.com,Sebastian Ionel Filipovici,ABSENCE,Patternity Leave,,,,8
+2025-08-25,sebastian-ionel.filipovici@endava.com,Sebastian Ionel Filipovici,ABSENCE,Patternity Leave,,,,8
+2025-06-09,denis.ivan@endava.com,Denis Ivan,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-10,denis.ivan@endava.com,Denis Ivan,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-11,denis.ivan@endava.com,Denis Ivan,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-01,andrei.popovici2@endava.com,Andrei L Popovici,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-02,andrei.popovici2@endava.com,Andrei L Popovici,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-03,andrei.popovici2@endava.com,Andrei L Popovici,ABSENCE,TOIL Overtime Leave,,,,8
+2025-08-09,david.postolea@endava.com,David Postolea,ABSENCE,Special Leave,,,,8
+2025-08-10,david.postolea@endava.com,David Postolea,ABSENCE,Special Leave,,,,8
+2025-08-11,david.postolea@endava.com,David Postolea,ABSENCE,Special Leave,,,,8
+2025-08-12,david.postolea@endava.com,David Postolea,ABSENCE,Special Leave,,,,8
+2025-08-13,david.postolea@endava.com,David Postolea,ABSENCE,Special Leave,,,,8
+2025-08-21,daria.craciun@endava.com,Daria Craciun,ABSENCE,Annual Leave,,,,8
+2025-08-22,daria.craciun@endava.com,Daria Craciun,ABSENCE,Annual Leave,,,,8
+2025-08-23,daria.craciun@endava.com,Daria Craciun,ABSENCE,Annual Leave,,,,8
+2025-08-24,daria.craciun@endava.com,Daria Craciun,ABSENCE,Annual Leave,,,,8
+2025-08-25,daria.craciun@endava.com,Daria Craciun,ABSENCE,Annual Leave,,,,8
+2025-06-12,alessia-elena.rados@endava.com,Alessia-Elena Rados,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-13,alessia-elena.rados@endava.com,Alessia-Elena Rados,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-14,alessia-elena.rados@endava.com,Alessia-Elena Rados,ABSENCE,TOIL Overtime Leave,,,,8
+2025-06-14,andrei.margelatu@endava.com,Andrei Margelatu,ABSENCE,Special Leave,,,,8
+2025-07-02,alexandru.baba@endava.com,Alexandru Baba,ABSENCE,Patternity Leave,,,,8
+2025-06-07,emanuel.luculescu@endava.com,Emanuel Luculescu,ABSENCE,Medical Leave,,,,8
+2025-06-08,emanuel.luculescu@endava.com,Emanuel Luculescu,ABSENCE,Medical Leave,,,,8
+2025-06-09,emanuel.luculescu@endava.com,Emanuel Luculescu,ABSENCE,Medical Leave,,,,8
+2025-07-16,alin-constantin.florescu@endava.com,Alin Constantin Florescu,ABSENCE,Medical Leave,,,,8
+2025-07-17,alin-constantin.florescu@endava.com,Alin Constantin Florescu,ABSENCE,Medical Leave,,,,8
+2025-07-18,alin-constantin.florescu@endava.com,Alin Constantin Florescu,ABSENCE,Medical Leave,,,,8
+2025-06-28,tudor.leonte@endava.com,Tudor Leonte,ABSENCE,Special Leave,,,,8
+2025-06-29,tudor.leonte@endava.com,Tudor Leonte,ABSENCE,Special Leave,,,,8
+2025-06-30,tudor.leonte@endava.com,Tudor Leonte,ABSENCE,Special Leave,,,,8
+2025-08-26,robert-alexandru.badea@endava.com,Robert Alexandru Badea,ABSENCE,Special Leave,,,,8
+2025-08-27,robert-alexandru.badea@endava.com,Robert Alexandru Badea,ABSENCE,Special Leave,,,,8
+2025-08-28,robert-alexandru.badea@endava.com,Robert Alexandru Badea,ABSENCE,Special Leave,,,,8
+2025-08-29,robert-alexandru.badea@endava.com,Robert Alexandru Badea,ABSENCE,Special Leave,,,,8
+2025-06-18,marcos-dimitris.fetcu@endava.com,Marcos Dimitris Fetcu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-19,marcos-dimitris.fetcu@endava.com,Marcos Dimitris Fetcu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-20,marcos-dimitris.fetcu@endava.com,Marcos Dimitris Fetcu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-21,marcos-dimitris.fetcu@endava.com,Marcos Dimitris Fetcu,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-22,marcos-dimitris.fetcu@endava.com,Marcos Dimitris Fetcu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-17,silviu-mihail.pavel@endava.com,Silviu Mihail Pavel,ABSENCE,Patternity Leave,,,,8
+2025-08-18,silviu-mihail.pavel@endava.com,Silviu Mihail Pavel,ABSENCE,Patternity Leave,,,,8
+2025-08-19,silviu-mihail.pavel@endava.com,Silviu Mihail Pavel,ABSENCE,Patternity Leave,,,,8
+2025-06-19,mihnea-alexandru.pele@endava.com,Mihnea-Alexandru Pele,ABSENCE,Special Leave,,,,8
+2025-07-26,lucian.vatamanu@endava.com,Lucian Vatamanu,ABSENCE,Unpaid Leave,,,,8
+2025-07-27,lucian.vatamanu@endava.com,Lucian Vatamanu,ABSENCE,Unpaid Leave,,,,8
+2025-07-28,lucian.vatamanu@endava.com,Lucian Vatamanu,ABSENCE,Unpaid Leave,,,,8
+2025-07-19,madalina-daiana.gligan@endava.com,Madalina Daiana Gligan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-20,madalina-daiana.gligan@endava.com,Madalina Daiana Gligan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-21,madalina-daiana.gligan@endava.com,Madalina Daiana Gligan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-22,madalina-daiana.gligan@endava.com,Madalina Daiana Gligan,ABSENCE,Special Leave Adoption,,,,8
+2025-07-02,teodor.badarcea@endava.com,Teodor Badarcea,ABSENCE,Unpaid Leave,,,,8
+2025-08-12,polina.ciumac@endava.com,Polina Ciumac,ABSENCE,Patternity Leave,,,,8
+2025-08-13,polina.ciumac@endava.com,Polina Ciumac,ABSENCE,Patternity Leave,,,,8
+2025-08-14,polina.ciumac@endava.com,Polina Ciumac,ABSENCE,Patternity Leave,,,,8
+2025-08-15,polina.ciumac@endava.com,Polina Ciumac,ABSENCE,Patternity Leave,,,,8
+2025-08-16,polina.ciumac@endava.com,Polina Ciumac,ABSENCE,Patternity Leave,,,,8
+2025-07-26,vlad.cojocaru@endava.com,Vlad Cojocaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-27,vlad.cojocaru@endava.com,Vlad Cojocaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-28,vlad.cojocaru@endava.com,Vlad Cojocaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-29,vlad.cojocaru@endava.com,Vlad Cojocaru,ABSENCE,TOIL Overtime Leave,,,,8
+2025-07-20,teodor.leahu@endava.com,Teodor Leahu,ABSENCE,Annual Leave,,,,8
+2025-08-05,raul-gabriel.chiorean@endava.com,Raul Gabriel Chiorean,ABSENCE,Unpaid Leave,,,,8
+2025-07-02,laura-andrada.ciobanu@endava.com,Laura Andrada Ciobanu,ABSENCE,TOIL Travel,,,,8
+2025-07-03,laura-andrada.ciobanu@endava.com,Laura Andrada Ciobanu,ABSENCE,TOIL Travel,,,,8
+2025-07-04,laura-andrada.ciobanu@endava.com,Laura Andrada Ciobanu,ABSENCE,TOIL Travel,,,,8
+2025-07-05,laura-andrada.ciobanu@endava.com,Laura Andrada Ciobanu,ABSENCE,TOIL Travel,,,,8
+2025-06-26,felix-cosmin.orga@endava.com,Felix Cosmin Orga,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-27,felix-cosmin.orga@endava.com,Felix Cosmin Orga,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-28,felix-cosmin.orga@endava.com,Felix Cosmin Orga,ABSENCE,In Vitro Fertilization,,,,8
+2025-06-29,felix-cosmin.orga@endava.com,Felix Cosmin Orga,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-22,ana-stefania.serbanoiu@endava.com,Ana Stefania Serbanoiu,ABSENCE,Unpaid Leave,,,,8
+2025-08-14,maria-camelia.raicu@endava.com,Maria Camelia Raicu,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-19,ionut.birsan@endava.com,Ionut Birsan,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-20,ionut.birsan@endava.com,Ionut Birsan,ABSENCE,In Vitro Fertilization,,,,8
+2025-08-21,ionut.birsan@endava.com,Ionut Birsan,ABSENCE,In Vitro Fertilization,,,,8
+2025-07-11,raluca.roiban@endava.com,Raluca Roiban,ABSENCE,Unpaid Leave,,,,8
+2025-07-12,raluca.roiban@endava.com,Raluca Roiban,ABSENCE,Unpaid Leave,,,,8
+2025-06-19,cornelia.cojocari@endava.com,Cornelia Cojocari,ABSENCE,TOIL Travel,,,,8
+2025-07-23,andreea-marina.son@endava.com,Andreea Marina Son,ABSENCE,TOIL Travel,,,,8
+2025-07-24,andreea-marina.son@endava.com,Andreea Marina Son,ABSENCE,TOIL Travel,,,,8
+2025-07-25,andreea-marina.son@endava.com,Andreea Marina Son,ABSENCE,TOIL Travel,,,,8
+2025-07-26,andreea-marina.son@endava.com,Andreea Marina Son,ABSENCE,TOIL Travel,,,,8
+2025-07-27,andreea-marina.son@endava.com,Andreea Marina Son,ABSENCE,TOIL Travel,,,,8

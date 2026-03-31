@@ -1,0 +1,341 @@
+employee_id,activity_date,activity_category,activity_type,project_name,title,hours
+Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>,2025-06-02,CONFLUENCE,UniTask,,Exam,3.0
+Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.0
+Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>,2025-06-23,CONFLUENCE,UniTask,,Exam,3.0
+Cosmin Adrian Neamtiu <Cosmin-Adrian.Neamtiu@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Exam,3.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Exam,3.0
+Paul Valentin Vela <Paul-Valentin.Vela@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam,3.0
+Paul Valentin Vela <Paul-Valentin.Vela@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Exam,3.0
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Exam,2.0
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Exam,2.0
+Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Exam,2.0
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.5
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.5
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.5
+Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.5
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.5
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.5
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.5
+Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.5
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exams,3.5
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exams,3.5
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exams,3.5
+Flora Balogh <Flora.Balogh@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exams,3.5
+Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exams,3.5
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-24,CONFLUENCE,UniTask,,Exam,3.5
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-24,CONFLUENCE,UniTask,,Exam,3.5
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-24,CONFLUENCE,UniTask,,Exam,3.5
+Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>,2025-06-24,CONFLUENCE,UniTask,,Exam,3.5
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-27,CONFLUENCE,UniTask,,Exam,3.0
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-27,CONFLUENCE,UniTask,,Exam,3.0
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-27,CONFLUENCE,UniTask,,Exam,3.0
+Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>,2025-06-27,CONFLUENCE,UniTask,,Exam,3.0
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Exam,2.0
+Mariana Ionela Muntian <Mariana-Ionela.Muntian@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Exam,2.0
+Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Exam,2.0
+Timotei Cristian Morar <Timotei-Cristian.Morar@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.5
+Timotei Cristian Morar <Timotei-Cristian.Morar@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.5
+Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Lab Project,2.0
+Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,1.0
+Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>,2025-06-02,CONFLUENCE,UniTask,,Exam,4.0
+Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Exam,1.5
+Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Exam,1.5
+nan,2025-06-05,CONFLUENCE,UniTask,,Mózes Császár: Exam,1.0
+nan,2025-06-12,CONFLUENCE,UniTask,,Mózes Császár: Exam,1.5
+Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.5
+Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Festivitate,3.0
+Paul Valentin Vela <Paul-Valentin.Vela@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Exam,2.0
+Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.0
+Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.5
+Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.5
+Daniel Rosu <Daniel.Rosu@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.0
+Andrei Tudor Mirza <Andrei-Tudor.Mirza@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Lab exam,2.0
+Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>,2025-06-02,CONFLUENCE,UniTask,,Exam,2.5
+Anton Calin Stroia <Anton-Calin.Stroia@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Ioana Botezatu <Ioana.Botezatu@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Exam,2.0
+Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.0
+Sebastian Ionel Filipovici <Sebastian-Ionel.Filipovici@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Graduation Day,24.0
+Laura Rusanescu <Laura.Rusanescu@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Graduation Day,24.0
+Robert Fedus <Robert.Fedus@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Graduation Day,24.0
+Ioana Botezatu <Ioana.Botezatu@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Graduation Day,24.0
+Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Project presentation,4.0
+Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Lab,2.0
+Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Project presentation,1.0
+Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.0
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam: Lab exam,1.0
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam: Lab exam,1.0
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam: Lab exam,1.0
+Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Exam: Lab exam,2.0
+Alexandra Elena Pitaru <Alexandra-Elena.Pitaru@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Exam: Lab exam,2.0
+Tudor Gabriel Pascaru <Tudor-Gabriel.Pascaru@endava.com>,2025-06-23,CONFLUENCE,UniTask,,Exam,3.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-06-23,CONFLUENCE,UniTask,,Exam,3.0
+Laura Rusanescu <Laura.Rusanescu@endava.com>,2025-06-30,CONFLUENCE,UniTask,, Thesis Exam,6.0
+Ioana Botezatu <Ioana.Botezatu@endava.com>,2025-06-30,CONFLUENCE,UniTask,, Thesis Exam,6.0
+Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Exam,2.0
+Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Exam,2.0
+Vlad Andrei Groza <Vlad-Andrei.Groza@endava.com>,2025-06-17,CONFLUENCE,UniTask,,Exam,2.0
+Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.0
+Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Exam,3.0
+Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Exam,1.0
+Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Exam,2.0
+Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Exam,2.0
+Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Labs/Project_Presentation: The labs start at 16\nBianca Chiorean,4.5
+Alexandru Topan-Farcau <Alexandru.Topan@endava.com>,2025-06-02,CONFLUENCE,UniTask,,Project presentation,2.0
+Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam: Bianca Chiorean,3.0
+Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam: Bianca Chiorean,3.5
+Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam: Bianca Chiorean,3.0
+Emma Simina Muresan <Emma-Simina.Muresan@endava.com>,2025-06-02,CONFLUENCE,UniTask,,Curs,3.0
+Emma Simina Muresan <Emma-Simina.Muresan@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,2.0
+Emma Simina Muresan <Emma-Simina.Muresan@endava.com>,2025-06-11,CONFLUENCE,UniTask,,Project presentation,2.0
+Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>,2025-06-16,CONFLUENCE,UniTask,,exam,3.0
+Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>,2025-06-13,CONFLUENCE,UniTask,,exam,3.0
+Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>,2025-06-27,CONFLUENCE,UniTask,,Exam,3.0
+Marcos Dimitris Fetcu <Marcos-Dimitris.Fetcu@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,2.0
+Marcos Dimitris Fetcu <Marcos-Dimitris.Fetcu@endava.com>,2025-06-17,CONFLUENCE,UniTask,,Exam,2.0
+Adina Denisa Horj <Adina-Denisa.Horj@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,2.0
+Adina Denisa Horj <Adina-Denisa.Horj@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,2.0
+Adina Denisa Horj <Adina-Denisa.Horj@endava.com>,2025-06-17,CONFLUENCE,UniTask,,Exam,2.0
+Adina Denisa Horj <Adina-Denisa.Horj@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exam,2.0
+George Iulian Stoian <George-Iulian.Stoian@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Exam,2.0
+Sebastian Ionel Filipovici <Sebastian-Ionel.Filipovici@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam,2.0
+Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Exam,2.0
+Raul Birsan <Raul.Birsan@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam,2.0
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-02,CONFLUENCE,UniTask,,Project presentation,0.5
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Course + Seminar,2.0
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Course + Seminar,2.0
+Lorena Maria Buzea <Lorena-Maria.Buzea@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Project presentation,2.0
+Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Exam,2.0
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-02,CONFLUENCE,UniTask,,Project presentation and lab exam,2.0
+Ioan Sebastian Muresan <Ioan-Sebastian.Muresan@endava.com>,2025-06-02,CONFLUENCE,UniTask,,Colocviu,2.5
+Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Laboratory,3.5
+Ana Stefania Serbanoiu <Ana-Stefania.Serbanoiu@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Project Presentation,2.0
+Radu Ioan Maris <Radu-Ioan.Maris@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Colocviu,2.0
+Radu Ioan Maris <Radu-Ioan.Maris@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Exam,2.0
+Ariana Casandra Olaru <Ariana-Casandra.Olaru@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Colocviu,2.0
+Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>,2025-06-27,CONFLUENCE,UniTask,,CSSC Conference: I do not know exactly the hours,6.5
+Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation Day,24.0
+Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>,2025-07-15,CONFLUENCE,UniTask,,Diploma Presentation,24.0
+Bogdan Nicolae Cotta <Bogdan-Nicolae.Cotta@endava.com>,2025-06-30,CONFLUENCE,UniTask,,Bachelor's Degree Exam,6.0
+Emma Simina Muresan <Emma-Simina.Muresan@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Curs,3.0
+Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Exam,2.0
+Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam,5.0
+Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Project Presentation,1.25
+Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Lab Exam,2.0
+Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Lab Exam,2.0
+Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Examen,1.0
+Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.0
+Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>,2025-06-24,CONFLUENCE,UniTask,,Exam,3.0
+Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>,2025-06-27,CONFLUENCE,UniTask,,Exam,3.0
+Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam,2.0
+Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Lab Project,2.0
+Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Exam,2.0
+Darius Fratila <Darius.Fratila@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam,3.0
+Darius Fratila <Darius.Fratila@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Lab Project,3.0
+Ariana Casandra Olaru <Ariana-Casandra.Olaru@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Exam,3.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam,2.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Graduation day,18.0
+Ionut Popescu <Ionut.Popescu@endava.com>,2025-06-09,CONFLUENCE,UniTask,,Exam,3.0
+Ionut Popescu <Ionut.Popescu@endava.com>,2025-06-23,CONFLUENCE,UniTask,,Exam,4.0
+Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>,2025-06-03,CONFLUENCE,UniTask,,Final Project Presentation,1.0
+nan,2025-06-04,CONFLUENCE,UniTask,,Exam,2.5
+Daniel Rosu <Daniel.Rosu@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.5
+Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>,2025-06-04,CONFLUENCE,UniTask,,Curs,2.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.0
+nan,2025-06-10,CONFLUENCE,UniTask,,Exam,24.0
+Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.0
+Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>,2025-06-19,CONFLUENCE,UniTask,,Exam,4.02
+Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>,2025-06-23,CONFLUENCE,UniTask,,Exam,3.0
+Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>,2025-06-27,CONFLUENCE,UniTask,,exam,3.5
+Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>,2025-06-05,CONFLUENCE,UniTask,,Project,0.75
+Radu Ioan Maris <Radu-Ioan.Maris@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Festivitate,5.0
+Radu Ioan Maris <Radu-Ioan.Maris@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,4.0
+Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Exam,1.0
+Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,2.5
+Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,2.0
+Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exam,2.0
+Cristian Valentin Alexa <Cristian-Valentin.Alexa@endava.com>,2025-06-25,CONFLUENCE,UniTask,,Exam,2.0
+Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.0
+Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation Day,24.0
+Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Project presentation,3.0
+Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.0
+Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation,24.0
+nan,2025-06-09,CONFLUENCE,UniTask,,Exam,3.0
+Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>,2025-06-06,CONFLUENCE,UniTask,,Project Presentation,1.5
+George Stefan Bodogae <George-Stefan.Bodogae@endava.com>,2025-06-10,CONFLUENCE,UniTask,, Exam - Security Audit,3.0
+Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.0
+Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.0
+Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Exam,3.0
+Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Exam,3.0
+Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>,2025-06-11,CONFLUENCE,UniTask,,Project presentation,2.5
+Vlad Andrei Groza <Vlad-Andrei.Groza@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exam,2.0
+Gabriel Firisar <Gabriel.Firisar@endava.com>,2025-06-10,CONFLUENCE,UniTask,,Exam,3.0
+Dragos Ionut Talaba <Dragos-Ionut.Talaba@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Graduation Day: Graduation Day UBB,24.0
+Dragos Ionut Talaba <Dragos-Ionut.Talaba@endava.com>,2025-06-30,CONFLUENCE,UniTask,,Bachelor's Degree Exam,24.0
+nan,2025-06-13,CONFLUENCE,UniTask,,Pascan Daniela: Exam,3.0
+Ana Stefania Serbanoiu <Ana-Stefania.Serbanoiu@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Exam,2.0
+nan,2025-06-16,CONFLUENCE,UniTask,,Pascan Daniela: Exam,3.0
+nan,2025-07-01,CONFLUENCE,UniTask,,Pascan Daniela: Graduation,24.0
+George Iulian Stoian <George-Iulian.Stoian@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,4.0
+Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,4.0
+Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation,24.0
+Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Exam,2.0
+Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Exam,4.0
+Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.0
+Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Bogdan Nicolae Cotta <Bogdan-Nicolae.Cotta@endava.com>,2025-06-12,CONFLUENCE,UniTask,,Short leave for university formalities,1.5
+Vlad V Muresan <Vlad.Muresan2@endava.com>,2025-07-17,CONFLUENCE,UniTask,,Dissertation Presentation,24.0
+Cornel Adrian Pop <Cornel-Adrian.Pop@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,24.0
+Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>,2025-06-16,CONFLUENCE,UniTask,,Exam,3.0
+Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>,2025-06-13,CONFLUENCE,UniTask,,Exam,3.0
+Laura Rusanescu <Laura.Rusanescu@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Laura Rusanescu <Laura.Rusanescu@endava.com>,2025-06-23,CONFLUENCE,UniTask,,Exam,2.0
+Laura Rusanescu <Laura.Rusanescu@endava.com>,2025-06-25,CONFLUENCE,UniTask,,Exam,2.0
+nan,2025-06-17,CONFLUENCE,UniTask,,Pascan Daniela: Exam,2.0
+Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>,2025-06-17,CONFLUENCE,UniTask,,Exam,3.0
+Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>,2025-06-17,CONFLUENCE,UniTask,,Exam,3.0
+George Iulian Stoian <George-Iulian.Stoian@endava.com>,2025-06-17,CONFLUENCE,UniTask,,Exam,4.0
+George Iulian Stoian <George-Iulian.Stoian@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation Day,24.0
+Vlad Ioan Durdeu <Vlad-Ioan.Durdeu@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exam,3.0
+nan,2025-06-25,CONFLUENCE,UniTask,,Exam,3.0
+Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>,2025-06-17,CONFLUENCE,UniTask,,Exam,3.0
+Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>,2025-06-17,CONFLUENCE,UniTask,,Exam,3.0
+Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>,2025-06-26,CONFLUENCE,UniTask,, Festivitate de absolvire,24.0
+Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation Day,24.0
+Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Ana Stefania Serbanoiu <Ana-Stefania.Serbanoiu@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,1.0
+Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>,2025-06-19,CONFLUENCE,UniTask,,Exam,3.0
+Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>,2025-06-27,CONFLUENCE,UniTask,,Exam,14.5
+Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>,2025-06-18,CONFLUENCE,UniTask,,Exam,3.0
+Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Exam,2.0
+Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exam,3.0
+Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>,2025-06-19,CONFLUENCE,UniTask,,Exam,2.0
+Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>,2025-06-25,CONFLUENCE,UniTask,,Exam,3.0
+Unknown User (mraicu) <CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu>,2025-06-30,CONFLUENCE,UniTask,,Bachelor's Degree Exam,4.0
+Unknown User (mraicu) <CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu>,2025-06-26,CONFLUENCE,UniTask,,Graduation Day,17.0
+Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>,2025-06-20,CONFLUENCE,UniTask,,Exam,2.0
+Bianca Maria Lazar <Bianca-Maria.Lazar@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Graduation,24.0
+Bianca Maria Lazar <Bianca-Maria.Lazar@endava.com>,2025-06-30,CONFLUENCE,UniTask,,Examen de licenta,24.0
+Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>,2025-06-23,CONFLUENCE,UniTask,,Exam,3.0
+Iulia Olivia Cipleu <Iulia-Olivia.Cipleu@endava.com>,2025-07-23,CONFLUENCE,UniTask,,Master Interview,24.0
+Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>,2025-06-27,CONFLUENCE,UniTask,,Exam,3.0
+Ariana Casandra Olaru <Ariana-Casandra.Olaru@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation,24.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Consultation,1.0
+Bogdan Cristian Marcu <Bogdan-Cristian.Marcu@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Exam,3.0
+Unknown User (mraicu) <CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu>,2025-06-27,CONFLUENCE,UniTask,,Sesiunea de Comunicari Stiintifice ale Studentilor,6.0
+Denisa Elena Stolniceanu <Denisa-Elena.Stolniceanu@endava.com>,2025-06-26,CONFLUENCE,UniTask,,Graduation Day,3.0
+Radu Ioan Maris <Radu-Ioan.Maris@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation Day,24.0
+Denisa Elena Stolniceanu <Denisa-Elena.Stolniceanu@endava.com>,2025-06-30,CONFLUENCE,UniTask,,Bachelor's Degree Exam,3.0
+Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>,2025-06-30,CONFLUENCE,UniTask,,Examen de licenta,24.0
+Maria Mihaela Bradea <Maria-Mihaela.Bradea@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Graduation,24.0
+nan,2025-07-01,CONFLUENCE,UniTask,,Graduation,5.0
+Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>,2025-07-01,CONFLUENCE,UniTask,, Graduation Day,24.0
+nan,2025-06-30,CONFLUENCE,UniTask,,Exam,3.0
+Gabriel Firisar <Gabriel.Firisar@endava.com>,2025-07-01,CONFLUENCE,UniTask,,Family's Graduation Day: Still available online,24.0
+Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>,2025-07-08,CONFLUENCE,UniTask,,Exam,3.0
+Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>,2025-07-08,CONFLUENCE,UniTask,,Exam,3.0
+Augustin Dumitru Sasu <Augustin-Dumitru.Sasu@endava.com>,2025-07-11,CONFLUENCE,UniTask,,Exam,3.0
+Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>,2025-07-11,CONFLUENCE,UniTask,,Exam,3.0
+Ioana Botezatu <Ioana.Botezatu@endava.com>,2025-07-03,CONFLUENCE,UniTask,,Thesis Presentation,2.0
+Robert Fedus <Robert.Fedus@endava.com>,2025-07-02,CONFLUENCE,UniTask,,prezentare licenta,2.0
+Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>,2025-07-02,CONFLUENCE,UniTask,,prezentare licenta,2.0
+Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>,2025-07-07,CONFLUENCE,UniTask,,Exam,3.0
+Bianca Maria Lazar <Bianca-Maria.Lazar@endava.com>,2025-07-07,CONFLUENCE,UniTask,,banchet,24.0
+Ionut Popescu <Ionut.Popescu@endava.com>,2025-07-08,CONFLUENCE,UniTask,,Exam,3.0
+Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>,2025-07-07,CONFLUENCE,UniTask,,Exam,2.0
+Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>,2025-07-08,CONFLUENCE,UniTask,,Exam,4.0
+Daniel Kewin Chifa <Daniel-Kewin.Chifa@endava.com>,2025-07-10,CONFLUENCE,UniTask,,Exam,4.0
+Ferdinand Alexandru Cabat <Ferdinand-Alexandru.Cabat@endava.com>,2025-07-10,CONFLUENCE,UniTask,,Exam,3.0
+George Iulian Stoian <George-Iulian.Stoian@endava.com>,2025-07-08,CONFLUENCE,UniTask,,Exam,4.0
+Cosmin Gabriel Petriuc <Cosmin-Gabriel.Petriuc@endava.com>,2025-07-07,CONFLUENCE,UniTask,,banchet,24.0
+Gabriel Firisar <Gabriel.Firisar@endava.com>,2025-07-07,CONFLUENCE,UniTask,,Exam,2.0
+Radu Ioan Maris <Radu-Ioan.Maris@endava.com>,2025-07-09,CONFLUENCE,UniTask,,Exam,2.0
+Petru Adelin Cojocaru <Petru-Adelin.Cojocaru@endava.com>,2025-07-08,CONFLUENCE,UniTask,,Exam,7.0
+Andreea Gabriela Pop <Andreea-Gabriela.Pop@endava.com>,2025-07-08,CONFLUENCE,UniTask,,Exam,3.0
+Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>,2025-07-08,CONFLUENCE,UniTask,,Exam,2.0
+Adrian Matean <Adrian.Matean@endava.com>,2025-06-06,CONFLUENCE,leaves,,Adrian Matean: Vacation,192.0
+Raluca Roiban <Raluca.Roiban@endava.com>,2025-07-14,CONFLUENCE,leaves,,Raluca Roiban: Vacation,120.0
+Vlad Andrei Groza <Vlad-Andrei.Groza@endava.com>,2025-06-06,CONFLUENCE,leaves,,Vlad Andrei Groza: Vacation,24.0
+Mircea Stefan Pop <Mircea-Stefan.Pop@endava.com>,2025-06-19,CONFLUENCE,leaves,,Mircea Stefan Pop: vacation,168.0
+Marcos Dimitris Fetcu <Marcos-Dimitris.Fetcu@endava.com>,2025-07-25,CONFLUENCE,leaves,,Marcos Dimitris Fetcu: Recovery after prom,24.0
+George Stefan Bodogae <George-Stefan.Bodogae@endava.com>,2025-09-11,CONFLUENCE,leaves,,George Stefan Bodogae: Vacation,144.0
+Emma Simina Muresan <Emma-Simina.Muresan@endava.com>,2025-08-15,CONFLUENCE,leaves,,Emma Simina Muresan: Vacation,240.0
+Ilinca Maria Popovici <Ilinca-Maria.Popovici@endava.com>,2025-08-18,CONFLUENCE,leaves,,Ilinca Maria Popovici: Vacation,192.0
+Raul Birsan <Raul.Birsan@endava.com>,2025-07-28,CONFLUENCE,leaves,,Raul Birsan: Vacanta,144.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-07-18,CONFLUENCE,leaves,,Tudor Muntean: Vacantion,24.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-07-25,CONFLUENCE,leaves,,Tudor Muntean: Vacantion,144.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-08-08,CONFLUENCE,leaves,,Tudor Muntean: Vacantion,24.0
+Andrei Tudor Mirza <Andrei-Tudor.Mirza@endava.com>,2025-07-21,CONFLUENCE,leaves,,Andrei Tudor Mirza: Vacation,120.0
+Madalina Daiana Gligan <Madalina-Daiana.Gligan@endava.com>,2025-08-19,CONFLUENCE,leaves,,Madalina Daiana Gligan: Vacation,192.0
+Daria Alexia Irimie <Daria-Alexia.Irimie@endava.com>,2025-09-08,CONFLUENCE,leaves,,Daria Alexia Irimie: Vacation,120.0
+Aron Domokos Telegdy <Aron.Telegdy@endava.com>,2025-06-23,CONFLUENCE,leaves,,Telegdy Aron Domokos: Vacation,24.0
+Bogdan Nicolae Cotta <Bogdan-Nicolae.Cotta@endava.com>,2025-07-10,CONFLUENCE,leaves,,Bogdan Nicolae Cotta: Vacation,120.0
+George Stefan Bodogae <George-Stefan.Bodogae@endava.com>,2025-08-11,CONFLUENCE,leaves,,George Stefan Bodogae: Vacation,120.0
+George Stefan Bodogae <George-Stefan.Bodogae@endava.com>,2025-10-24,CONFLUENCE,leaves,,George Stefan Bodogae: Vacation,24.0
+George Stefan Bodogae <George-Stefan.Bodogae@endava.com>,2025-07-07,CONFLUENCE,leaves,,George Stefan Bodogae: Personal Event,24.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-07-25,CONFLUENCE,leaves,,Flora Balogh: Vacation,24.0
+Flora Balogh <Flora.Balogh@endava.com>,2025-07-28,CONFLUENCE,leaves,,Flora Balogh: Vacation,48.0
+Unknown User (mraicu) <CUTYPE=INDIVIDUAL:https://confluence.endava.com/display/~mraicu>,2025-07-11,CONFLUENCE,leaves,,Maria Camelia Raicu: Vacantion,192.0
+Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>,2025-07-25,CONFLUENCE,leaves,,Felix Cosmin Orga: Prom recovery,24.0
+Timotei Cristian Morar <Timotei-Cristian.Morar@endava.com>,2025-08-13,CONFLUENCE,leaves,,Timotei Cristian Morar: Vacation,144.0
+Mozes Csaszar <Mozes.Csaszar@endava.com>,2025-08-13,CONFLUENCE,leaves,,Mozes Csaszar: Vacation,144.0
+Felix Cosmin Orga <Felix-Cosmin.Orga@endava.com>,2025-06-30,CONFLUENCE,leaves,,Felix Cosmin Orga: Medical appointment,1.5
+Eric Marian Dascalu <Eric-Marian.Dascalu@endava.com>,2025-06-30,CONFLUENCE,leaves,,Eric Marian Dascalu: Medical Appointment,2.0
+Gabriel Alexandru Nedelcu <Gabriel-Alexandru.Nedelcu@endava.com>,2025-07-25,CONFLUENCE,leaves,,Gabriel Alexandru Nedelcu: Vacation,24.0
+Ioana Botezatu <Ioana.Botezatu@endava.com>,2025-07-18,CONFLUENCE,leaves,,Ioana Botezatu: Vacation,24.0
+Timotei Cristian Morar <Timotei-Cristian.Morar@endava.com>,2025-07-01,CONFLUENCE,other,,Graduation Day,24.0
+Tudor Mihai Iakkel <Tudor-Mihai.Iakkel@endava.com>,2025-06-04,CONFLUENCE,other,,Lab Project,2.0
+Daniel Rosu <Daniel.Rosu@endava.com>,2025-06-13,CONFLUENCE,other,,Exam,3.0
+nan,2025-06-18,CONFLUENCE,other,,Exam,1.0
+Daniel Rosu <Daniel.Rosu@endava.com>,2025-06-26,CONFLUENCE,other,,Exam,3.0
+Diana Cristina Mocan <Diana-Cristina.Mocan@endava.com>,2025-06-12,CONFLUENCE,other,,Exam,4.0
+Diana Cristina Mocan <Diana-Cristina.Mocan@endava.com>,2025-06-17,CONFLUENCE,other,,Exam,3.5
+Laura Rusanescu <Laura.Rusanescu@endava.com>,2025-06-06,CONFLUENCE,other,,Exam,2.0
+Marcos Dimitris Fetcu <Marcos-Dimitris.Fetcu@endava.com>,2025-07-01,CONFLUENCE,other,,Graduation Day,24.0
+Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>,2025-06-30,CONFLUENCE,other,,Written licence exam,3.0
+Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>,2025-07-02,CONFLUENCE,other,,Licence Presentation,2.0
+Sebastian Cristian Sleam <Sebastian-Cristian.Sleam@endava.com>,2025-06-23,CONFLUENCE,other,,GF's Graduation Day,3.0
+Emma Simina Muresan <Emma-Simina.Muresan@endava.com>,2025-06-17,CONFLUENCE,other,,O'Reilly Live Event,1.5
+Emma Simina Muresan <Emma-Simina.Muresan@endava.com>,2025-07-03,CONFLUENCE,other,,O'Reilly Live Event,3.0
+Emma Simina Muresan <Emma-Simina.Muresan@endava.com>,2025-07-16,CONFLUENCE,other,,O'Reilly Live Event,3.0
+Remus Mihai Prodan <Remus-Mihai.Prodan@endava.com>,2025-06-09,CONFLUENCE,other,,Exam,3.0
+Remus Mihai Prodan <Remus-Mihai.Prodan@endava.com>,2025-06-17,CONFLUENCE,other,,Exam,3.0
+Ioana Victoria Zinveliu <Ioana-Victoria.Zinveliu@endava.com>,2025-06-03,CONFLUENCE,other,,Project Presentation,4.0
+Remus Mihai Prodan <Remus-Mihai.Prodan@endava.com>,2025-06-23,CONFLUENCE,other,,Exam,15.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-06-10,CONFLUENCE,other,,Doctor appointment,26.0
+Adriana Maria Vadean <Adriana-Maria.Vadean@endava.com>,2025-06-12,CONFLUENCE,other,,Graduation,2.0
+Laura Rusanescu <Laura.Rusanescu@endava.com>,2025-06-24,CONFLUENCE,other,,Exam,3.0
+Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>,2025-06-10,CONFLUENCE,other,,Doctor Appointment (Consultation),1.0
+Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>,2025-06-11,CONFLUENCE,other,,Licence Coordinator Meet (In person),1.0
+Mihnea Sebastian Ilie Encean <Mihnea-Sebastian-Ilie.Encean@endava.com>,2025-06-11,CONFLUENCE,other,,Dentist Appointment,1.0
+nan,2025-06-17,CONFLUENCE,other,,Doctor appointment,2.0
+Dragos Alexandru Ion <Dragos-Alexandru.Ion@endava.com>,2025-06-26,CONFLUENCE,other,,Graduation Day,18.0
+Dragos Alexandru Ion <Dragos-Alexandru.Ion@endava.com>,2025-06-30,CONFLUENCE,other,,Bachelor's Degree Exam,4.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-06-27,CONFLUENCE,other,,Sesiunea de comunicari stintifice a studentilor,24.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-06-18,CONFLUENCE,other,,Exam,2.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-06-23,CONFLUENCE,other,,Consultatii examen licenta,2.0
+Maria Iulia Zdrenghea <Maria-Iulia.Zdrenghea@endava.com>,2025-07-01,CONFLUENCE,other,,Graduation Day,24.0
+Ilinca Maria Popovici <Ilinca-Maria.Popovici@endava.com>,2025-06-26,CONFLUENCE,other,,Sister's Graduation Day,2.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-06-25,CONFLUENCE,other,,Doctor appointment,1.0
+Adriana Maria Vadean <Adriana-Maria.Vadean@endava.com>,2025-07-07,CONFLUENCE,other,,Graduation,2.5
+Diana Cristina Mocan <Diana-Cristina.Mocan@endava.com>,2025-07-01,CONFLUENCE,other,,Graduation,24.0
+Bianca Anamaria Chiorean <Bianca-Anamaria.Chiorean@endava.com>,2025-06-27,CONFLUENCE,other,,Sesiunea de Comunicari Stiintifice ale Studentilor,6.5
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-06-30,CONFLUENCE,other,,Bachelor's exam,4.0
+Tudor Muntean <Tudor.Muntean@endava.com>,2025-07-02,CONFLUENCE,other,,Prezentare licenta,2.0
+Vlad Cristian Brinzas <Vlad-Cristian.Brinzas@endava.com>,2025-07-11,CONFLUENCE,other,,Cardiology Consult,2.0
+Robert Erno Eminovici <Robert-Erno.Eminovici@endava.com>,2025-07-09,CONFLUENCE,other,,Medical Appointment,2.0

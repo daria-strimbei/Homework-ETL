@@ -1,0 +1,393 @@
+name,email,start_date,end_date,reason,additional_comments
+Mircea Stefan Pop,Mircea-Stefan.Pop@endava.com,7/11/2025,7/13/2025,Annual Leave,Pending confirmation
+Mircea Stefan Pop,Mircea-Stefan.Pop@endava.com,6/16/2025,6/16/2025,Maternity Leave,Booked in HR system
+Mircea Stefan Pop,Mircea-Stefan.Pop@endava.com,8/27/2025,8/30/2025,Maternity Leave,Family emergency
+Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,8/14/2025,8/17/2025,Special Leave Adoption,Booked in HR system
+Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,8/26/2025,8/27/2025,Patternity Leave,Family emergency
+Cristian Valentin Alexa,Cristian-Valentin.Alexa@endava.com,6/25/2025,6/25/2025,Special Leave Adoption,Follow-up required
+Costin Manolescu,Costin.Manolescu@endava.com,6/7/2025,6/7/2025,Special Leave Adoption,Handled by backup colleague
+Costin Manolescu,Costin.Manolescu@endava.com,8/25/2025,8/28/2025,Annual Leave,Approved by manager
+Costin Manolescu,Costin.Manolescu@endava.com,8/30/2025,9/2/2025,Medical Leave,Pending confirmation
+Ana Ciobanu,Ana.Ciobanu@endava.com,7/16/2025,7/19/2025,Maternity Leave,Booked in HR system
+Ana Ciobanu,Ana.Ciobanu@endava.com,6/27/2025,6/29/2025,TOIL Overtime Leave,Approved by manager
+Ana Ciobanu,Ana.Ciobanu@endava.com,6/5/2025,6/9/2025,Unpaid Leave,Approved by manager
+Daniela Munteanu,Daniela.Munteanu@endava.com,7/3/2025,7/5/2025,Annual Leave,Pending confirmation
+Daniela Munteanu,Daniela.Munteanu@endava.com,7/7/2025,7/8/2025,Patternity Leave,Approved by manager
+Daniela Munteanu,Daniela.Munteanu@endava.com,6/14/2025,6/17/2025,Special Leave Adoption,Booked in HR system
+Reka Katalin Darko,Reka-Katalin.Darko@endava.com,6/2/2025,6/5/2025,TOIL Overtime Leave,Handled by backup colleague
+Reka Katalin Darko,Reka-Katalin.Darko@endava.com,7/16/2025,7/16/2025,Special Leave,Handled by backup colleague
+Reka Katalin Darko,Reka-Katalin.Darko@endava.com,8/11/2025,8/11/2025,In Vitro Fertilization,Handled by backup colleague
+Ilinca Maria Popovici,Ilinca-Maria.Popovici@endava.com,7/17/2025,7/20/2025,TOIL Overtime Leave,Pending confirmation
+Ilinca Maria Popovici,Ilinca-Maria.Popovici@endava.com,6/13/2025,6/14/2025,Maternity Leave,Handled by backup colleague
+Ilinca Maria Popovici,Ilinca-Maria.Popovici@endava.com,6/9/2025,6/11/2025,Unpaid Leave,Medical certificate attached
+Gheorghe-Cristian Terovan,Gheorghe-Cristian.Terovan@endava.com,6/22/2025,6/22/2025,Childcare Leave,Medical certificate attached
+Gheorghe-Cristian Terovan,Gheorghe-Cristian.Terovan@endava.com,8/8/2025,8/12/2025,Special Leave,Booked in HR system
+Gheorghe-Cristian Terovan,Gheorghe-Cristian.Terovan@endava.com,6/16/2025,6/17/2025,Medical Leave,Approved by manager
+Vlad V Muresan,Vlad.Muresan2@endava.com,7/29/2025,7/29/2025,Patternity Leave,Booked in HR system
+Vlad V Muresan,Vlad.Muresan2@endava.com,7/8/2025,7/10/2025,Special Leave,Approved by manager
+Vlad V Muresan,Vlad.Muresan2@endava.com,6/16/2025,6/20/2025,Medical Leave,Handled by backup colleague
+Alexandru Lazar,Alexandru.Lazar@endava.com,8/14/2025,8/14/2025,Special Leave,Medical certificate attached
+Alexandru Lazar,Alexandru.Lazar@endava.com,7/30/2025,8/2/2025,Childcare Leave,Follow-up required
+Alexandru Lazar,Alexandru.Lazar@endava.com,7/15/2025,7/18/2025,TOIL Travel,Booked in HR system
+Daniel-Ionel Beg,Daniel-Ionel.Beg@endava.com,8/9/2025,8/11/2025,Maternity Leave,Family emergency
+Daniel-Ionel Beg,Daniel-Ionel.Beg@endava.com,8/1/2025,8/5/2025,Special Leave,Follow-up required
+Daniel-Ionel Beg,Daniel-Ionel.Beg@endava.com,7/1/2025,7/4/2025,Childcare Leave,Follow-up required
+Marius Beschieru,Marius.Beschieru@endava.com,8/20/2025,8/22/2025,Childcare Leave,Handled by backup colleague
+Marius Beschieru,Marius.Beschieru@endava.com,8/17/2025,8/20/2025,Childcare Leave,Booked in HR system
+Marius Beschieru,Marius.Beschieru@endava.com,6/22/2025,6/26/2025,Annual Leave,Follow-up required
+Serban Marian Precup,Serban-Marian.Precup@endava.com,7/14/2025,7/18/2025,Maternity Leave,Handled by backup colleague
+Serban Marian Precup,Serban-Marian.Precup@endava.com,7/9/2025,7/10/2025,In Vitro Fertilization,Follow-up required
+Serban Marian Precup,Serban-Marian.Precup@endava.com,7/20/2025,7/21/2025,In Vitro Fertilization,Approved by manager
+Raul Birsan,Raul.Birsan@endava.com,7/12/2025,7/16/2025,Annual Leave,Handled by backup colleague
+Raul Birsan,Raul.Birsan@endava.com,8/24/2025,8/28/2025,Medical Leave,Booked in HR system
+Raul Birsan,Raul.Birsan@endava.com,8/11/2025,8/13/2025,Patternity Leave,Booked in HR system
+Cosmin Felecanu,Cosmin.Felecanu@endava.com,6/17/2025,6/17/2025,Childcare Leave,Approved by manager
+Cosmin Felecanu,Cosmin.Felecanu@endava.com,6/12/2025,6/16/2025,TOIL Overtime Leave,Medical certificate attached
+Cosmin Felecanu,Cosmin.Felecanu@endava.com,6/14/2025,6/15/2025,Special Leave Adoption,Pending confirmation
+Dragos Vatra,Dragos.Vatra@endava.com,8/24/2025,8/24/2025,Patternity Leave,Follow-up required
+Dragos Vatra,Dragos.Vatra@endava.com,7/16/2025,7/17/2025,TOIL Travel,Follow-up required
+Dragos Vatra,Dragos.Vatra@endava.com,7/27/2025,7/30/2025,Special Leave,Follow-up required
+Csilla Boglarka Nagy,Csilla-Boglarka.Nagy@endava.com,6/26/2025,6/26/2025,TOIL Travel,Approved by manager
+Csilla Boglarka Nagy,Csilla-Boglarka.Nagy@endava.com,6/4/2025,6/7/2025,Special Leave Adoption,Booked in HR system
+Csilla Boglarka Nagy,Csilla-Boglarka.Nagy@endava.com,8/18/2025,8/21/2025,Patternity Leave,Follow-up required
+Diandra Fechita,Diandra.Fechita@endava.com,6/29/2025,7/2/2025,Special Leave,Pending confirmation
+Diandra Fechita,Diandra.Fechita@endava.com,6/1/2025,6/1/2025,Medical Leave,Handled by backup colleague
+Emanuela Lupancu,Emanuela.Lupancu@endava.com,6/13/2025,6/13/2025,Childcare Leave,Medical certificate attached
+Emanuela Lupancu,Emanuela.Lupancu@endava.com,7/8/2025,7/10/2025,In Vitro Fertilization,Family emergency
+Alex Rares Roman,Alex-Rares.Roman@endava.com,6/7/2025,6/7/2025,Special Leave Adoption,Booked in HR system
+Alex Rares Roman,Alex-Rares.Roman@endava.com,8/27/2025,8/29/2025,Patternity Leave,Handled by backup colleague
+Laurentiu Fratila,Laurentiu.Fratila@endava.com,8/16/2025,8/18/2025,Special Leave,Handled by backup colleague
+Laurentiu Fratila,Laurentiu.Fratila@endava.com,8/2/2025,8/6/2025,In Vitro Fertilization,Family emergency
+Andrei Alexandru Gheorghe,Andrei-Alexandru.Gheorghe@endava.com,8/21/2025,8/22/2025,Unpaid Leave,Handled by backup colleague
+Andrei Alexandru Gheorghe,Andrei-Alexandru.Gheorghe@endava.com,8/21/2025,8/22/2025,Medical Leave,Family emergency
+Stefan Gabriel Verde,Stefan-Gabriel.Verde@endava.com,8/1/2025,8/2/2025,In Vitro Fertilization,Booked in HR system
+Stefan Gabriel Verde,Stefan-Gabriel.Verde@endava.com,7/19/2025,7/21/2025,Patternity Leave,Booked in HR system
+Dan Teodor Buzoianu,Dan-Teodor.Buzoianu@endava.com,8/5/2025,8/9/2025,Special Leave,Handled by backup colleague
+Dan Teodor Buzoianu,Dan-Teodor.Buzoianu@endava.com,7/5/2025,7/5/2025,Special Leave,Follow-up required
+Denisa Maria Gorea,Denisa-Maria.Gorea@endava.com,6/19/2025,6/23/2025,Annual Leave,Approved by manager
+Denisa Maria Gorea,Denisa-Maria.Gorea@endava.com,7/11/2025,7/14/2025,Childcare Leave,Booked in HR system
+Botond Ors Solyom,Botond-Ors.Solyom@endava.com,7/13/2025,7/15/2025,Special Leave Adoption,Booked in HR system
+Botond Ors Solyom,Botond-Ors.Solyom@endava.com,7/2/2025,7/2/2025,Special Leave,Handled by backup colleague
+Cosmin Chirazi,Cosmin.Chirazi@endava.com,7/26/2025,7/28/2025,Special Leave,Family emergency
+Cosmin Chirazi,Cosmin.Chirazi@endava.com,6/28/2025,6/29/2025,Patternity Leave,Medical certificate attached
+George Andrei Necula,George-Andrei.Necula@endava.com,8/16/2025,8/20/2025,Special Leave,Booked in HR system
+George Andrei Necula,George-Andrei.Necula@endava.com,6/18/2025,6/19/2025,Special Leave Adoption,Family emergency
+Denis Roca,Denis.Roca@endava.com,6/21/2025,6/22/2025,In Vitro Fertilization,Follow-up required
+Denis Roca,Denis.Roca@endava.com,6/15/2025,6/15/2025,Special Leave Adoption,Follow-up required
+Tiberiu Iatan,Tiberiu.Iatan@endava.com,8/12/2025,8/14/2025,Unpaid Leave,Handled by backup colleague
+Tiberiu Iatan,Tiberiu.Iatan@endava.com,8/13/2025,8/13/2025,Special Leave,Handled by backup colleague
+George Stefan Bodogae,George-Stefan.Bodogae@endava.com,7/8/2025,7/11/2025,In Vitro Fertilization,Family emergency
+George Stefan Bodogae,George-Stefan.Bodogae@endava.com,6/18/2025,6/20/2025,TOIL Overtime Leave,Handled by backup colleague
+Alin Avram,Alin.Avram@endava.com,8/4/2025,8/7/2025,Childcare Leave,Handled by backup colleague
+Alin Avram,Alin.Avram@endava.com,8/23/2025,8/27/2025,TOIL Travel,Pending confirmation
+Cornel Adrian Pop,Cornel-Adrian.Pop@endava.com,8/15/2025,8/17/2025,Unpaid Leave,Family emergency
+Cornel Adrian Pop,Cornel-Adrian.Pop@endava.com,6/29/2025,7/1/2025,In Vitro Fertilization,Medical certificate attached
+Radu Nicolae,Radu-Mihai.Nicoale@endava.com,6/3/2025,6/5/2025,TOIL Overtime Leave,Approved by manager
+Radu Nicolae,Radu-Mihai.Nicoale@endava.com,8/8/2025,8/9/2025,Maternity Leave,Medical certificate attached
+Attila Szasz,Attila.Szasz@endava.com,6/19/2025,6/21/2025,TOIL Travel,Family emergency
+Attila Szasz,Attila.Szasz@endava.com,7/11/2025,7/12/2025,Patternity Leave,Handled by backup colleague
+Adrian Vasile Vladescu,Adrian-Vasile.Vladescu@endava.com,6/20/2025,6/23/2025,Childcare Leave,Medical certificate attached
+Adrian Vasile Vladescu,Adrian-Vasile.Vladescu@endava.com,7/30/2025,8/3/2025,Childcare Leave,Follow-up required
+Luisa Yi Qing Yang,Luisa-Yi-Qing.Yang@endava.com,8/12/2025,8/14/2025,TOIL Overtime Leave,Medical certificate attached
+Luisa Yi Qing Yang,Luisa-Yi-Qing.Yang@endava.com,8/1/2025,8/4/2025,TOIL Travel,Family emergency
+Vlad Badulescu,Vlad.Badulescu@endava.com,6/13/2025,6/16/2025,Childcare Leave,Handled by backup colleague
+Vlad Badulescu,Vlad.Badulescu@endava.com,7/2/2025,7/3/2025,Annual Leave,Approved by manager
+Cosmin Gabriel Mirea,Cosmin-Gabriel.Mirea@endava.com,8/4/2025,8/7/2025,Maternity Leave,Family emergency
+Cosmin Gabriel Mirea,Cosmin-Gabriel.Mirea@endava.com,8/9/2025,8/12/2025,Maternity Leave,Pending confirmation
+Aron Domokos Telegdy,Aron.Telegdy@endava.com,8/8/2025,8/9/2025,Maternity Leave,Pending confirmation
+Aron Domokos Telegdy,Aron.Telegdy@endava.com,6/22/2025,6/25/2025,Patternity Leave,Pending confirmation
+Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,8/28/2025,9/1/2025,Maternity Leave,Booked in HR system
+Bogdan Cristian Marcu,Bogdan-Cristian.Marcu@endava.com,6/21/2025,6/23/2025,Patternity Leave,Family emergency
+Adina Gheorghevici,Adina.Gheorghevici@endava.com,7/7/2025,7/11/2025,Childcare Leave,Family emergency
+Adina Gheorghevici,Adina.Gheorghevici@endava.com,8/22/2025,8/22/2025,Unpaid Leave,Pending confirmation
+Radu Ioan Stoica,Radu-Ioan.Stoica@endava.com,6/29/2025,7/3/2025,Annual Leave,Medical certificate attached
+Radu Ioan Stoica,Radu-Ioan.Stoica@endava.com,6/27/2025,6/29/2025,Annual Leave,Medical certificate attached
+Raluca Elisa Butiurca,Raluca-Elisa.Butiurca@endava.com,7/23/2025,7/23/2025,Maternity Leave,Follow-up required
+Raluca Elisa Butiurca,Raluca-Elisa.Butiurca@endava.com,8/1/2025,8/4/2025,In Vitro Fertilization,Family emergency
+Andra-Maria Petcu,Andra-Maria.Petcu@endava.com,6/28/2025,6/29/2025,Maternity Leave,Approved by manager
+Andra-Maria Petcu,Andra-Maria.Petcu@endava.com,6/8/2025,6/9/2025,Patternity Leave,Pending confirmation
+Irina Vasilita,Irina.Vasilita@endava.com,7/3/2025,7/7/2025,Special Leave,Medical certificate attached
+Irina Vasilita,Irina.Vasilita@endava.com,7/22/2025,7/25/2025,TOIL Overtime Leave,Family emergency
+Sabin Andrei Popa,Sabin-Andrei.Popa@endava.com,6/28/2025,6/28/2025,TOIL Travel,Approved by manager
+Sabin Andrei Popa,Sabin-Andrei.Popa@endava.com,7/6/2025,7/6/2025,Maternity Leave,Pending confirmation
+Rares Muresan,Rares.Muresan@endava.com,6/25/2025,6/29/2025,In Vitro Fertilization,Booked in HR system
+Rares Muresan,Rares.Muresan@endava.com,6/23/2025,6/25/2025,Maternity Leave,Approved by manager
+Anton Calin Stroia,Anton-Calin.Stroia@endava.com,8/8/2025,8/8/2025,TOIL Overtime Leave,Approved by manager
+Anton Calin Stroia,Anton-Calin.Stroia@endava.com,8/4/2025,8/5/2025,Medical Leave,Follow-up required
+Alexandru Tarcan,Alexandru.Tarcan@endava.com,8/19/2025,8/21/2025,Patternity Leave,Booked in HR system
+Alexandru Tarcan,Alexandru.Tarcan@endava.com,7/9/2025,7/11/2025,Patternity Leave,Follow-up required
+Razvan Azoitei,Razvan.Azoitei@endava.com,7/11/2025,7/12/2025,Unpaid Leave,Follow-up required
+Razvan Azoitei,Razvan.Azoitei@endava.com,6/30/2025,6/30/2025,Special Leave Adoption,Family emergency
+Ioan Agape,Ioan.Agape@endava.com,8/20/2025,8/21/2025,Childcare Leave,Booked in HR system
+Ioan Agape,Ioan.Agape@endava.com,8/7/2025,8/9/2025,Childcare Leave,Family emergency
+Mihnea Amihailesei,Mihnea.Amihailesei@endava.com,7/20/2025,7/21/2025,Medical Leave,Medical certificate attached
+Mihnea Amihailesei,Mihnea.Amihailesei@endava.com,7/5/2025,7/6/2025,In Vitro Fertilization,Medical certificate attached
+Bianca Maria Lazar,Bianca-Maria.Lazar@endava.com,7/4/2025,7/4/2025,Maternity Leave,Medical certificate attached
+Bianca Maria Lazar,Bianca-Maria.Lazar@endava.com,8/18/2025,8/21/2025,Unpaid Leave,Family emergency
+Andrei Madalin Diaconu,Andrei-Madalin.Diaconu@endava.com,7/2/2025,7/3/2025,In Vitro Fertilization,Booked in HR system
+Andrei Madalin Diaconu,Andrei-Madalin.Diaconu@endava.com,8/15/2025,8/17/2025,In Vitro Fertilization,Pending confirmation
+Iustin-Mihai Stanciu,Iustin-Mihai.Stanciu@endava.com,6/7/2025,6/11/2025,TOIL Overtime Leave,Family emergency
+Iustin-Mihai Stanciu,Iustin-Mihai.Stanciu@endava.com,8/12/2025,8/13/2025,Special Leave,Follow-up required
+Andrei Andries,Andrei.Andries@endava.com,7/11/2025,7/11/2025,TOIL Overtime Leave,Approved by manager
+Andrei Andries,Andrei.Andries@endava.com,6/17/2025,6/21/2025,In Vitro Fertilization,Handled by backup colleague
+Vlad Cristian Brinzas,Vlad-Cristian.Brinzas@endava.com,6/23/2025,6/25/2025,Patternity Leave,Handled by backup colleague
+Vlad Cristian Brinzas,Vlad-Cristian.Brinzas@endava.com,7/11/2025,7/15/2025,In Vitro Fertilization,Handled by backup colleague
+Rodica Elena Rosca,Rodica-Elena.Rosca@endava.com,7/18/2025,7/20/2025,Medical Leave,Family emergency
+Rodica Elena Rosca,Rodica-Elena.Rosca@endava.com,8/25/2025,8/26/2025,Maternity Leave,Medical certificate attached
+Anca Vasilica Iacob,Anca-Vasilica.Iacob@endava.com,8/30/2025,9/3/2025,Patternity Leave,Approved by manager
+Anca Vasilica Iacob,Anca-Vasilica.Iacob@endava.com,8/7/2025,8/11/2025,TOIL Overtime Leave,Booked in HR system
+Mihai Maciuc,Mihai.Maciuc@endava.com,7/2/2025,7/6/2025,Unpaid Leave,Family emergency
+Mihai Maciuc,Mihai.Maciuc@endava.com,6/14/2025,6/18/2025,Special Leave Adoption,Approved by manager
+Vasile Tudorel Arion,Tudor.Arion@endava.com,7/23/2025,7/23/2025,Medical Leave,Approved by manager
+Vasile Tudorel Arion,Tudor.Arion@endava.com,7/16/2025,7/19/2025,Unpaid Leave,Approved by manager
+Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,8/3/2025,8/3/2025,TOIL Travel,Medical certificate attached
+Tudor Gabriel Pascaru,Tudor-Gabriel.Pascaru@endava.com,7/5/2025,7/6/2025,In Vitro Fertilization,Pending confirmation
+Mihnea Daniel Popescu,Mihnea-Daniel.Popescu@endava.com,8/17/2025,8/17/2025,Medical Leave,Family emergency
+Mihnea Daniel Popescu,Mihnea-Daniel.Popescu@endava.com,7/25/2025,7/27/2025,Special Leave,Handled by backup colleague
+George Eduard Achiriloaei,George-Eduard.Achiriloaei@endava.com,6/25/2025,6/25/2025,Medical Leave,Family emergency
+George Eduard Achiriloaei,George-Eduard.Achiriloaei@endava.com,7/12/2025,7/13/2025,Patternity Leave,Handled by backup colleague
+Angel David Palihovici,Angel-David.Palihovici@endava.com,6/19/2025,6/20/2025,Childcare Leave,Pending confirmation
+Angel David Palihovici,Angel-David.Palihovici@endava.com,6/25/2025,6/26/2025,Unpaid Leave,Family emergency
+Armin Andrei Chanchian,Armin-Andrei.Chanchian@endava.com,8/16/2025,8/18/2025,Special Leave Adoption,Follow-up required
+Armin Andrei Chanchian,Armin-Andrei.Chanchian@endava.com,6/24/2025,6/28/2025,Unpaid Leave,Booked in HR system
+Alexandru Burlica,Alexandru.Burlica@endava.com,6/23/2025,6/25/2025,In Vitro Fertilization,Handled by backup colleague
+Alexandru Burlica,Alexandru.Burlica@endava.com,8/28/2025,8/29/2025,TOIL Overtime Leave,Follow-up required
+Andrei Octavian Minca,Andrei-Octavian.Minca@endava.com,7/9/2025,7/13/2025,Maternity Leave,Follow-up required
+Andrei Octavian Minca,Andrei-Octavian.Minca@endava.com,8/16/2025,8/19/2025,TOIL Overtime Leave,Medical certificate attached
+Costina Vanghele,Costina.Vanghele@endava.com,8/17/2025,8/20/2025,TOIL Travel,Follow-up required
+Costina Vanghele,Costina.Vanghele@endava.com,7/20/2025,7/23/2025,TOIL Travel,Family emergency
+Adriana Maria Vadean,Adriana-Maria.Vadean@endava.com,8/24/2025,8/28/2025,TOIL Travel,Medical certificate attached
+Adriana Maria Vadean,Adriana-Maria.Vadean@endava.com,6/12/2025,6/13/2025,TOIL Overtime Leave,Handled by backup colleague
+Delia Tudor,Delia.Tudor@endava.com,6/17/2025,6/17/2025,Childcare Leave,Follow-up required
+Delia Tudor,Delia.Tudor@endava.com,8/13/2025,8/15/2025,Medical Leave,Follow-up required
+Vlad Baranceanu,Vlad.Baranceanu@endava.com,6/20/2025,6/22/2025,Unpaid Leave,Follow-up required
+Vlad Baranceanu,Vlad.Baranceanu@endava.com,6/7/2025,6/8/2025,Maternity Leave,Medical certificate attached
+Stefan Liute,Stefan.Liute@endava.com,8/25/2025,8/25/2025,Special Leave Adoption,Approved by manager
+Stefan Liute,Stefan.Liute@endava.com,8/13/2025,8/15/2025,Medical Leave,Follow-up required
+Sorin Cristian Miron,Sorin-Cristian.Miron@endava.com,8/5/2025,8/7/2025,Childcare Leave,Follow-up required
+Sorin Cristian Miron,Sorin-Cristian.Miron@endava.com,6/5/2025,6/8/2025,Patternity Leave,Family emergency
+Arthur Negosanu,Arthur.Negosanu@endava.com,8/29/2025,8/30/2025,In Vitro Fertilization,Handled by backup colleague
+Arthur Negosanu,Arthur.Negosanu@endava.com,7/29/2025,8/1/2025,TOIL Overtime Leave,Family emergency
+Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,7/20/2025,7/23/2025,Unpaid Leave,Approved by manager
+Tudor Mihai Iakkel,Tudor-Mihai.Iakkel@endava.com,8/19/2025,8/23/2025,Annual Leave,Approved by manager
+Luka Popovici,Luka.Popovici@endava.com,7/12/2025,7/14/2025,Special Leave,Pending confirmation
+Luka Popovici,Luka.Popovici@endava.com,6/9/2025,6/9/2025,TOIL Overtime Leave,Medical certificate attached
+Vasile Meghesan,Vasile.Meghesan@endava.com,7/9/2025,7/13/2025,Special Leave Adoption,Handled by backup colleague
+Vasile Meghesan,Vasile.Meghesan@endava.com,6/27/2025,6/28/2025,Special Leave,Approved by manager
+Andrei George Avram,Andrei-George.Avram@endava.com,6/5/2025,6/9/2025,In Vitro Fertilization,Pending confirmation
+Andrei George Avram,Andrei-George.Avram@endava.com,6/22/2025,6/23/2025,TOIL Overtime Leave,Booked in HR system
+Claudiu Marinescu,Claudiu.Marinescu@endava.com,8/13/2025,8/14/2025,Maternity Leave,Pending confirmation
+Claudiu Marinescu,Claudiu.Marinescu@endava.com,7/4/2025,7/7/2025,Special Leave Adoption,Booked in HR system
+Mirela-Magdalena Catrina,Mirela-Magdalena.Catrina@endava.com,6/30/2025,7/2/2025,Maternity Leave,Approved by manager
+Mirela-Magdalena Catrina,Mirela-Magdalena.Catrina@endava.com,8/26/2025,8/27/2025,TOIL Overtime Leave,Family emergency
+Catalin Festeu,Catalin.Festeu@endava.com,7/13/2025,7/16/2025,Patternity Leave,Pending confirmation
+Catalin Festeu,Catalin.Festeu@endava.com,7/8/2025,7/8/2025,In Vitro Fertilization,Booked in HR system
+Robert Fedus,Robert.Fedus@endava.com,8/16/2025,8/18/2025,In Vitro Fertilization,Family emergency
+Robert Fedus,Robert.Fedus@endava.com,6/6/2025,6/8/2025,Childcare Leave,Follow-up required
+Dragos Alexandru Ion,Dragos-Alexandru.Ion@endava.com,6/27/2025,7/1/2025,Annual Leave,Booked in HR system
+Dragos Alexandru Ion,Dragos-Alexandru.Ion@endava.com,7/30/2025,8/1/2025,In Vitro Fertilization,Handled by backup colleague
+Alexandru Catrinescu,Alexandru.Catrinescu@endava.com,7/26/2025,7/30/2025,Childcare Leave,Handled by backup colleague
+Alexandru Gabriel Cazan,Alexandru.Cazan@endava.com,8/26/2025,8/26/2025,Special Leave,Follow-up required
+Tudor Muntean,Tudor.Muntean@endava.com,8/12/2025,8/14/2025,Special Leave,Medical certificate attached
+Denisa Ibanescu,Denisa.Ibanescu@endava.com,8/15/2025,8/18/2025,Annual Leave,Follow-up required
+Luigi Emanuel Arama,Luigi-Emanuel.Arama@endava.com,8/18/2025,8/20/2025,TOIL Travel,Family emergency
+Radu Ioan Maris,Radu-Ioan.Maris@endava.com,7/28/2025,8/1/2025,Special Leave,Family emergency
+Vlad Marian Pitariu,Vlad-Marian.Pitariu@endava.com,6/3/2025,6/3/2025,TOIL Overtime Leave,Medical certificate attached
+Mozes Csaszar,Mozes.Csaszar@endava.com,7/9/2025,7/10/2025,Unpaid Leave,Follow-up required
+Petru Adelin Cojocaru,Petru-Adelin.Cojocaru@endava.com,7/30/2025,8/3/2025,Childcare Leave,Pending confirmation
+Dumitru Andrei Iroftei,Dumitru-Andrei.Iroftei@endava.com,6/4/2025,6/7/2025,Unpaid Leave,Approved by manager
+Madalina Birtu,Madalina.Birtu@endava.com,8/18/2025,8/22/2025,Childcare Leave,Booked in HR system
+Alexandru Cinipa,Alexandru.Cinipa@endava.com,6/2/2025,6/2/2025,Medical Leave,Pending confirmation
+Iuliana Elena Rusu,Iuliana-Elena.Rusu@endava.com,8/18/2025,8/22/2025,In Vitro Fertilization,Medical certificate attached
+Augustin Dumitru Sasu,Augustin-Dumitru.Sasu@endava.com,6/5/2025,6/6/2025,Maternity Leave,Medical certificate attached
+Irina Morosanu,Irina.Morosanu@endava.com,7/30/2025,8/3/2025,Unpaid Leave,Booked in HR system
+Alexandru Chelaru,Alexandru.Chelaru@endava.com,6/25/2025,6/29/2025,TOIL Overtime Leave,Follow-up required
+Denis-Alexandru Antonescu,Denis-Alexandru.Antonescu@endava.com,7/13/2025,7/16/2025,Patternity Leave,Pending confirmation
+Rares Gabriel Margarint,Rares-Gabriel.Margarint@endava.com,6/16/2025,6/16/2025,Unpaid Leave,Medical certificate attached
+Alexandru Pestritu,Alexandru.Pestritu@endava.com,7/17/2025,7/17/2025,Patternity Leave,Booked in HR system
+Oana-Maria Danciu,Oana-Maria.Danciu@endava.com,7/11/2025,7/12/2025,Annual Leave,Pending confirmation
+Mihai Cristian Tabarcea,Mihai-Cristian.Tabarcea@endava.com,6/6/2025,6/8/2025,Patternity Leave,Pending confirmation
+George Nicolae Botos,George-Nicolae.Botos@endava.com,7/19/2025,7/19/2025,In Vitro Fertilization,Follow-up required
+Paul Valentin Vela,Paul-Valentin.Vela@endava.com,6/23/2025,6/24/2025,Medical Leave,Approved by manager
+Veronica Caplea,Veronica.Caplea@endava.com,6/25/2025,6/28/2025,Annual Leave,Medical certificate attached
+Eduard Stefan Mariniuc,Eduard-Stefan.Mariniuc@endava.com,6/3/2025,6/5/2025,Annual Leave,Family emergency
+Andrei Bogdan Aluculesei,Andrei-Bogdan.Aluculesei@endava.com,7/13/2025,7/14/2025,In Vitro Fertilization,Approved by manager
+Cosmin Gabriel Petriuc,Cosmin-Gabriel.Petriuc@endava.com,6/21/2025,6/22/2025,Annual Leave,Medical certificate attached
+Darius Fratila,Darius.Fratila@endava.com,8/10/2025,8/14/2025,Annual Leave,Family emergency
+Alexandru Bardasu,Alexandru.Bardasu@endava.com,8/28/2025,8/31/2025,Medical Leave,Approved by manager
+Adrian Visan,Adrian.Visan@endava.com,8/2/2025,8/5/2025,Childcare Leave,Booked in HR system
+Stefan Tiberiu Paduraru,Stefan-Tiberiu.Paduraru@endava.com,7/3/2025,7/5/2025,Unpaid Leave,Booked in HR system
+Maria-Ioana Fuerea,Maria-Ioana.Fuerea@endava.com,7/31/2025,8/2/2025,Childcare Leave,Follow-up required
+Carmen-Gabriela Nadragea,Carmen-Gabriela.Nadragea@endava.com,7/10/2025,7/12/2025,Maternity Leave,Handled by backup colleague
+Alexandru Panainte,Alexandru.Panainte@endava.com,7/30/2025,8/3/2025,Special Leave Adoption,Follow-up required
+Alexandru Duta,Alexandru.Duta2@endava.com,7/21/2025,7/22/2025,Patternity Leave,Handled by backup colleague
+Sebastian Cristian Sleam,Sebastian-Cristian.Sleam@endava.com,6/20/2025,6/20/2025,Patternity Leave,Approved by manager
+Stefan Cotos,Stefan.Cotos@endava.com,8/19/2025,8/21/2025,Annual Leave,Follow-up required
+Andrei Alin Socoteala,Andrei-Alin.Socoteala@endava.com,7/10/2025,7/13/2025,TOIL Travel,Medical certificate attached
+Maria Madalina Olaru,Maria-Madalina.Olaru@endava.com,6/1/2025,6/3/2025,Patternity Leave,Follow-up required
+Alexandra Elena Pitaru,Alexandra-Elena.Pitaru@endava.com,8/25/2025,8/27/2025,TOIL Travel,Follow-up required
+Mihai-Alexandru Birziloiu,Mihai-Alexandru.Birziloiu@endava.com,6/20/2025,6/21/2025,Annual Leave,Family emergency
+Simona Boicu,Simona.Boicu@endava.com,7/30/2025,7/31/2025,TOIL Travel,Pending confirmation
+Bianca Anamaria Chiorean,Bianca-Anamaria.Chiorean@endava.com,6/30/2025,7/3/2025,Childcare Leave,Handled by backup colleague
+Filip Craciun,Filip.Craciun@endava.com,8/21/2025,8/25/2025,TOIL Travel,Approved by manager
+Robert Cristian,Robert.Cristian@endava.com,6/21/2025,6/25/2025,Maternity Leave,Handled by backup colleague
+Florin Nita,Florin.Nita@endava.com,7/10/2025,7/14/2025,Unpaid Leave,Family emergency
+Gabriel Firisar,Gabriel.Firisar@endava.com,6/12/2025,6/15/2025,Maternity Leave,Approved by manager
+Mariana Ionela Muntian,Mariana-Ionela.Muntian@endava.com,7/30/2025,7/30/2025,In Vitro Fertilization,Family emergency
+Huba Nemet,Huba.Nemet@endava.com,6/6/2025,6/8/2025,Maternity Leave,Pending confirmation
+Camelia Stoica,Camelia.Stoica@endava.com,8/23/2025,8/25/2025,Unpaid Leave,Medical certificate attached
+Andrei Tudor Mirza,Andrei-Tudor.Mirza@endava.com,6/29/2025,6/29/2025,TOIL Overtime Leave,Follow-up required
+Maria Mihaela Bradea,Maria-Mihaela.Bradea@endava.com,8/18/2025,8/19/2025,In Vitro Fertilization,Medical certificate attached
+Catalin Ursu,Catalin.Ursu@endava.com,8/21/2025,8/21/2025,Special Leave Adoption,Follow-up required
+Rares Alexandru Iancu,Rares-Alexandru.Iancu@endava.com,8/27/2025,8/28/2025,Childcare Leave,Family emergency
+Celia Ciurchil-Giurgiu,Celia.Ciurchil@endava.com,7/31/2025,8/4/2025,Special Leave Adoption,Follow-up required
+Iasmina Pagu,Iasmina-Andra.Pagu@endava.com,7/4/2025,7/6/2025,Unpaid Leave,Pending confirmation
+Andrei Tudor Grumazescu,Andrei-Tudor.Grumazescu@endava.com,6/13/2025,6/17/2025,In Vitro Fertilization,Follow-up required
+Alexandru Edves,Alexandru.Edves@endava.com,6/19/2025,6/19/2025,Patternity Leave,Pending confirmation
+Alexandru Zosin,Alexandru.Zosin@endava.com,8/8/2025,8/10/2025,Special Leave Adoption,Handled by backup colleague
+Denisa Lutic,Denisa.Lutic@endava.com,6/10/2025,6/11/2025,In Vitro Fertilization,Medical certificate attached
+Daniel Rosu,Daniel.Rosu@endava.com,6/8/2025,6/8/2025,Unpaid Leave,Handled by backup colleague
+Andrei Titus Pavel,andrei-titus.pavel@endava.com,6/28/2025,6/29/2025,Special Leave,Medical certificate attached
+Stefan Daniel Ionita,StefanDaniel.Ionita@endava.com,7/9/2025,7/10/2025,Unpaid Leave,Family emergency
+Miruna Curduman,Miruna.Curduman@endava.com,6/8/2025,6/12/2025,TOIL Travel,Follow-up required
+Daniela Maria Pascan,Daniela-Maria.Pascan@endava.com,6/5/2025,6/8/2025,Special Leave,Follow-up required
+Diana Cristina Mocan,Diana-Cristina.Mocan@endava.com,7/15/2025,7/18/2025,Childcare Leave,Approved by manager
+Ioana Alexa,Ioana.Alexa@endava.com,6/20/2025,6/21/2025,Special Leave Adoption,Medical certificate attached
+Bogdan Ionut Tibuleac,Bogdan-Ionut.Tibuleac@endava.com,6/13/2025,6/17/2025,In Vitro Fertilization,Approved by manager
+Sabin Chirila,Sabin.Chirila@endava.com,8/20/2025,8/22/2025,TOIL Travel,Booked in HR system
+Ruben Daniel Pasca,Ruben-Daniel.Pasca@endava.com,6/6/2025,6/9/2025,Special Leave,Follow-up required
+Sanda Dobrenco,Sanda.Dobrenco@endava.com,6/24/2025,6/27/2025,Patternity Leave,Follow-up required
+Emma Simina Muresan,Emma-Simina.Muresan@endava.com,7/3/2025,7/6/2025,Special Leave Adoption,Family emergency
+Rares Agachi,Rares.Agachi@endava.com,6/6/2025,6/10/2025,Patternity Leave,Follow-up required
+Tudor Mihai,Tudor.Mihai@endava.com,8/21/2025,8/25/2025,In Vitro Fertilization,Medical certificate attached
+Tiberiu Rabi,Tiberiu.Rabi@endava.com,7/14/2025,7/16/2025,Maternity Leave,Approved by manager
+Gabriel Alexandru Nedelcu,Gabriel-Alexandru.Nedelcu@endava.com,7/4/2025,7/5/2025,TOIL Overtime Leave,Handled by backup colleague
+Mihaly Richard Teutsch,Mihaly-Richard.Teutsch@endava.com,6/30/2025,7/4/2025,Medical Leave,Handled by backup colleague
+Daria Lupu Dima,Daria.Lupu@endava.com,7/5/2025,7/6/2025,Annual Leave,Follow-up required
+Alice Tache,Alice.Tache@endava.com,8/13/2025,8/15/2025,TOIL Overtime Leave,Family emergency
+Timotei Cristian Morar,Timotei-Cristian.Morar@endava.com,8/11/2025,8/12/2025,Maternity Leave,Handled by backup colleague
+Octavian Cojocariu,Octavian.Cojocariu@endava.com,6/11/2025,6/15/2025,Maternity Leave,Follow-up required
+George Patrasc,George.Patrasc@endava.com,8/11/2025,8/11/2025,Medical Leave,Handled by backup colleague
+Cosmin-Nicusor Brumariu,Cosmin-Nicusor.Brumariu@endava.com,8/17/2025,8/20/2025,Medical Leave,Booked in HR system
+Robert Catalin Franciuc,Robert-Catalin.Franciuc@endava.com,6/9/2025,6/12/2025,Special Leave,Pending confirmation
+Matei Micu,Matei-Mihai.Micu@endava.com,6/11/2025,6/12/2025,Patternity Leave,Approved by manager
+Cristiana Ioana Apastinei,Cristiana-Ioana.Apastinei@endava.com,6/25/2025,6/28/2025,Annual Leave,Pending confirmation
+Tiberiu Gabriel Suditu,Tiberiu-Gabriel.Suditu@endava.com,6/1/2025,6/1/2025,Maternity Leave,Pending confirmation
+Virgil Cimpean,Virgil.Cimpean@endava.com,7/9/2025,7/11/2025,Special Leave,Family emergency
+Nicolae Vasile Veciunca,Nicolae-Vasile.Veciunca@endava.com,7/11/2025,7/14/2025,Unpaid Leave,Medical certificate attached
+Stefan-Daniel Ochian,Stefan-Daniel.Ochian@endava.com,8/10/2025,8/12/2025,Unpaid Leave,Handled by backup colleague
+Flora Balogh,Flora.Balogh@endava.com,6/12/2025,6/15/2025,TOIL Travel,Follow-up required
+Iulius Stefan Ambros,Iulius-Stefan.Ambros@endava.com,6/27/2025,6/30/2025,Childcare Leave,Family emergency
+Matei Tatar,Matei.Tatar@endava.com,8/11/2025,8/12/2025,Patternity Leave,Family emergency
+Eduard George Stan,Eduard-George.Stan@endava.com,7/14/2025,7/17/2025,Annual Leave,Handled by backup colleague
+Mihai Alexandru Militaru,Mihai-Alexandru.Militaru@endava.com,6/14/2025,6/15/2025,In Vitro Fertilization,Booked in HR system
+Adina Denisa Horj,Adina-Denisa.Horj@endava.com,7/25/2025,7/28/2025,Childcare Leave,Handled by backup colleague
+Cristian Ghiuta,Cristian.Ghiuta@endava.com,7/4/2025,7/4/2025,Unpaid Leave,Follow-up required
+Iuliana Raluca Butnariu,Iuliana-Raluca.Butnariu@endava.com,6/13/2025,6/16/2025,Childcare Leave,Pending confirmation
+Razvan Petru Leonte,Razvan-Petru.Leonte@endava.com,6/18/2025,6/21/2025,Special Leave,Follow-up required
+Daniel Antoniu Dumitru,Daniel-Antoniu.Dumitru@endava.com,6/20/2025,6/23/2025,Patternity Leave,Booked in HR system
+Silviu Vasilica Luta,Silviu-Vasilica.Luta@endava.com,7/25/2025,7/28/2025,TOIL Overtime Leave,Medical certificate attached
+Sergiu Ungureanu,Sergiu.Ungureanu2@endava.com,7/28/2025,7/31/2025,Unpaid Leave,Booked in HR system
+Daria Alexia Irimie,Daria-Alexia.Irimie@endava.com,6/1/2025,6/2/2025,Maternity Leave,Follow-up required
+Ariana Casandra Olaru,Ariana-Casandra.Olaru@endava.com,7/20/2025,7/24/2025,Childcare Leave,Follow-up required
+Rita Timea Torok,Rita-Timea.Torok@endava.com,6/1/2025,6/1/2025,Annual Leave,Handled by backup colleague
+Alexandru Munteanu,Alexandru.Munteanu@endava.com,6/9/2025,6/13/2025,Medical Leave,Handled by backup colleague
+Bianca Popescu,Bianca.Popescu@endava.com,7/27/2025,7/27/2025,In Vitro Fertilization,Medical certificate attached
+Robert-Cosmin Tudorache,Robert-Cosmin.Tudorache@endava.com,8/20/2025,8/21/2025,TOIL Overtime Leave,Follow-up required
+Cosmin Carp,Cosmin.Carp@endava.com,6/30/2025,7/3/2025,Maternity Leave,Pending confirmation
+Iulia Olivia Cipleu,Iulia-Olivia.Cipleu@endava.com,7/12/2025,7/16/2025,TOIL Travel,Booked in HR system
+Laura Rusanescu,Laura.Rusanescu@endava.com,8/17/2025,8/21/2025,Special Leave,Pending confirmation
+Darius Margarit,Darius.Margarit@endava.com,7/20/2025,7/23/2025,Unpaid Leave,Medical certificate attached
+Ioan Sebastian Muresan,Ioan-Sebastian.Muresan@endava.com,7/2/2025,7/5/2025,Patternity Leave,Pending confirmation
+Patricia Costras,Patricia.Costras@endava.com,8/13/2025,8/13/2025,Childcare Leave,Pending confirmation
+Anca Elena Ilie,Anca-Elena.Ilie@endava.com,8/7/2025,8/10/2025,Medical Leave,Medical certificate attached
+Theodor Cristian Gheorghe,Theodor-Cristian.Gheorghe@endava.com,8/8/2025,8/11/2025,Annual Leave,Approved by manager
+Andrei Mihnea,Andrei.Mihnea@endava.com,7/5/2025,7/5/2025,Medical Leave,Pending confirmation
+Rafael Andries,Rafael.Andries@endava.com,6/29/2025,6/29/2025,Special Leave,Follow-up required
+Bogdan Gargu,Bogdan.Gargu@endava.com,8/29/2025,8/30/2025,Childcare Leave,Medical certificate attached
+Ioana Alexia Popa,Ioana-Alexia.Popa@endava.com,6/19/2025,6/20/2025,Patternity Leave,Approved by manager
+Andrei Vataselu,Andrei.Vataselu@endava.com,7/5/2025,7/6/2025,TOIL Overtime Leave,Family emergency
+Eric Marian Dascalu,Eric-Marian.Dascalu@endava.com,8/2/2025,8/4/2025,Maternity Leave,Handled by backup colleague
+Alexandra Zamfir,Alexandra.Zamfir@endava.com,8/11/2025,8/12/2025,Maternity Leave,Booked in HR system
+Alexandru Topan-Farcau,Alexandru.Topan@endava.com,8/29/2025,8/29/2025,Childcare Leave,Pending confirmation
+Alexandru Mirea,Alexandru.Mirea@endava.com,8/30/2025,8/30/2025,Special Leave,Approved by manager
+Gabriela Miruna Stan,Gabriela-Miruna.Stan@endava.com,6/9/2025,6/11/2025,Patternity Leave,Medical certificate attached
+Denisa Elena Stolniceanu,Denisa-Elena.Stolniceanu@endava.com,7/6/2025,7/8/2025,Special Leave Adoption,Medical certificate attached
+Patric Caliman,Patric.Caliman@endava.com,6/15/2025,6/15/2025,Childcare Leave,Approved by manager
+Darius Dinu,Darius.Dinu@endava.com,7/3/2025,7/3/2025,Special Leave,Follow-up required
+Razvan Dumitru,Razvan.Dumitru@endava.com,6/28/2025,7/1/2025,Patternity Leave,Family emergency
+Andreea Grecu,Andreea.Grecu2@endava.com,6/29/2025,6/29/2025,Maternity Leave,Approved by manager
+Catalin George Adrian Otet,Catalin-George-Adrian.Otet@endava.com,6/1/2025,6/5/2025,Special Leave,Medical certificate attached
+Rares Anton Brezeanu,Rares-Anton.Brezeanu@endava.com,6/15/2025,6/15/2025,Childcare Leave,Approved by manager
+George-Catalin Ghiold,George-Catalin.Ghiold@endava.com,8/30/2025,9/2/2025,Medical Leave,Booked in HR system
+Lavinia Avram,Lavinia.Avram@endava.com,6/11/2025,6/12/2025,Annual Leave,Booked in HR system
+Daniel Rotaru,Daniel.Rotaru@endava.com,7/31/2025,8/1/2025,Patternity Leave,Pending confirmation
+Alina Trincu,Alina.Trincu@endava.com,8/26/2025,8/29/2025,In Vitro Fertilization,Pending confirmation
+Bogdan Vasile Spilevoi,Bogdan-Vasile.Spilevoi@endava.com,6/29/2025,7/3/2025,Unpaid Leave,Handled by backup colleague
+Rares Stefan Cazan,Rares-Stefan.Cazan@endava.com,8/12/2025,8/15/2025,TOIL Overtime Leave,Booked in HR system
+Lorena Maria Buzea,Lorena-Maria.Buzea@endava.com,6/26/2025,6/27/2025,In Vitro Fertilization,Booked in HR system
+David Serban,David.Serban@endava.com,8/6/2025,8/9/2025,TOIL Travel,Approved by manager
+Alexandru Marian Armanu,Alexandru-Marian.Armanu@endava.com,8/15/2025,8/19/2025,Patternity Leave,Approved by manager
+Vlad Ioan Durdeu,Vlad-Ioan.Durdeu@endava.com,7/22/2025,7/26/2025,Childcare Leave,Booked in HR system
+Denis-Mihai Mateas,Denis-Mihai.Mateas@endava.com,6/10/2025,6/14/2025,Medical Leave,Family emergency
+Robert-Viorel Lazarov,Robert-Viorel.Lazarov@endava.com,8/11/2025,8/13/2025,Annual Leave,Approved by manager
+Adrian Matean,Adrian.Matean@endava.com,7/14/2025,7/18/2025,Medical Leave,Approved by manager
+Adelin Andrei Fulop,Adelin-Andrei.Fulop@endava.com,6/19/2025,6/19/2025,Special Leave,Medical certificate attached
+Stefan Stescu,Stefan.Stescu@endava.com,7/31/2025,7/31/2025,In Vitro Fertilization,Family emergency
+Valentin Alexe,Valentin.Alexe@endava.com,6/21/2025,6/21/2025,Childcare Leave,Booked in HR system
+Stefania Diana Stirbu,Stefania-Diana.Stirbu@endava.com,7/13/2025,7/15/2025,Annual Leave,Follow-up required
+Ciprian Serbu,Ciprian.Serbu@endava.com,6/6/2025,6/8/2025,Maternity Leave,Approved by manager
+Mihai Alexandru Ionel,Mihai-Alexandru.Ionel@endava.com,7/20/2025,7/22/2025,TOIL Overtime Leave,Approved by manager
+Ionut Vlad Cira,Ionut-Vlad.Cira@endava.com,6/11/2025,6/14/2025,Unpaid Leave,Booked in HR system
+Serafim Uliuliuc,Serafim.Uliuliuc@endava.com,7/27/2025,7/30/2025,Childcare Leave,Medical certificate attached
+Maria Iulia Zdrenghea,Maria-Iulia.Zdrenghea@endava.com,8/10/2025,8/13/2025,Special Leave Adoption,Handled by backup colleague
+Madalina Demian,Madalina.Demian@endava.com,7/10/2025,7/14/2025,Annual Leave,Booked in HR system
+Constantin Voicu,Constantin.Voicu@endava.com,7/16/2025,7/17/2025,In Vitro Fertilization,Approved by manager
+Gabriela-Sidonia Ciontolac,Gabriela-Sidonia.Ciontolac@endava.com,7/29/2025,7/30/2025,Special Leave Adoption,Approved by manager
+Cerasela Nicola Soare,Cerasela-Nicola.Soare@endava.com,6/23/2025,6/25/2025,Special Leave,Pending confirmation
+Alexandru Zagan,Alexandru.Zagan@endava.com,6/20/2025,6/20/2025,Unpaid Leave,Handled by backup colleague
+Manuel Lazar,Manuel.Lazar@endava.com,8/23/2025,8/27/2025,Unpaid Leave,Medical certificate attached
+Andrei Ionascu,Andrei.Ionascu@endava.com,6/2/2025,6/3/2025,Unpaid Leave,Medical certificate attached
+Dragos Ionut Talaba,Dragos-Ionut.Talaba@endava.com,6/22/2025,6/26/2025,Childcare Leave,Medical certificate attached
+Octavian Paul Ilies,Octavian-Paul.Ilies@endava.com,6/17/2025,6/19/2025,Unpaid Leave,Booked in HR system
+Andrada Maria Tinta,Andrada-Maria.Tinta@endava.com,8/6/2025,8/10/2025,Childcare Leave,Approved by manager
+Alexandru Serban,Alexandru.Serban2@endava.com,6/6/2025,6/10/2025,Special Leave,Medical certificate attached
+Robert Negre,Robert.Negre@endava.com,6/6/2025,6/10/2025,Unpaid Leave,Approved by manager
+Alexandra Simona Danca,Alexandra-Simona.Danca@endava.com,7/11/2025,7/15/2025,Unpaid Leave,Booked in HR system
+Vlad Muresan,Vlad.Muresan3@endava.com,8/14/2025,8/18/2025,TOIL Travel,Booked in HR system
+Laszlo Carlos Fodor,Laszlo-Carlos.Fodor@endava.com,8/4/2025,8/5/2025,TOIL Travel,Family emergency
+Stefan Nicolae Gheorghiu,Stefan-Nicolae.Gheorghiu@endava.com,8/22/2025,8/26/2025,TOIL Overtime Leave,Medical certificate attached
+Alexandru Mihai Matei,Alexandru-Mihai.Matei@endava.com,7/14/2025,7/16/2025,TOIL Overtime Leave,Approved by manager
+Robert Erno Eminovici,Robert-Erno.Eminovici@endava.com,8/27/2025,8/30/2025,Unpaid Leave,Pending confirmation
+Mihai Negrea,Mihai.Negrea@endava.com,6/15/2025,6/17/2025,Annual Leave,Pending confirmation
+Ferdinand Alexandru Cabat,Ferdinand-Alexandru.Cabat@endava.com,8/1/2025,8/4/2025,Annual Leave,Handled by backup colleague
+Sebastian Ionel Filipovici,Sebastian-Ionel.Filipovici@endava.com,8/22/2025,8/25/2025,Patternity Leave,Handled by backup colleague
+Denis Ivan,Denis.Ivan@endava.com,6/9/2025,6/11/2025,In Vitro Fertilization,Pending confirmation
+Andrei L Popovici,Andrei.Popovici2@endava.com,8/1/2025,8/3/2025,TOIL Overtime Leave,Approved by manager
+David Postolea,David.Postolea@endava.com,8/9/2025,8/13/2025,Special Leave,Medical certificate attached
+Daria Craciun,Daria.Craciun@endava.com,8/21/2025,8/25/2025,Annual Leave,Approved by manager
+Alessia-Elena Rados,Alessia-Elena.Rados@endava.com,6/12/2025,6/14/2025,TOIL Overtime Leave,Handled by backup colleague
+Andrei Margelatu,Andrei.Margelatu@endava.com,6/14/2025,6/14/2025,Special Leave,Handled by backup colleague
+Alexandru Baba,Alexandru.Baba@endava.com,7/2/2025,7/2/2025,Patternity Leave,Follow-up required
+Emanuel Luculescu,Emanuel.Luculescu@endava.com,6/7/2025,6/9/2025,Medical Leave,Handled by backup colleague
+Alin Constantin Florescu,Alin-Constantin.Florescu@endava.com,7/16/2025,7/18/2025,Medical Leave,Pending confirmation
+Tudor Leonte,Tudor.Leonte@endava.com,6/28/2025,6/30/2025,Special Leave,Pending confirmation
+Robert Alexandru Badea,Robert-Alexandru.Badea@endava.com,8/26/2025,8/29/2025,Special Leave,Handled by backup colleague
+Marcos Dimitris Fetcu,Marcos-Dimitris.Fetcu@endava.com,6/18/2025,6/22/2025,In Vitro Fertilization,Handled by backup colleague
+Silviu Mihail Pavel,Silviu-Mihail.Pavel@endava.com,8/17/2025,8/19/2025,Patternity Leave,Approved by manager
+Mihnea-Alexandru Pele,Mihnea-Alexandru.Pele@endava.com,6/19/2025,6/19/2025,Special Leave,Medical certificate attached
+Lucian Vatamanu,Lucian.Vatamanu@endava.com,7/26/2025,7/28/2025,Unpaid Leave,Family emergency
+Madalina Daiana Gligan,Madalina-Daiana.Gligan@endava.com,7/19/2025,7/22/2025,Special Leave Adoption,Follow-up required
+Teodor Badarcea,Teodor.Badarcea@endava.com,7/2/2025,7/2/2025,Unpaid Leave,Medical certificate attached
+Polina Ciumac,Polina.Ciumac@endava.com,8/12/2025,8/16/2025,Patternity Leave,Family emergency
+Vlad Cojocaru,Vlad.Cojocaru@endava.com,7/26/2025,7/29/2025,TOIL Overtime Leave,Medical certificate attached
+Teodor Leahu,Teodor.Leahu@endava.com,7/20/2025,7/20/2025,Annual Leave,Follow-up required
+Raul Gabriel Chiorean,Raul-Gabriel.Chiorean@endava.com,8/5/2025,8/5/2025,Unpaid Leave,Handled by backup colleague
+Laura Andrada Ciobanu,Laura-Andrada.Ciobanu@endava.com,7/2/2025,7/5/2025,TOIL Travel,Follow-up required
+Felix Cosmin Orga,Felix-Cosmin.Orga@endava.com,6/26/2025,6/29/2025,In Vitro Fertilization,Booked in HR system
+Ana Stefania Serbanoiu,Ana-Stefania.Serbanoiu@endava.com,8/22/2025,8/22/2025,Unpaid Leave,Handled by backup colleague
+Maria Camelia Raicu,Maria-Camelia.Raicu@endava.com,8/14/2025,8/14/2025,In Vitro Fertilization,Approved by manager
+Ionut Birsan,Ionut.Birsan@endava.com,8/19/2025,8/21/2025,In Vitro Fertilization,Pending confirmation
+Raluca Roiban,Raluca.Roiban@endava.com,7/11/2025,7/12/2025,Unpaid Leave,Medical certificate attached
+Cornelia Cojocari,Cornelia.Cojocari@endava.com,6/19/2025,6/19/2025,TOIL Travel,Approved by manager
+Andreea Marina Son,Andreea-Marina.Son@endava.com,7/23/2025,7/27/2025,TOIL Travel,Follow-up required

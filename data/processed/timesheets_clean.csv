@@ -1,0 +1,7 @@
+employee_id,activity_date,activity_category,activity_type,project_id,project_name,title,hours
+100,2026-06-03,TIMESHEET,IN OFFICE,1,ERP Implementation,,8
+100,2026-06-04,TIMESHEET,REMOTE,2,Mobile App Development,,6
+100,2026-06-05,TIMESHEET,IN OFFICE,1,ERP Implementation,,8
+101,2026-06-03,TIMESHEET,REMOTE,2,Mobile App Development,,7
+101,2026-06-06,TIMESHEET,LEAVE,2,Mobile App Development,,8
+102,2026-06-03,TIMESHEET,IN OFFICE,4,Cloud Optimization,,5
